@@ -1,0 +1,21 @@
+Name,Email,Mobile,Category,City,Address,State
+siri siri,siri_bujji82@yahoo.com,9908658007,IT-Software,Anantapur,A.Sirisha D/N0 26/92 Old Town Near One town Police station Anantapur,ANDHRA PRADESH
+PadmanabhaiahS,s.padmanabha85@gmail.com,9704054347,Educational/Training,Anantapur,,ANDHRA PRADESH
+ravi kumar,nrkumar27@gmail.com,9966645177,Others,Anantapur,"#3/272, Tapovanam, Anantapur - 515 001, AP, India",ANDHRA PRADESH
+madhusudhan magasani,m.madhu66@yahoo.com,9440287960,Engineering/Projects,Anantapur,"13-2-85, Shiridi Nagar Anantapur, Andhra Pradesh 515001",ANDHRA PRADESH
+Kamani Jagan Mohan Reddy,jaganmohan.kamani@gmail.com,9951295591,Insurance,Anantapur,"D. No. 13/1/654, Revenue Colony, ANANTAPUR- 515001.",ANDHRA PRADESH
+JANARDHANA,janardhana143@rediffmail.com,9948717676,Others,Anantapur,"KOMALI VILLAGE , JUTUR POST , TADPATRI MANDAL , ANANTHAPUR DIST .",ANDHRA PRADESH
+shiva kumar royal,kalvas_shiva@yahoo.co.in,9972312314,IT-Hardware/Networking,Anantapur,"anantapur dist,",ANDHRA PRADESH
+bandhanathamsandhya,contactbsandhya@yahoo.com,9908729429,Educational/Training,Anantapur,"D/o:B.Prakash, H.no:11/51, thogata street, dharmavaram, anatapur (dist).",ANDHRA PRADESH
+Bhavani Kavali,kavalibhavani@gmail.com,9885951029,Educational/Training,Anantapur,"k.Bhavani,d-no:12-4-592,obuldevnagar,anantapur,A.P,pin:515001.",ANDHRA PRADESH
+chand basha,chand_uuu@yahoo.co.in,9849785199,Banking,Anantapur,"S.CHAND BASHA #12-1-47, 6th cross, Sainagar, ANANTAPUR - 515001",ANDHRA PRADESH
+seshukrishnamurthy,seshu.green@gmail.com,9848699252,Financial Services/Stockbroking,Anantapur,"d.no.18-1-157, neeruganti street, old town, anantapur - 515001",ANDHRA PRADESH
+Sugali bukya LINGA MURTHY,murthy_sb_1264@yahoo.com,9246863181,Recruitment/Placement Agencies,Anantapur,DOOR NO:-11-1-339 aravinda nagar anantapur andhra pradesh-515001,ANDHRA PRADESH
+V Somasekhar,somuvasantham@gmail.com,9966047087,Educational/Training,Anantapur,"# 30-788,Teachers Colony ,Kothapet, Dharmavaram,Anantapur , ANDHRA PRADESH-515672 ,INDIA",ANDHRA PRADESH
+ASHOK REDDY,reddygashok@yahoo.com,9985129406,Educational/Training,Anantapur,T.N.PALLI(PO&VILL) TALUPULA(VIA) ANANTPUR(DIST) A.P,ANDHRA PRADESH
+Sasanka Boxi,s4sasanka@in.com,9908030368,Engineering/Projects,Anantapur,H.No Hyderabad - 500028 India,ANDHRA PRADESH
+parimala boya,parimala_b09@yahoo.com,9390259380,Educational/Training,Anantapur,,ANDHRA PRADESH
+NaveenKiran,naveen_nj@yahoo.co.in,9849873030,Automobiles/Auto Component/Auto Ancillary,Anantapur,"S.Naveen Kiran, D.No.17/702, Neeruganti Street, Old Town, Ananatapur-515001. (Andhra Pradesh)",ANDHRA PRADESH
+Neelimareddy,neelimareddymba@gmail.com,9291951860,IT-Software,Anantapur,"11-953-1, I line,II-CROSS,ARAVIND NAGAR Anantapur ANDHRA PRADESH 515001 India",ANDHRA PRADESH
+K naga sandeep Reddy,ptpdeepu@gmail.com,9703429403,Others,Anantapur,H.No.1-712/B Anantapur ANDHRA PRADESH 515001 India,ANDHRA PRADESH
+jagadeesh babu,jagadeesh913762@gmail.com,9989265431,IT-Software,Anantapur,"b.jagadeesh, s/o b.sreeramulu, yerragunta palli,tadiptri,ananthapur",ANDHRA PRADESH

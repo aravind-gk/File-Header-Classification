@@ -1,0 +1,21 @@
+Name,Email,Mobile,Category,City,Address,State
+kamal pal singhdhillon,mintudhillon7@yahoo.com,9878053666,"Defence, Logistics/Freight Forward/Distribution/Courier, Warehousing",Batala,"KAMAL PAL SINGH DHILLON H.No- B-VIII-189, Prem Nagar(D.B.N. Road), Batala, Distt- Gurdaspur, Punjab",PUNJAB
+SIMARDEEP,simardeepchawla@yahoo.com,9855256257,Logistics/Freight Forward/Distribution/Courier,Faridkot,"168- STREET NO.2, GURU NANAK COLONY, FARIDKOT, PUNJAB, INDIA - 151 203",PUNJAB
+vinay bhatia,vinay.bhatia_25@rediffmail.com,9818107828,Logistics/Freight Forward/Distribution/Courier,Faridkot,"H.No. B-29 Old Power House Colony, Faridabad.",PUNJAB
+Vijay Singh,vijas_2000@indiatimes.com,9871089160,Logistics/Freight Forward/Distribution/Courier,Faridkot,",H. No. 247, vijay Nagar, Uttam Nagar, New Delhi-110059",PUNJAB
+Devinder Pathak,devinderpathak@gmail.com,9855577736,Logistics/Freight Forward/Distribution/Courier,Fatehgarh Sahib,"C/o Mr. Suresh Sharma, # 55 B, Model Town, Samrala Road, Khanna, Pin 141401 Punjab - INDIA",PUNJAB
+Varun Rohit,ursrohit1983@yahoo.com,9815414878,Logistics/Freight Forward/Distribution/Courier,Jalandhar,"139,Ashirwad Colony,Kolar Road,Bhopal,Madhya Pradesh,INDIA",PUNJAB
+VINOD SHARMA,vinod_sharma677@yahoo.com,9988934944,Logistics/Freight Forward/Distribution/Courier,Jalandhar,695 guru gobind singh avenue jalandhar,PUNJAB
+VinodSharma,vsharma186@gmail.com,9814941832,Logistics/Freight Forward/Distribution/Courier,Jalandhar,695 guru gobind singh avenue chougetty by pass jalandhar city,PUNJAB
+ARUNNANDAL,nandal.arun@gmail.com,9958598560,"Logistics/Freight Forward/Distribution/Courier, Retailing, Warehousing",Jalandhar,"H.NO-1269-G, SECTOR-39-B, CHANDIGARH -160026",PUNJAB
+JAMESON MENEZES,jameson7636@yahoo.co.in,9888897636,Logistics/Freight Forward/Distribution/Courier,Jalandhar,"676, PHASE I, URBAN ESTATE, JALANDHAR 144022",PUNJAB
+RAJIV KUMAR TIWARI,rajiv_dhn@rediffmail.com,9464962094,Logistics/Freight Forward/Distribution/Courier,Jalandhar,227/1 urban Estate Phase-1 JALANDHAR 144001,PUNJAB
+NIRANJAN KUMAR,nirayy21retail@gmail.com,9988543052,"Defence, Logistics/Freight Forward/Distribution/Courier",Jalandhar,"# 28, K 1 Colony Sindri Dhanbad 828 122 India",PUNJAB
+RAVI ANAND,vanbasu@hotmail.com,9888079007,"Accounting-Tax/Consulting, Banking, Logistics/Freight Forward/Distribution/Courier",Jalandhar,"H.NO 19, NEW SUBHASH NAGAR MAQUSUDAN, NANDANPUR ROAD",PUNJAB
+kumarrajinder,rajindrahappy@hotmail.com,9878484337,"Export/Import/Merchandising, Logistics/Freight Forward/Distribution/Courier, Manufacturing/Industrial",Jalandhar,VILL ALAMGIR PO KALA BAKRA DIST JALANDHAR (PUNJAB)PIN 144303 INDIA FOR DUBAI PH 0097150-8842989,PUNJAB
+DHANNA SINGH,dhanna_lg_cf@yahoo.co.in,9780041320,Logistics/Freight Forward/Distribution/Courier,Jalandhar,DHANNA SINGH V.P.O. MAKHA TEHSIL & DISTT MANSA(PUNJAB),PUNJAB
+satishkumar,sharma.satish26@yahoo.com,9878007055,"Logistics/Freight Forward/Distribution/Courier, Warehousing",Jalandhar,"village-Jandla,P.o-Daroli, Distt-Ropar (PB), Pin Code-140123 contact No .9878007055(PB)",PUNJAB
+sunil sharma,sunil_kanchi@yahoo.co.in,9888957266,Logistics/Freight Forward/Distribution/Courier,Jalandhar,s-106 sodhal ind area jalandhar city,PUNJAB
+MITTU JATINDER,jittu_mittu@yahoo.co.in,9855238388,Logistics/Freight Forward/Distribution/Courier,Jalandhar,"LAMBA BAZAR , NURMAHAL ( JALANDHAR ) PUNJAB INDIA",PUNJAB
+SIKANDERSIDHU,sikandersidhuqju@yahoo.co.in,9876222226,Logistics/Freight Forward/Distribution/Courier,Jalandhar,"SIKANDER SIDHU HOUSE NO 75 A/3 , GARDEN COLONY, JALANDHAR 144001",PUNJAB
+suyogmuthanna,oshokumar@hotmail.com,9888000620,"Logistics/Freight Forward/Distribution/Courier, Security/Law Enforcement",Jalandhar,"-33,windsor park,gulab devi road jalandhar PUNJAB 144008 India",PUNJAB

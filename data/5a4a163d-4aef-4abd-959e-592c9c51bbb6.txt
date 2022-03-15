@@ -1,0 +1,21 @@
+name,email,mobile,category,address,city
+SANKHALA,chetansankhala@gmail.com,9829041787,Production/Manufacturing/Maintenance,"B-27, VIDYADHAR NAGAR JAIPUR RAJ. -302023",Jisalmer 
+basantgahtori,gahtori.basant@rediffmail.com,9929713259,Civil,"c/o Gammon India Ltd., 209, Indira Colony , Jaisalmer Rajasthan Pin 345001",Jisalmer 
+dinesh singh,dineshsingh16@rediffmail.com,9816378743,Other Oil & Gas,dinesh singh dadwal vill upper pragpur po pragpur teh dehra distt kangra (HP) 177107,Jisalmer 
+gauravjain,er_gaurav0809@yahoo.co.in,9983302793,"Engineering, Production/Manufacturing/Maintenance, Service/Maintenance/Repair","5/99,Rati Talai,Banswara (Rajasthan)",Jisalmer 
+GaneshKumar,gansh.01@gmail.com,9799781044,Direct/Commission Sales,CIVIL LINE HOUSE NO_I B 16 Sri Ganganagar (Raj.)335001,Jisalmer 
+Mahendra Chhipa,kumarjaisalmer@gmail.com,9509122661,"Account Services, Operations, Shift Supervision",Khatri Mohalla Jaisalmer RAJASTHAN 345001 India,Jisalmer 
+Mayankmathur,minu_mathur@yahoo.com,9351353506,Others,,Jisalmer 
+OM PRAKASHYADAV,omprakashyadav404@yahoo.co.in,9799241306,Training & Development,OM PRAKASHYADAV ADSO 265 SU AIR FORCE STATION JAISALMER (RAJ),Jisalmer 
+PRAMOD PAWAR,pramodpawar39@yahoo.com,9929972773,"Electrical/Electronic, HVAC, Operations","Suzlon Infrastructure Services LTD, B/3 Paota B Road JASOL House, Jodhpur, Rajasthan",Jisalmer 
+ashishgumber,ashish_gumber2003@yahoo.com,9414903893,Housekeeping,newdhan mandi.shop no 22b.hanumangarh town.rajasthan,Jisalmer 
+chandrasekhar reddy,csrreddy2008@hotmail.com,9983302792,"Electrical/Electronic, Oil & Gas, Service/Maintenance/Repair","17,Baskarcolony,Near gita ashram, Jaisalmer,Rajastan State",Jisalmer 
+parimalnath,parimalnath07@yahoo.com,9001722115,Electrical/Electronic,parimal nath.p.o-hatiara.vill-sukantanagar.kolkata-59.w.b.,Jisalmer 
+RavindarChudasama,ravindar_chudasama@yahoo.com,9772470811,Front Office,Ravindar Chudasama C/o Anand Nagar Weather Radar Station Jaisalemr 345001 Rajasthan,Jisalmer 
+Sourabh Sourabh,siyajiya@yahoo.co.in,9929712404,"Administration, Other Security","Sourabh,Dy. Commandant, 84 BN. Border Security Force, Sam Road, Jaisalmer (Rajsthan)",Jisalmer 
+KAPIL SHARMA,kapilkiid@hotmail.co.uk,9772203851,"Electrical/Electronic, HVAC, Project Management",C/O Chagan lal malpani Jetha para Jaisalmer,Jisalmer 
+Rajpurohit RupSingh,rupsingh.rajpurohit@rediff.com,9829605249,"Civil, Quality Control",Rupsingh.rajpurohit S/O ManSingh.rajpurohit Vill - Hingola Post - chicharali District - Jodhpur RAJASTHAN,Jisalmer 
+dolly bhagwani,saur_dolly@rediffmail.com,9887206437,Ground Staff,basant vihar kota,Jisalmer 
+anillohar,aniljan26@gmail.com,9001278607,Plant Maintenance,"32,central area near awari mata temple ,udaipur(raj)",Jisalmer 
+M Bala Subramaniam,balawesley@gmail.com,9940221781,"Production, Oil & Gas, Mechanical, Production/Manufacturing/Maintenance, Plant Maintenance, Inventory Control/ Materials, Maintenance, Hydraulics, Press Shop, Service/Maintenance/Repair, Fire Protection","No. 38, South Gangai amman koil 1st Chennai TAMIL NADU 600094 India",Jisalmer 
+ummed singh bhati,ummed.na@hotmail.com,9928007071,Other Sales/BusDev,ummed singh bhati 23/273 chharidar para jaisalmer,Jisalmer 

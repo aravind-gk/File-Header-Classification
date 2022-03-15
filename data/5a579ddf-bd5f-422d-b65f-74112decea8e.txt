@@ -1,0 +1,21 @@
+ARDSLEY Purchase,,,,,
+25/05/2017,,,,,
+,,,,,
+,,,,,
+,, Dr , Cr ,,
+1400-0000,Land," 1,850,000.00 ",,,Purchase price
+1400-0000,Land, 350.00 ,,,Settlement/closing fee STL Title
+1400-0000,Land, 769.00 ,,,Owners Title Ins-All NY Title Agency Inc
+1400-0000,Land," 6,850.00 ",,,Owners Title Ins-All NY Title Agency Inc-PPL Policy
+1399-3683,Interco (recl from ENVAN),," 6,850.00 ",,Owners Title Ins-All NY Title Agency Inc-PPL Policy
+1400-0000,Land, 850.00 ,,,Search and Exam fee-All NY Title Agency
+1400-0000,Land, 385.00 ,,,Recording fee-STL Title
+1400-0000,Land, 75.44 ,,,Est Sales Tax-NY Title Agency Inc
+1400-0000,Land," 3,700.00 ",,,Transfer Tax - All NY Title Agency Inc
+1400-0000,Land," 4,700.00 ",,,Survey fee Paul Petretti
+1400-0000,Land," 3,500.00 ",,,Document review-First Enviromental#Inv#34383
+1399-3683,Interco (recl from ENVAN),," 3,500.00 ",,Document review-First Enviromental#Inv#34383
+1811-0000,County Tax RET," 29,791.05 ",,,Country Tax 5/25/17-12/31/17
+6505-0000,School Tax RET," 13,835.87 ",,,School Tax 5/25/17-6/30/17
+1165-0000,Earnest Money,," 50,000.00 ",,Earnest Money
+1020-1000,Cash-Enterprise,," 1,854,456.36 ",,

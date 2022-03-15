@@ -1,0 +1,21 @@
+name,mobile,locality
+Jethanand Chandlani,9829951521,Jawahar Nagar
+Naresh Kumar,9414079309,Jawahar Nagar
+Vijay Balani,9829144222,Jawahar Nagar
+Prem Prakash,9828044303,Jawahar Nagar
+Daljeet Singh,9887147986,Jawahar Nagar
+Sudhanshu,9414052138,Jawahar Nagar
+Rajesh Khandewal,9828554894,Jawahar Nagar
+Lakhraj Ji Naresh,9828162991,Jawahar Nagar
+Ramchandra Daswani,9414212864,Jawahar Nagar
+Vasuja,9414248381,Jawahar Nagar
+P K Jain,9314885960,Jawahar Nagar
+Tarun Sharma,9829054194,Jawahar Nagar
+Vijay Kumar Goyal,9314640888,Jawahar Nagar
+Vijay Parnami,9414078567,Jawahar Nagar
+Thakur Tahilani,9982909496,Jawahar Nagar
+Anil Kumar Wadhvani,9829558494,Jawahar Nagar
+Udai N Gupta,9314506501,Jawahar Nagar
+Shailesh Jain,9829619330,Jawahar Nagar
+Kishan Mittal,9829523349,Jawahar Nagar
+H K Rana,9829084773,Jawahar Nagar

@@ -1,0 +1,21 @@
+Name,Email,Mobile,Category,City,Address,State
+JOLLYJOSE,jolly.jmail@gmail.com,9765568861,"Apparel/Garments, Manufacturing/Industrial, Gems & Jewellery",Nagpur,"414, ""Mahima Apartment"", Hanuman Nagar Nagpur MAHARASHTRA 440009 IN",Nagpur
+Shireenlandge,shireen2005@gmail.com,9533790460,Apparel/Garments,Nagpur,"10-3-73/2, Dr.Murlidhar's dream villa, flat no 401, east marredpally, secunderabad-500026",Nagpur
+vinodsable,vinod.sable@gmail.com,9766183655,"Apparel/Garments, Agriculture/Forestry/Fishing, Export/Import/Merchandising",Nagpur,"s-5 ADWAIT APARTMENT, KALYAN NAGER, HINGANA ROAD, NAGPURi",Nagpur
+pravin chaure,pravinjyoti17@gmail.com,9860471837,Apparel/Garments,Nagpur,"shitalwadi,ramtek. post-k.k. nagar ta-ramtek dist-nagpur maharashtra state pin code-441106",Nagpur
+NITINGHUSHE,nitinghushe@gmail.com,9665036808,"Apparel/Garments, Fashion/Modelling, Gems & Jewellery, Retailing",Nagpur,,Nagpur
+shashikantpatole,shashikantpatole@rediffmail.com,9755290210,"Apparel/Garments, Manufacturing/Industrial, Gems & Jewellery",Nagpur,,Nagpur
+b shiva prasad,kick1u4up3@gmail.com,9477002687,Apparel/Garments,Nagpur,"c/o puranik, plt no. 136, gandhinagar, nagpur 440010",Nagpur
+gautamdubey,gautam_dubey2001@yahoo.com,9665300408,"Apparel/Garments, Manufacturing/Industrial, Gems & Jewellery",Nagpur,"8 , NEW VIVEKANAND COLONY, UNIVERSITY ROAD, THATIPUR , GWALIOR",Nagpur
+Rakesh Somkuwar,rakesh.somkuwar0@gmail.com,9011670678,"Apparel/Garments, Fashion/Modelling, Gems & Jewellery, Retailing",Nagpur,C/o Cpwd Qtr no.342/2 Nagpur Maharashtra India,Nagpur
+riteshnaidu,naidu_ritesh22@yahoo.co.in,9503613099,"Apparel/Garments, Fashion/Modelling, Gems & Jewellery, Consumer Durables/FMCG, Retailing",Nagpur,"P.K.SALVE STREET, BESIDE APOORVA APTS, MOHAN NAGAR, NAGPUR",Nagpur
+AchyutKholapurkar,achyut.k86@gmail.com,9096447798,"Apparel/Garments, Warehousing, Consumer Durables/FMCG, Export/Import/Merchandising",Nagpur,Nagpur MAHARASHTRA 440002 India,Nagpur
+LaxmikantDeshpande,lvd28@rediffmail.com,9767890622,"Apparel/Garments, Construction/Cement/Metal/Steel/Iron, Manufacturing/Industrial, Projects/Infrastructure/Power/Energy, Petroleum/Oil and Gas/Power",Nagpur,"State Bank Colony, Gopal Nagar, Nagpur -440022",Nagpur
+Pradeep kuSharma,pradeepkumars16@gmail.com,9977250777,"Apparel/Garments, Manufacturing/Industrial, Gems & Jewellery, Projects/Infrastructure/Power/Energy, Petroleum/Oil and Gas/Power",Nagpur,"63,GREATER VAISHALI,ANNPURNA ROAD NEAR RING ROAD JUNCTION INDORE (M.P.)",Nagpur
+PANKAJ STARAPURE,pankaj.raymond@gmail.com,9630926105,"Apparel/Garments, Manufacturing/Industrial",Nagpur,"C/o Smt. A. S. Tarapure, Type-II, Building. No. 9/129Govt. Quart",Nagpur
+SACHIN BHAT,sachink4301@gmail.com,9890504107,"Apparel/Garments, Manufacturing/Industrial, Projects/Infrastructure/Power/Energy, Petroleum/Oil and Gas/Power",Nagpur,"A 31, MIDC, Butibori Nagpur MAHARASHTRA India",Nagpur
+Deepali Gupta,enig_deep@yahoo.co.in,9329947229,"Apparel/Garments, Manufacturing/Industrial, Gems & Jewellery, Consumer Durables/FMCG",Nagpur,"D-46/2, R.RC.A.T Colony, Indore, M.P.",Nagpur
+NITIN NANDANWAR,amarthanitinnandanwar2003@gmail.com,9766691719,Apparel/Garments,Nagpur,"NITIN NANDANWAR C/O SUNIL PARATE, HOUSE NO 1, LINE NO1, TAJ NAGAR, BEHIND TUKDOJ SQ, NAGPUR",Nagpur
+Navneet Ambekar,navneet_ambekar@rediffmail.com,9766136166,"Apparel/Garments, Architecture/Interior Design, Automobiles/Auto Component/Auto Ancillary",Nagpur,"Lumbini nagar ward no. 3, Pulgaon, Tal-Deoli Dist-Wardha, state-Maharastra, pin-442302",Nagpur
+nitin selokar,nitin_selokar@rediffmail.com,9860762360,Apparel/Garments,Nagpur,"nitin n.selokar 102,vidya nagar, nagpurroad, Bhandara. pin:- 441904 maharashtra state.",Nagpur
+shiv shekatkar,s_rshekatkar@rediff.com,9881373221,Apparel/Garments,Nagpur,"shivram shekatkar 121,A-3,hemshushma apt. shivaji nagar, nagpur -440010",Nagpur

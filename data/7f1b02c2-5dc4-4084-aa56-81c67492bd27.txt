@@ -1,0 +1,21 @@
+FNAME,LNAME,ADDRESS,CITY,STATE,ZIPCODE,COUNTRY,EMAIL,PHONE
+claudio,castaldo,via ugo la malfa 3,gioia tauro,Reggio Calabria,89013,Italy,_damian_@web.de,3385461935
+michele,pizzulo,via cesta 70,vallesaccarda,italiano,83050,Italy,_dsquared@web.de,82797110
+io,io,roma,roma,,,Italy,_jann3@excite.com,622484490
+alessio,imperia,via agnesi 105,bovisio masciago,,20030,Italy,_pyccak_@mail.ru,3478356688
+marcello,ecca,via brabetza 12,villacidro,,9039,Italy,_what_4@yahoo.com,70343435
+filippo,caldarera,via massimo d ' azeglio n.158,torino,castellamonte,10081,Italy,00000785@libero.com,124581464
+pietro,colurcio,via ugo foscolo 19,pollena trocchia,napoli,80040,Italy,00nova@ofir.dk,818971386
+pietro,fraccapani,via 1 maggio 7,vimodrone,,20090,Italy,01.kenn@gmail.com,3341454954
+FLAVIA,DE ZULIANI,VIA AURLIA 1251,ROMA,,166,Italy,011@163.com,3394749449
+luigi,tagliabi,bonghi 21,milan,,20141,Italy,01271981@flashmail.com,33333333
+salvatore,tripoli,imbriani 52,campobello di mazara,sicilia,91021,Italy,015812354@telia.com,3333943807
+antoniio,dolgetta,via pioppazze 47,sarno,campania,84087,Italy,01797076498@o2online.de,3408542897
+Marco,Carrodano,Via monviso 15,La Spezia,,19123,Italy,0633140996@orange.fr,187705417
+Antonino,Giroldini,via don minzoni 245,Polesella,Rovigo,45038,Italy,0662826515@imode.fr,425947152
+Carlo,Merolla,via l.ariosto 2,cavola,,42010,Italy,0664917547@imode.fr,52294011
+samuele,casagrande moretti,via de gasperi 149,acqualagna,pesaro,61041,Italy,0682820192@wanadoo.fr,721799002
+mihaela,marculet,via s anna 17,ponte san pietro,bergamo,24036,Italy,06phil@wanadoo.fr,3280910511
+luca,della cristina,via varesina  116,lurate caccivio,como,22075,Italy,0832942434@mtnloaded.co.za,031-491511
+elisa,baracco,via luneo 56a,spinea,,30038,Italy,090364@cox.net,410998200
+stella maria,genovese,via trento 1,erice,,91100,Italy,11@1111.com,3205355170

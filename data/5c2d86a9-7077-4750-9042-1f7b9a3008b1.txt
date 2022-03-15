@@ -1,0 +1,21 @@
+EmailAddress,FirstName,LastName,MailAddress1,CityName,ProvinceStateName,PostalZipCode,GenderID,BirthDate,LeadIPAddress,LeadURL
+007miles@gmail.com,miles,beach,,COLLEGE STATION,TX,77843,,,209.21.123.253,studentsreview.com
+01cherry@comcast.net,cherry,harper,,JACKSONVILLE,FL,32202,,,98.224.34.137,123freetravel.com
+02052008abc51@gmail.com,katie,rysz,,RICHARDSON,TX,,,,69.219.133.198,www.123freetravel.com
+0324cutty@gmail.com,Christian,Mitzel,,PALMYRA,PA,17078,,,72.95.8.109,sweepstakesmatch.com
+04gokusan@gmail.com,,,,,NJ,,,,73.137.220.179,gadgetcenter.us.com
+06blackstang@gmail.com,richard,funk,,COLORADO SPRINGS,CO,80920,,,71.196.245.204,hbwm.com
+07felix@vitelcom.net,rick,sapien,,,,,,,192.245.154.178,lookforsingles.com
+0927baby.ng@gmail.com,,,,,,,,,104.172.89.233,kidslivesafe.com
+0mariahmarie0@gmail.com,MARIAH,PARDO,,ATLANTA,GA,,,,107.77.106.55,instantcheckmate.com
+1001millionaires@gmail.com,ben,wardlaw,,HILTON HEAD ISLAND,SC,29928,,,64.20.130.214,classicvacations.com
+101gypsea@adelphia.net,byron,smith,,ALLEN,TX,75002,,,70.123.108.129,asseenontv.com
+102877lynn@gmail.com,Teri,Kitchen,,BEDMINSTER,NJ,,,,98.0.26.54,findinsuranceinfo.com
+106705.3263@compuserve.com,ashley,king,,ATLANTA,GA,,,,74.251.250.34,123freetravel.com
+10mesi.767@gmail.com,,,,,,,,,166.137.118.26,dating-hackers.com
+1114cridland@gmail.com,,,,HAW RIVER,NC,27258,,,98.26.199.91,xmeeting.com
+11angelborn01@gmail.com,Elizabeth,Parker,3010 Promenade Court,WILMINGTON,NC,28409,,,75.191.196.94,pharmacysaveings.com
+12021959moon@gmail.com,RUSSELL,MOON,,FRANKLIN SPRINGS,GA,30639,,,64.53.35.2,getmysolarpower.com
+122345678@gantemail.com,vincent,gant,,MCKINNEY,TX,75070,,,173.172.130.151,saveonyourcarpayment.com
+1234567scoop@gmail.com,VINCENT,GANT,,,,,,,253.96.97.75,getmysolarpower.com
+123adam@gmail.com,melissa,adams,,PARK,KS,,,,66.87.73.246,yourcreditrestart.com

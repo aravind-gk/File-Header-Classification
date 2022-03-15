@@ -1,0 +1,21 @@
+username;password;firstname;lastname;email;city;country
+g0009001;43112;ENSAN;GALUH PERTIWI;g0009001@fk.uns.ac.id;Surakarta;Indonesia
+g0009002;64246;ABDULLAH;M AZAM;g0009002@fk.uns.ac.id;Surakarta;Indonesia
+g0009003;97517;ACHMAD;FAIZ SULAIMAN;g0009003@fk.uns.ac.id;Surakarta;Indonesia
+g0009005;78217;AFLIFIA;BIRRUNI S;g0009005@fk.uns.ac.id;Surakarta;Indonesia
+g0009006;45277;AGUNG;ISMANUWORO;g0009006@fk.uns.ac.id;Surakarta;Indonesia
+g0009007;42317;AGUS;S;g0009007@fk.uns.ac.id;Surakarta;Indonesia
+g0009008;90562;AHMAD;AFIYYUDDIN N;g0009008@fk.uns.ac.id;Surakarta;Indonesia
+g0009009;81201;ALDILA;AKHADIYATI N;g0009009@fk.uns.ac.id;Surakarta;Indonesia
+g0009010;42748;ALDILA;DESY K;g0009010@fk.uns.ac.id;Surakarta;Indonesia
+g0009011;38964;ALVA;PUTRI D;g0009011@fk.uns.ac.id;Surakarta;Indonesia
+g0009012;63989;AMALLIA;ARDANA R;g0009012@fk.uns.ac.id;Surakarta;Indonesia
+g0009013;79150;ANDINA;ROSMALIANTI;g0009013@fk.uns.ac.id;Surakarta;Indonesia
+g0009014;24769;ANGGA;DWI PRASETYO;g0009014@fk.uns.ac.id;Surakarta;Indonesia
+g0009015;40299;ANINDHITO;KURNIA P;g0009015@fk.uns.ac.id;Surakarta;Indonesia
+g0009016;15019;ANINDITA;MURTI;g0009016@fk.uns.ac.id;Surakarta;Indonesia
+g0009017;35953;ANINDYA;OKTAFIANI;g0009017@fk.uns.ac.id;Surakarta;Indonesia
+g0009018;55227;ANISA;FEBRINA D;g0009018@fk.uns.ac.id;Surakarta;Indonesia
+g0009019;76877;ANITA;RACHMAN;g0009019@fk.uns.ac.id;Surakarta;Indonesia
+g0009020;74210;ANNISA;MARSHA EVANTI;g0009020@fk.uns.ac.id;Surakarta;Indonesia
+g0009021;48833;ANNISA;RIZKIA FITRI;g0009021@fk.uns.ac.id;Surakarta;Indonesia

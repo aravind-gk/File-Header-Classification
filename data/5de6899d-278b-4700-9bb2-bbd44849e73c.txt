@@ -1,0 +1,8 @@
+"version","apply_time"
+"m000000_000000_base","1439333000"
+"m150731_165258_init_user","1439333004"
+"m150806_124322_create_profile_table","1439381910"
+"m150806_164434_create_role_stat_usertype","1439381919"
+"m150808_141502_event_activity_project","1439381934"
+"m150811_190155_cities","1439381966"
+"m010101_100001_init_notifications","1531295458"

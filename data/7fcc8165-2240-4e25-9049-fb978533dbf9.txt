@@ -1,0 +1,21 @@
+Name,Email,Mobile,Category,City,Address,State
+AyanMukhopadhyay,ayanmk@gmail.com,9229165020,"Export/Import, Materials/Logistics/Supply Chain Mgmt/Procurement",Bhilai-Durg,Bhilai,CHHATTISGARH
+ajay kumar sahu,sharad.com23@rediffmail.com,9406238524,"Bio Tech/R&D/Scientist, Export/Import, Fresh Graduate-No Functional Area exp.",Bhilai-Durg,jila sahu sadan kelabadi Durg Dist-Durg (CG)491001,CHHATTISGARH
+Nasim Ahmed,nasim_raza@yahoo.com,9329008631,"Electronics, Engg. project Mgmt./site Engg./Civil Engg., Export/Import",Bhilai-Durg,"Poultry Farm, Farid Nagar Kohka CHHATTISGARH 490028 India",CHHATTISGARH
+Jaspal SinghMattu,friend_23374@yahoo.com,9827977217,"Administration, Export/Import, Materials/Logistics/Supply Chain Mgmt/Procurement",Bhilai-Durg,,CHHATTISGARH
+Sandeep Patel,sampatel04@gmail.com,9993323721,"Anchoring/TV/Films/Production, Export/Import, IT/Telecom - Software",Bhilai-Durg,"Sandeep Patel,H.No.114, Behind Apsara Theatre, OPP D.M.&Company(Bidi factory),Santra Badi,Durg(CHHTTISGARH)PIN-491001.",CHHATTISGARH
+SIDDHARTH SOMANI,somani14@rediffmail.com,9893565657,Export/Import,Bhilai-Durg,siddharth.som@gmail.com,CHHATTISGARH
+sushesh singh,sushesh.882@rediffmail.com,9981894397,"Advertising/PR/Events, Direct Sales Agent/Insurance Agents, Export/Import",Bhilai-Durg,"sec-5,st-14,q/no.6/c,bhilai,distt-durg,C.G. pin-490006",CHHATTISGARH
+Srijah Bhaskar,srejith03@yahoo.com,9847346913,"Administration, Export/Import, Top Management",Bhilai-Durg,"Sreejalayam, Thattarampalam(P.O) Mavelikara,, Kerala - 690103",CHHATTISGARH
+KomalKhare,komal.khare1@gmail.com,9302479991,Materials/Logistics/Supply Chain Mgmt/Procurement,Bhilai-Durg,Durg CHHATTISGARH 491001 India,CHHATTISGARH
+SARADINDU BHANDARY,divy_xxx@sify.com,9300538638,Accounting/Tax/Company Secretary/Audit,Bhilai-Durg,"QR.NO. LIG-II/148, HOUSING BOARD , 32 ACRE INDUSTRIAL ESTATE BHILAI",CHHATTISGARH
+Vijay KumarPrasad,vij_p20012002@yahoo.co.in,9300558400,Accounting/Tax/Company Secretary/Audit,Bhilai-Durg,"Vijay Kumar Prasad C/o. Shri Kanchan Kumar, Qr. No.78/1, Rly Colony, Durg (C.G.) 491001",CHHATTISGARH
+SHASHANK BADGAINYA,shashankbadgainya@gmail.com,9827174738,Accounting/Tax/Company Secretary/Audit,Bhilai-Durg,street no.3/e pragati nagar risali bhilai distt.durg (c.g.),CHHATTISGARH
+Abin Sarkar,abinsarkar78@gmail.com,9907180929,Accounting/Tax/Company Secretary/Audit,Bhilai-Durg,"D 11 A, Maroda Sector Bhilai Chhattisgarh 490091 India",CHHATTISGARH
+NISHANT AGRAWAL,nishant_agrawal27@rediffmail.com,9406181333,Accounting/Tax/Company Secretary/Audit,Bhilai-Durg,,CHHATTISGARH
+surendra kumar choudhary,sur1210@rediffmail.com,9329287077,Accounting/Tax/Company Secretary/Audit,Bhilai-Durg,"C/O DINESH KIRANA STORE, DURGA MANDIR, WARD-35, KHURSHIPAR, BHILAI DIST-DURG, CHHATTISHGARH, PIN-490011",CHHATTISGARH
+Dist Durg,samitbhilai@yahoo.com,9993488964,Accounting/Tax/Company Secretary/Audit,Bhilai-Durg,"MIG-II, 2258, Opp. Kali Badi MADHYA PRADESH 490 026 India",CHHATTISGARH
+MOHAMMED IMTIYAZ,mohammed_imtiyaz786@yahoo.com,9893912103,"Banks/Insurance/Financial Services, HR/PM/IR/Training, Marketing/MR/Media Planning",Bhilai-Durg,"Plot No.-98, Sunder Nagar (West) Kohka Bhilai Nagar Distt :- Durg , Chhattishgarh Pin 490023",CHHATTISGARH
+HIMANSHU GHULE,himanshu_17043@yahoo.co.in,9893526553,Administration,Bhilai-Durg,"Qu. no. 5A, Street-27, Sector-10 Bhilai (CG) India",CHHATTISGARH
+prashantgupta,prashant_16061986@yahoo.com,9300437346,Accounting/Tax/Company Secretary/Audit,Bhilai-Durg,"Indira chowk, bangali colony, new khursipar, bhilai-490012 distt. durg (chhattisgarh)",CHHATTISGARH
+maroof khan,attri_khan@yahoo.co.in,9981277844,Administration,Bhilai-Durg,farooq khan at_baba farid nagar emam bada chowk behind dr.madariya p.o.kohka dist.durg.bhilai india,CHHATTISGARH

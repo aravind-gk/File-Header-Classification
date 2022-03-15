@@ -1,0 +1,21 @@
+Name,Email,Mobile,Category,City,Address,State
+SHAILENDRA UPADHYAY,shailu_sagi86@yahoo.com,9870275448,"IT-Software, Software Services",Imphal,"C-9/404 SHIVALIK APT. LOKDHARA CHS, KALYAN E - 421306",Manipur
+Gautam Wangkheirakpam,w.gautam@gmail.com,9863474872,IT-Software,Imphal,nongmeibung academy road imphal manipur pin-795001,Manipur
+Nongmaithem reena,reena06_n@yahoo.com,9863309354,IT-Software,Imphal,"Thangmeiband Hijam Leikai, Imphal,795004",Manipur
+Sapam Shenan,wshenansingh@yahoo.com,9856089082,"IT-Software, Sports/Recreation, Others",Imphal,"kwakeithel heinoukhongnembi leikai Imphal-west,Manipur-795001",Manipur
+susvetha menam,sus_menam@yahoo.com,9989658920,Recruitment/Placement Agencies,Imphal,"C/O M.Shekhar,Mancherial Auto Center,Bellampally X Road,Mancherial,Adilabad District[504208]",Manipur
+Sagolsem Ramesh Singh,rameshmay22@gmail.com,9856289235,IT-Software,Imphal,"Langthabal Kunja P.O - M.U, Canchipur Imphal West - 795003",Manipur
+Dhanabir Singh,yumnamd@yahoo.co.in,9436276219,"Engineering/Projects, IT-Hardware/Networking, IT-Software",Imphal,"C/O - L. MANI SINGH SAGOLBAN MOIRANGHANUBA LEIRAK, IMAL WEST, MANIPUR. OR",Manipur
+Kanti PrakashMishra,sujata_pani1969@yahoo.com,9238400921,Hotel/Travel/Tourism/Airlines/Hospitality,Bhubaneshwar,"PLOT NO.-665, JAIL ROAD, SHANTI NAGAR, JARAPARA, BHUBANESWAR",Manipur
+ANITA SENAPATI,anitasenapati1@yahoo.com,9853485131,"IT-Software, Software Services, Others",Bhubaneshwar,ANITA SENAPATI AT-BHUBAN P.O-BHUBAN DIST-DHENKANAL,Manipur
+prasantaatibudhi,prasant_atibudhi@yahoo.co.in,9861985591,Telecom,Bhubaneshwar,,Manipur
+SantiswarupMohanty,santiswarup.1972@gmail.com,9861985203,Consulting Services,Bhubaneshwar,"Plot No. PP-24, Pandav Nagar, Lane - 3 Bhubaneswar ORISSA 751018 India",Manipur
+tapoti taponwita,tapoti.taponwita@gmail.com,9861355308,IT-Software,Bhubaneshwar,,Manipur
+Hesamuddin Khan,xjhjhsxhj@yahoo.com,9132445676,IT-Software,Bhubaneshwar,hjhjhjhzjhjz zlxljxllxlx,Manipur
+OmkarDash,dash.omkar@gmail.com,9438077758,IT-Software,Bhubaneshwar,"Omkar Dash, C/o. Mr. P.Mohapatra, Plot 1499/A, Acharya Vihar Bhubaneshwar ORISSA 751013 India",Manipur
+rajiv dash,rajivdash2000@yahoo.com,9338203561,Others,Bhubaneshwar,"rajiv dash plno- 867/2707,jogeswarpatana, kapilaswar, old town, bhubaneswar 751002",Manipur
+bibhudutta panda,mailmebibhu@gmail.com,9739651581,"IT-Software, Software Services",Bhubaneshwar,"6th cross sultanpalya , R T Naggar,bangalore 32",Manipur
+SASMITANAYAK,sasmitap123@gmail.com,9437991668,IT-Software,Bhubaneshwar,"AT-SHYAMPUR , PO-DHAMNAGAR DIST-BHADRAK , ORISSA PIN - 756117",Manipur
+ruma tanveer,ruma_tanveer_31@yahoo.com,9178059826,Others,Bhubaneshwar,"Plot no 653,Lily Girls Hostel,Shaheed Nagar,BBSR(orissa)",Manipur
+veliveti mahesh,mahesh_kiit@rediffmail.com,9853607018,IT-Software,Bhubaneshwar,"v.mahesh,KIIT BOYS HOSTEL,KINGS PALACE -1,PATIA,BHUBENESWAR,ORISSA,",Manipur
+Dibyasingh Senapati,digbijya_singh@yahoo.com,9861035740,Government Sector,Bhubaneshwar,C/o-Duryodhan Senapati Qr.No-F-2/10 Wrcp Colony Baragada Bhubaneswar,Manipur
