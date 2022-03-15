@@ -1,0 +1,21 @@
+mobile,ccfname,cclname,LINE3,LINE4,LINE5,CITY,PINCODE
+9922012415,Ashok,Varudkar,Jalalpura,Jagdamba Rd,D Buldana,Khamgaon,444303
+9922356388,Gopai,Pakdhane,Keshav Ngr,Smashan Bhumi Rd,Buldhana,Khamgaon,444303
+9922515037,Kailas,Sharma,Ambika Ngr,Ghatpuri Road,Dist-Buldana,Khamgaon,444303
+9922693996,Vijay,Satao,Vrundavan Ngr,Jalamb Rd,Dist-Buldana,Khamgaon,444303
+9922391224,Ganeshsingh,Tomar,A/P Pimpri Gavali,Tq-Khamgaon,Dist-Buldana,Khamgaon,444303
+9922692730,Sk Umarao,Sk Rashid,Satifail,Dist-Buldhana,,Khamgaon,444303
+9922668296,Rajesh,Tikar,Kalori,Tq-Khamgaon,Dist-Buldhana,Khamgaon,444303
+9922693918,Durgaprasad,Palival,Khamgaon,Sutalpura,Dist-Buldana,Khamgaon,444303
+9922693990,Samadhan,Ingale,At Sutala Bk,Nandura Road,Dist-Buldana,Khamgaon,444303
+9922012412,Keshavrao,Chavan,Vitthal Ngr,Jalamb Rd,D Buldana,Khamgaon,444303
+9922171094,Ramesh,Sarkate,Balapur Fail,Akola Road Khamgaon,Dist-Buldana,Khamgaon,444303
+9922282742,Vijay,More,Weekly Market,Ward No 19,Dist-Buldana,Khamgaon,444303
+9922012522,Ramesh,Badade,Gopal Ngr,Kisan Ngr,D Buldana,Khamgaon,444303
+9922012343,Dnyandev,Nimbole,Snehal Ngr,Jalamb Road,Dist Buldana,Khamgaon,444303
+9922171090,Ashok,Bajaj,Kamal Nivas,Nr Natraj Garden,Dist-Buldana,Khamgaon,444303
+9922550158,Punam,Sharma,A/P Suralpura,Khamgaon,,Khamgaon,411004
+9922043145,Sunil,Jadhav,Chandamari Fail,At Khamgaon,Dist Buldana,Khamgaon,444303
+9922268192,Shailesh,Yele,A/P Isalwadi,Tq-Khamgaon,Dist-Buldana,Khamgaon,444303
+9922693725,Prakash,Chavan,Pimpalgaon Nath,Tq-Khamgaon,Dist-Buldana,Khamgaon,444303
+9922476572,Vilas,Gaygol,At Wadi,Sant Tukaram Ngr,Dist Buldana,Khamgaon,444303

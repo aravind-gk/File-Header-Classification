@@ -1,0 +1,21 @@
+PURCHASE CDC MARYSVILLE ,0%,Building,,
+23/05/2014,100%,Land,,
+,,,,
+Company: 821,,,,
+DESCRIPTIONS,Acct. #,Debit,Credit,
+Cap Costs - NONE (already moved),,,,
+Earnest Money,1165-0000,,"50,000.00",Earnest Money
+Earnest Money,1399-9869,"50,000.00",,DTF CDC-ELT / Marysville
+,,,,
+,,0.00,0.00,
+Company:CDC Marysville (MARYSV),,,,
+,,,,
+DESCRIPTIONS,Acct. #,Debit,Credit,
+Purchase - William T Sheahan Title Co,1400,"500,000.00",,Land
+Purshase - EM Deposit,1399-9869,,"50,000.00",DTF CDC-ELT / Marysville
+Purchase - City Taxes 0010-000 (5/23-6/30),1811,701.61,,RE Tax Exp
+Purchase - County Taxes 0010-000 (5/23-6/30),1811,654.72,,RE Tax Exp
+Purchase - City Taxes 0128-000 (5/23-6/30),1811,"6,846.45",,RE Tax Exp
+Purchase - County Taxes 0128-000 (5/23-6/30),1811,"6,391.68",,RE Tax Exp
+Purchase - CityTaxes Tank Farm (5/23-6/30),1811,"7,905.69",,RE Tax Exp
+Purchase - County Taxes Tank Farm (5/23-6/30),1811,"7,380.48",,RE Tax Exp

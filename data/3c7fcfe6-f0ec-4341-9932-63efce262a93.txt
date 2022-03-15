@@ -1,0 +1,21 @@
+id,name,email,city,mobile,gender,dob,address,salery,edu,status,flag
+67910,PARVEEZ,parveezjob@gmail.com,Delhi,7428436218,Male,,"A-9, First Floor,Jagi wali gali,Amritpuri      East of Kalesh,New Delhi 110014.",300000,,0,0
+162937,Amit,amitkumarsingh2811@gmail.com,Delhi,9810294038,Male,4/03/1982 0:00,"142/15.B,amritpuri East of Kailash New Delhi-110065",102000,,0,0
+169399,prakash,kpk1010@gmail.com,Delhi,9910353221,Male,5/10/1984 0:00,"138/14,Amritpuri,East of kailash, New Delhi DELHI 110065 India",354000,,0,0
+312471,Swarnendu Bikas,sona_swarnendu@rediffmail.com,Delhi,9313150452,Male,,"251/12, Amritpuri-B, Garhi, East of Kailash, New Delhi 110065",0,,0,0
+319456,gulab,g.mahto@yahoo.com,Delhi,9810896792,Male,,"A-37, Amritpuri, Garhi East of Kailash New Delhi-110065",201000,,0,0
+322176,jay prakash,jay95prakash@yahoo.co.in,Delhi,9871559739,Male,4/03/1975 0:00,"A-37,Amritpuri,garhi,East of Kailash,New Delhi",0,,0,0
+362208,amit,amit_kumar26061986@yahoo.co.in,Delhi,9953699647,Male,,"co vinod kumar,hari complex,house no-411,4th floor,flat no-3,garhi,amritpuri,east of kailash,new delhi-65.",0,,0,0
+678740,Vijay,vijaybanerjee_2005@rediffmail.com,Paradeep,9827753384,Male,19-02-1964,"57,Tanvi Estate ,AMRITPURI,PIPLANI. BHEL, BHOPAL,(M.P)INDIA",0,Other School/ Graduation,0,0
+713323,Ram Pal,rpscables@gmail.com,Gurgaon,9718585384,Male,6/08/1970,"A 47, 4th Floor, Amritpuri East of Kailash New Delhi DELHI 110065 India",0,Diploma-Other Diploma,0,0
+723733,hukam,hukamsingh_bhandari@yahoo.com,Delhi,9999269675,Male,27-11-1966,"323/7,B-Amritpuri, Garhi, Lajpat Nager, New Delhi-110065",0,MBA/ PGDM,0,0
+1089737,Sujeet,sujeet8165@gmail.com,Delhi,9911936113,Male,7/02/1980,"K 39/5, Amritpuri - B, East of Kailsah New Delhi - 110065 India",200000,NULL,0,0
+1090899,SHYAM,shyamsunder@ith.co.in,Delhi,9911789829,Male,,"296/12, Amritpuri-B East of Kailash New Delhi DELHI 65 India",420000,NULL,0,0
+1146439,Pramod Kumar,pkg_01ec35@yahoo.co.in,Gurgaon,9650863144,Male,5/08/1981,HOUSE NO-71A 3rd FLOOR GALI NO-5 AMRITPURI GARHI EAST OF KAILASH NEW DELHI -110065,1000000,NULL,0,0
+1217489,SOMAK,somak78@yahoo.com,Kolkata,9212658475,Male,15-11-1978,"110/12,Amritpuri B, East of Kailash New Delhi 110065",0,NULL,0,0
+1466835,Sushil Kumar,sushil_padhy@rediffmail.com,Delhi,9311031075,Male,3/03/1968,251/12 (2nd Floor)Amritpuri-BNear Iskon TempleEast Of KailashNew Delhi-110065,0,BE/ B.Tech (Engineering),0,0
+2127644,vivekanand,vivekrrl2@yahoo.co.in,Agra,9897146558,Male,21-08-1973,"64/1Tanvi Estat, AmritpuriBHEL Piplani, BHOPAL-462021",0,Diploma-Other Diploma,0,0
+2222623,NEERAJ,for.india@yahoo.com,Delhi,9810792388,Male,5/01/1973,"279/12 F.F. AMRITPURI-B EAST KAILASH, NEW DELHI",0,B.Sc. (Science),0,0
+2321060,Hemant,hemants63@yahoo.co.in,Delhi,9810699364,,,"Flat No. 5, Satyadeep Appartments, 9/300, Amritpuri-B, Garhi, East Of Kailash, New Delhi-110065.",0,,0,0
+3142384,SUDIP,karmakar_sudip@yahoo.co.in,Delhi,9810710369,Male,,"A-43,  AMRITPURI,  FIRST FLOOR,  EAST KAILASH,   NEW DELHI-110065",0,B.Sc. (Science),0,0
+3142413,dhananjai,dhananjai_s100@yahoo.co.in,Bhopal,9827059563,Male,,"S/O SHRI G.P. SHARMA 10, AMRITPURI, KHAJURI KALAN PIPLANI, B.H.E.L. BHOPAL. MB.NO",0,Diploma-Other Diploma,0,0

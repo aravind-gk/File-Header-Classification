@@ -1,0 +1,21 @@
+Name,Email,Mobile,Category,City,Address,State
+parminder singhmara,parminder_13@rediffmail.com,9816668686,Hotel/Restaurant,Baddi,"Hotel M G Regency, nh-21/a Near baddi bus stand baddi. dist. solan (h.p) pin-173205",Himachal-Pradesh
+Satya Paul,satyapaul_1575@rediffmail.com,9817321022,Hotel/Restaurant,Baddi,"satya paul C/o Hotel Shivalik Kasauli, Road Dharampur Distt-Solan (H.P)",Himachal-Pradesh
+Ghanshyam Gupta,rikkugreat@gmail.com,9813356968,Hotel/Restaurant,Baddi,as in CV,Himachal-Pradesh
+prashantdubey,prashantdubey44@gmail.com,9805699597,Hotel/Restaurant,Baddi,"259, numaish chouraha ,Etawah,(U.P)",Himachal-Pradesh
+PRANALBHUNIA,pranalbhunia@yahoo.com,9958858078,Hotel/Restaurant,Baddi,,Himachal-Pradesh
+rahulsingh,rk27singh.com@rediff.com,9816596330,Hotel/Restaurant,Baddi,house no 288 basanti bagh,Himachal-Pradesh
+RajeshChandel,virgo_chandel@yahoo.com,9872009237,Hotel/Restaurant,Baddi,"Rajesh chandel , Village Buthan P O loharli Teh Barsar , Disst Hamirpur. H P",Himachal-Pradesh
+vinetkumar,vinet.mishra@gmail.com,9882199102,Hotel/Restaurant,Baddi,Baddi,Himachal-Pradesh
+SANJAYSHARMA,sharma.rules83@gmail.com,9817922335,Hotel/Restaurant,Baddi,S/O SH.PIAR SINGH HAMIRPUR H.P 176039 India,Himachal-Pradesh
+AMANPARIHAR,aman_parihar2008@yahoo.com,9882431388,Hotel/Restaurant,Baddi,vpo-charri teh-shahpur distt-kangra H.P.,Himachal-Pradesh
+Dilmeen Kaur,kaurdilmeen898@gmail.com,9805466996,Hotel/Restaurant,Baddi,"H.No-4339,Ward No. -3,Near Nahan House,Ambala City",Himachal-Pradesh
+Hira Rana,hirana_2007@yahoo.com,9882213363,Hotel/Restaurant,Baddi,"H.No. –143, Pratap vihar-I Gali No.-4 ,Nangloi, Delhi-41",Himachal-Pradesh
+Tanya Mukherjee,taanu21@gmail.com,9816056170,"Fresh Graduate-No Functional Area exp., Hotel/Restaurant, Marketing/MR/Media Planning",Bilaspur,,Himachal-Pradesh
+Reshma Pradhan,reshma_pradhan00@yahoo.co.in,9986518617,Hotel/Restaurant,Bilaspur,"#109, Srinidhi Bangalore KARNATAKA 560066 India",Himachal-Pradesh
+AmolPedgaonkar,amol_here4u@yahoo.com,9993572236,Hotel/Restaurant,Bilaspur,Darga Road Hyderabad INDIA India,Himachal-Pradesh
+DEEPAKPANDEY,deep.pandey1987@yahoo.in,9098544552,Hotel/Restaurant,Bilaspur,cign in cyber cafe i/f boby ldge rajeev plaza near bus stand bilaspur c.g.,Himachal-Pradesh
+MayuriVegad,mayuri_vegad182@yahoo.co.in,9179368328,Hotel/Restaurant,Bilaspur,": C/o Shri. H.P. Goswami Kasturba Nagar, Kargil Chowk, Jarhabhata, Bilaspur [CG]",Himachal-Pradesh
+SatishTamta,satishtamta@yahoo.co.in,9993000611,Hotel/Restaurant,Bilaspur,"B-306, SECTOR-2, BALCO TOWNSHIP, KORBA, CHHATISGARH 495684",Himachal-Pradesh
+vishal sharma,vishal_1985sharma@yahoo.com,9999654535,Hotel/Restaurant,Bilaspur,"17sector, h.no.875, Faridibad, Haryana (INDIA)",Himachal-Pradesh
+Jayant Tandon,jayanttandon@gmail.com,9816217331,Hotel/Restaurant,Bilaspur,House No.228/29 Raura Sector No.2 Bilaspur Himachal Pradesh,Himachal-Pradesh

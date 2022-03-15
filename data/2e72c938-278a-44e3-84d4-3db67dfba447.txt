@@ -1,0 +1,2 @@
+LineNumber,InvoiceNumber,TransactionId,TransactionRecordType,PolicyNumber,PurchaseDate,PrimaryTravelerName,NumberOfTravelers,PackageName,PackageSubtitleName,DepartureDate,ReturnDate,AgentName,AgentCode,FacilitatingAgentCode,SubmissionTypeName,PolicyAmount,PolicyFees,TransactionAmount,CommissionRate,CommissionAmount,NetAmount,PartnerSettledAmount,Comments
+1,110,a2B16000000Ak3rEAC,Payment,200011608,2/1/2016,Evangeline Schott,1,ExactCare,,2/11/2016,2/20/2016,Brenda Harris,AA0781,,Vanguard Api,64.35,9,73.35,30,19.3,54.05,54.05,

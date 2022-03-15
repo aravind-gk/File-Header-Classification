@@ -1,0 +1,21 @@
+companyname,add1,city,pin,state,country,phone,fax,email,website,ContactPerson,BusinessDetails
+A + P MASCHINENBAU GMBH,"ERFURTER STR. 18A,",BAD HERSFELD,36251,,Germany,496621788220,4966217882222,a_p_maschinenbau@t-online.de,http://www.a-u-p.com,Mr.   ,"COMPUTER CONTROLLED COMPONENTS FOR PRODUCTION OF PATTERNED CARPETS, RECONDITION AND SPARE PARTS Textile Machinery Spares, Components & Accessories"
+A PLUS (HOLDING) LTD.,"3rd floor, Building-D, Chunhuiyuan, No. 1016 ShenNan Medium road, Futian District,",SHENZHEN,,,China,85265555500,85230074354,andes@bananatelecom.com.hk,http://www.hy818.net,Mr. Fong Kink ,"Mobilephone, MP3/ MP4, Fixed Wireless Phone(CDMA/GSM850/900/1800/1900) 
+CDMA/GSM Modem, CDMA/GSM Fax, CDMA/GSM terminal DVD, VCD,VCR,Mobilephone, MP3/ MP4, Fixed Wireless Phone(CDMA/GSM850/900/1800/1900) 
+CDMA/GSM Modem, CDMA/GSM Fax, CDMA/GSM terminal Wireless Communication,Mobilephone, MP3/ MP4, Fixed Wireless Phone(CDMA/GSM850/900/1800/1900) 
+CDMA/GSM Modem, CDMA/GSM Fax, CDMA/GSM terminal Fax Machines,Mobilephone, MP3/ MP4, Fixed Wireless Phone(CDMA/GSM850/900/1800/1900) 
+CDMA/GSM Modem, CDMA/GSM Fax, CDMA/GSM terminal Mobile Phones & Accessories"
+A&M CHINA LIMITED,"60-5-202, LanCun Rd., Pudong,",SHANGHAI,200127,,China,862138810287,862158813867,sales@am-china.com,http://www.am-china.com, Alice  Lv,"kinds of seamless tubes and pipes, ERW tube, taper roller bearing, Precision CNC Parts, etc. Tubes & Tube Fittings,kinds of seamless tubes and pipes, ERW tube, taper roller bearing, Precision CNC Parts, etc. Ball & Roller Bearings / Bushes,kinds of seamless tubes and pipes, ERW tube, taper roller bearing, Precision CNC Parts, etc. Pipes & Pipe Fittings"
+A.K. SAEED FOR TRADING & INDUSTRY CO. LTD.,"PO BOX NO. 61176, JEBEL ALI,",DUBAI,,,United Arab Emirates,97148817782,97148817783,ravichandran@jacgf.ae,http://www.jacgf.ae,Mr. Ravichandran  Nadarajah,Hand tools Hand & Allied Tools
+AAHELI OCEANIA,"Unit 1, 15 Westham Crescent,
+",BAYSWATER,3153,,Australia,61397207918,,aahelioceania@mail.com,, Kingshuk  Barman,Printing machines Printing Machinery
+AALBORG INDUSTRIES A/S,"GASVAERKSVEJ 24, PO BOX NO. 844,",AALBORG,9100,,Denmark,4599304000/4496,4599168316/168333,tog@aalborg-industries.com,http://www.aalborg-industries.com,Mr. Tom  Gammelmark,"Burners/Industrial Burners & Incinerators,Boilers, Components & Spares"
+AAMC,"2nd Industrial City Dammam, P.O. Box. No. 8491,",AL KHUBAR,31482,,Saudi Arabia,96638121147-239,,isht_2001@yahoo.co.in,,Mr. ishteyaque  ahmad ahmad,"Automotive Parts, Components & Spares,Auto Parts"
+AB AUTOMOTIVE ELECTRONICS LTD,"Longwood Drive, Forest Farm,",CARDIFF,CF14 7YS,,United Kingdom,442920330410,442920616826,mike.wilding@abautomotive.com,http://www.abautomotive.com,Mr. Michael Andrew Wilding,"Automotive Parts, Components & Spares Automotive Parts, Components & Spares"
+"ABI & ASSOCIATES, INC.","1404 E. JASMINE AVE., SUITE C,
+",MACALLEN,78501,,United States,19566319292,19566319294,csanchez@abi-associates.com,http://www.abi-associates.com,Mrs. MARIA CARMEN SANCHEZ,"Medical & Industrial Equipments Industrial Machinery & Parts,Medical & Industrial Equipments Medical Equipment"
+ABJALSON INTERNATIONAL,"B-45, Auqaf Plaza, New Dabgari Garden,
+
+",PESHAWAR,25000,,Pakistan,9291211807,9291214290,abjalson@psh.paknet.com.pk,,Mr. JAMIL  ,orthopaedic implants  Orthopaedic Appliances & Equipment
+ABRAMEQ,"RUA LUCAS DE OLIVEIRA, 49, SALA 204,",NOVO HAMBURGO,93510-110,,Brazil,55515942232,55515942232,broda@abrameq.com,http://www.abrameq.com,Mrs. Valter G. Broda,Leather Machinery
+ABRASIVES RUBBERHOG,"mient 201C,",'S-GRAVENHAGE,,,Netherlands The,31703838942,31703857425,addygijbels@cs.com,, Addy Gijbels ,Special grinding tools Machine Tools
