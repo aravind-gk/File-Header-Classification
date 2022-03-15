@@ -1,0 +1,21 @@
+email,name
+,
+launchho@hotmail.com,  C H HO
+md@nrtc.com.pk, Aijaz Ahmad
+agk@melcom-msk.ru, Alexander Kuznetsov
+bharris@ksallc.com, Basil S. Harris
+g.bianchi@ira.inaf.it, Bianchi Germano
+gercomex@iacit.com.br, Dimas Aguiar
+hans@baclcorp.com, Hans Mellberg
+marko.turkkila@ette.com, Marko Turkkila
+patrick.conway@nts.com, patrick conway
+rfrutos@indra.es, Ramón Frutos
+skowdley@invertix.com, Sridhar Kowdley
+diabloxxf@yahoo.com.cn,徐小帆
+bjtzhw@798techway.com,李群烽
+bjthzw@798techway.com,李群烽
+igunay@aselsan.com.tr,İlker Gunay
+xjs2951@sina.com,肖家寿
+batomty@gmail.com,A B
+amodsen.chotia@jila.colorado.edu,A Chotia
+asishjames@gmail.com,A James

@@ -1,0 +1,21 @@
+Name,Email,Mobile,Category,City,Address,State
+virendrasingh,virendra_cs@yahoo.co.in,9826126171,Lecturer/Professor,Bhilai-Durg,"Virendra Pratap Singh , Shanti nager,bhilai. pin code-490023.",CHHATTISGARH
+vikas chandrasahu,vikas_sarwa@rediffmail.com,9300028744,Lecturer/Professor,Bhilai-Durg,"plot-13, opp. pani tanki, maitrikunj, risali, bhilai, distt- durg, (c.G) pin-490006",CHHATTISGARH
+PoonamDixit,dixit.poonam@gmail.com,9425238883,Lecturer/Professor,Bhilai-Durg,"ii/33, Ispat Nagar , Bhilai , C.G.",CHHATTISGARH
+RANIJACOB,rjbhi@yahoo.com,9752022324,Lecturer/Professor,Bhilai-Durg,"BLOCK : I A, RUABANDHA SECTOR, BHILAI 490006",CHHATTISGARH
+sumathikumaresan,sumathi_kumaresan@yahoo.com,9827936461,"Lecturer/Professor, Teacher",Bhilai-Durg,"97/7,NEHRU NAGAR(EAST),BHILAI",CHHATTISGARH
+ManpreetKaur,2009rinks@gmail.com,9827103384,"Lecturer/Professor, Lecturing/teaching, Pharmaceutical Research, Pharmacist/Chemist/Bio Chemist, Pharmacy, Quality Assurance/ Control",Bhilai-Durg,"D/O Satwant Singh Randhawa Vill & Post - Kohka, purani basti Bhilai Nagar DIST- DURG PIN - 490028",CHHATTISGARH
+preeti singhal,preet_singhal123@yahoo.com,9893994915,"Compensation/Payroll, Consulting, Counseling, Customer Service (Voice), Employee Relations, Lecturer/Professor, Performance Mgmt, Recruitment, Soft Skills Training, Telemarketing, Training, Training & Development, Other Customer Service, Other HR/PM/IR/Tng",Bhilai-Durg,"H.NO-767, C/O, G.SINGH, HANUMAN NAGAR, DURG, (C.G)",CHHATTISGARH
+PRAVEENKUMAR,mikkagoyal@hotmail.com,9406207171,Lecturer/Professor,Bhilai-Durg,"Shikari Para, Near Pani Tanki Durg CHHATTISGARH 491226 India",CHHATTISGARH
+MONIKA ARYA,arya.mona@gmail.com,9827993328,Lecturer/Professor,Bhilai-Durg,"c-10,kendriya vidyalaya campus near five buildingsDurg(c.g.)",CHHATTISGARH
+swati shrivastava,drsscit@gmail.com,9893314694,Lecturer/Professor,Bhilai-Durg,"Q.No. 3/B, St. No. 33, Sector no. 1 , Bhilai, India",CHHATTISGARH
+vijaya chaturvedi,vijaya_chatur1@yahoo.co.in,9926788383,Lecturer/Professor,Bhilai-Durg,"f.d.-8 forest colony pendra ,district-bilaspur(C.G.)",CHHATTISGARH
+Kakoli Shaw,kakoli226@yahoo.co.in,9425567043,Lecturer/Professor,Bhilai-Durg,,CHHATTISGARH
+Jyotiprakash Patra,patra.jyotiprakash@gmail.com,9893238778,Lecturer/Professor,Bhilai-Durg,,CHHATTISGARH
+PoonamDixit,dixit.poonam81@gmail.com,9425237883,Lecturer/Professor,Bhilai-Durg,"H No.11/33 IsPAT NAGAR, RISALI, BHILAI, dIST. DURG, c.g DURG CHHATTISGARH 490006 India",CHHATTISGARH
+G JayendraRao,rao.jayendra@gmail.com,9685429695,"Lecturer/Professor, Private Tuition, Special Education Teaching",Bhilai-Durg,Durg CHHATTISGARH 491001 India,CHHATTISGARH
+saurabhsingh,saurabh_singh1983@rediffmail.com,9826803374,Lecturer/Professor,Bhilai-Durg,"MIG G-4 housing board colony Raipur Naka, durg Pin 491001",CHHATTISGARH
+shalini khanwe,shalini_khanwe@yahoo.co.in,9827471179,Lecturer/Professor,Bhilai-Durg,"A/24, BHAGWATI GARDEN UTTAM NAGAR NEW DELHI 59",CHHATTISGARH
+milindkshirsagar,milindpkshirsagar@rediffmail.com,9893858667,Lecturer/Professor,Bhilai-Durg,S/O PRAKASH D. KSHIRSAGSR AT. PO. - LONI TQ.- WARUD DSTT.- AMRAVATI MAHARASHTRA PIN- 444913,CHHATTISGARH
+sekhar chandra,chandraseku@yahoo.in,9753560402,Lecturer/Professor,Bhilai-Durg,,CHHATTISGARH
+vivek kumarsinha,sinha_vivekkumar@yahoo.co.in,9827116829,Lecturer/Professor,Bhilai-Durg,C/O ANIL KU SINHA QR.NO 461/D ZONE 1 BMY DISTT.DURG(c.g),CHHATTISGARH

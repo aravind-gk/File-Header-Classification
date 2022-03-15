@@ -1,0 +1,21 @@
+Name,Email,Mobile,Category,City,Address,State
+shiva kumar royal,kalvas_shiva@yahoo.co.in,9972312314,IT-Hardware/Networking,Anantapur,"anantapur dist,",ANDHRA PRADESH
+Sasanka Boxi,s4sasanka@in.com,9908030368,Engineering/Projects,Anantapur,H.No Hyderabad - 500028 India,ANDHRA PRADESH
+Durga Prasad Reddy,durgaprasad414@gmail.com,9742496806,IT-Software,Anantapur,"#410,1st stage,1st cross,indiranagar,bangalore.560038",ANDHRA PRADESH
+Mastan K,mastan.kutagulla@gmail.com,9441445758,IT-Hardware/Networking,Anantapur,gandlapenta kadiri anantapur ap india,ANDHRA PRADESH
+NARESH KUMAR,nareshmadhur_09@yahoo.co.in,9866299349 9916538750,IT-Hardware/Networking,Anantapur,"3/291, R.V PALEM, TADPATRI, ANANTAPUR DIST",ANDHRA PRADESH
+M Harikha,harikha21cg@gmail.com,9849868724,Government Sector,Anantapur,21st Century Gurukulam Tirupati ANDHRA PRADESH 517502 India,ANDHRA PRADESH
+vijay kumar,vijayravi1237@gmail.com,9866949597,IT-Hardware/Networking,Anantapur,,ANDHRA PRADESH
+mani kanta,mani.acf8@gmail.com,9849097995,Catering/Food Services/Restaurant,Anantapur,"D.NO: 4-2-345; Tirumala nagar; Bypass road; Anantapur-515001 ANDHRA PRADESH, India",ANDHRA PRADESH
+KAYAPATI LAKSHMI NARAYANA,lakshmi21cg@gmail.com,9491121445,IT-Hardware/Networking,Anantapur,S/O K.PEDDA BALAIAH GARUGU CHINTALA PALLI (V&P) PUTLUR(M) ANANTAPUR(DT) PIN :515414,ANDHRA PRADESH
+hari Prasad,g.hariprasad16@gmail.com,9703487780,Engineering/Projects,Anantapur,"S/O G.Krishna Murthy, Teacher, Opp to post office, Rolla, Anantapur dt, A.P.",ANDHRA PRADESH
+KothaMadan Mohan,mail2mohan9@gmail.com,9346246451,"Biotechnology/Pharmaceutical/Medicine, CRM/CallCentres/BPO/ITES/Med.Trans, IT-Hardware/Networking",Anantapur,"ANANTAPUR ,ANDHRA PRADESH 515001 India",ANDHRA PRADESH
+sanjaychauhan,corsanjay1@gmail.com,9350374478,IT-Hardware/Networking,Anantapur,"63,bhur bhart nagar vijay nagar ghaziabad (u.p.)",ANDHRA PRADESH
+jagan nnath,jagan.hmp@gmail.com,9885999349,IT-Hardware/Networking,Anantapur,"H.M.P. JAGANNATH #24-337, Rajaji Street, Old Town, ANANTAPUR – 515 001",ANDHRA PRADESH
+Bandi Renuka,renukabandi.7@gmail.com,9490073489,IT-Hardware/Networking,Anantapur,"D/o B.Ujjinappa door no: 8-296, Gandhinagar,Dharmavaram Andhra Pradesh 515671 India",ANDHRA PRADESH
+Saraswathi Pallelli,padma_pallelli@yahoo.co.in,9396868733,Software Services,Anantapur,"P. Saraswathi, D/o P.Obi Reddy, Vaddipalli (V), Atmakur (M), Anantapur(D).",ANDHRA PRADESH
+jyothi yerraguntla,iamtheno1mahika@gmail.com,9000177858,IT-Hardware/Networking,Anantapur,"7/545,Rahamat nagar,ananthapur",ANDHRA PRADESH
+sfgj dfgjd,varuna5star@yahoo.com,994-503695856,"Manufacturing/Industrial, Agriculture/Forestry/Fishing",Anantapur,shsfh,ANDHRA PRADESH
+K Chandra Mohan,nelavanka@yahoo.com,08554-279427,IT-Hardware/Networking,Anantapur,"D.No 2-45, 1st Road,Near Sivalayam, (up stairs)Anantapur ? 51500",ANDHRA PRADESH
+praveenkumar,bandapraveenkumar@rediffmail.com,9866609327,IT-Hardware/Networking,Anantapur,"B.PraveenKumar, H.No:1/1938-2, GandhiNagar, Yemmiganur, Kurnool(Dist).AndhraPradesh-518360",ANDHRA PRADESH
+vikramgowd,vikramdaruru@gmail.com,9440211225,Insurance,Anantapur,,ANDHRA PRADESH

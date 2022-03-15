@@ -1,0 +1,21 @@
+email,name,gender,phonenumber
+-------------,---------------,---------------,----------------
+-------------,---------------,---------------,----------------
+new@user.com,new user,Female,0099887766
+jina@mizi.com,jina mizi,Male,11223344
+langu@jina.com,jina langu,Male,5566778899
+
+j@k.com,jitu kamaliza,Male,2233445566
+my@name.com,my name,Male,1234567890
+,,,
+,,,
+,,,
+vera@sidika.com,vera,Male,12345678
+,,,
+mimi@wewe.com,mimi,Male,123456789
+,,,
+for@you.com,for,Male,12346789
+,,,
+mother@teresa.heaven,mother,Female,87654321
+,,,
+test@ing.com,test,Male,9876521

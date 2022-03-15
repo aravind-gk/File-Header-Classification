@@ -1,0 +1,16 @@
+Name,Email,Mobile,Category,City,Address,State
+DURGA PRASAD DAHAL,durga_sikcom@rediffmail.com,9733186642,Business Mgmt./Consultants/Freelancers,SIKKIM,"Nayuma Infosys, Tadong, Gangtok-737102",Sikkim 
+alok bhandari,alokbhandari1951@gmail.com,9332410919,"Business Mgmt./Consultants/Freelancers, HR/PM/IR/Training, Top Management",SIKKIM(Jorethang),"EIILM UNIVERSITY, Majhi Gaon, Jorethang, Naya Bazar P.O. Dist.Namchi, SIkkim-737121",Sikkim 
+PRASHANT KUMAR GUPTA,pras_rush_in@rediffmail.com,9836357871 9433003307,Business Mgmt./Consultants/Freelancers,SIKKIM,"RABDENTSE HOLIDAYS C/0 SURABHI ENTERPRISES, C/O RABDENTSE RESIDENCY D.S.GURUNG ROAD PALDEN STATE, PELLING KALIMPONG WEST SIKKIM",Sikkim 
+Subrata Chatterjee,c_subrata2005@yahoo.com,9474773544,"Accounting/Tax/Company Secretary/Audit, Administration, Business Mgmt./Consultants/Freelancers",Gangtok,"MONDALPARA, MALLIKPUR, KOLKATA - 700145, WEST BENGAL, INDIA",Sikkim 
+Sunil Kumar Tamrakar,sunil23tamrakar@rediffmail.com,9434866644,Business Mgmt./Consultants/Freelancers,Gangtok,"C/O Teesta Urja Ltd. Beside Community Centre Development Area-Gangtok, East Sikkim 737101",Sikkim 
+SudhirAgarwal,sudheeragarwal@yahoo.com,9434878885,Business Mgmt./Consultants/Freelancers,Gangtok,10TH MILE RISHI ROAD KALIMPONG-734301,Sikkim 
+SUDARSHAN SINGH,singh.sudarshan@yahoo.co.in,9775415671,"Advertising/PR/Events, Business Mgmt./Consultants/Freelancers, Corporate Planning/Consulting/Strategy",Gangtok,"GANGTOK, EAST SIKKIM. PIN-737101 INDIA",Sikkim 
+Pavan KumarYangaldas,yangaldaspk@yahoo.com,9434076102,"Business Mgmt./Consultants/Freelancers, Corporate Planning/Consulting/Strategy, Others",Gangtok,"920, Street No.: 7, Gandhi Nagar Hyderabad 500080",Sikkim 
+AnikSinha,anik_kumar@hotmail.com,9832423972,"Business Mgmt./Consultants/Freelancers, IT/Telecom - Software, Teaching/Education",Gangtok,"Akashdeep,Dam Side, Gandhi Nagar, Kanke Road,",Sikkim 
+ASHIKA PRADHAN,ashika182@gmail.com,9932709149,"Administration, Banks/Insurance/Financial Services, Business Mgmt./Consultants/Freelancers",Gangtok,Deorali near PI Quarter Gangtok SIKKIM 737102 India,Sikkim 
+THTHTHFGHGFR,dgfghhgh@gmail.com,9845621366,Business Mgmt./Consultants/Freelancers,Gangtok,FLKGHKFDGKFJGL;SDGKBSDJGHISDGJOPSJFEILHDUGESUFKDJGKFHJGUFDHGILFDK;GHL;FHFG,Sikkim 
+AMIT SHARMA,regmi_27@yahoo.co.in,9884391150,Business Mgmt./Consultants/Freelancers,Gangtok,NEAR BETEHELEM CHURCH; GANGTOK; EAST SIKKIM; PIN NO.737101,Sikkim 
+ARPANA SUBEDI,arpana_16in@yahoo.co.in,9434869173,Business Mgmt./Consultants/Freelancers,Gangtok,"ARPANA SUBEDI NEAR HOLYCROSS, 6TH MILE TADONG GANGTOK, EAST SIKKIM",Sikkim 
+Mrinal Das,mituzin@yahoo.co.in,9434485356,"Banks/Insurance/Financial Services, Bio Tech/R&D/Scientist, Business Mgmt./Consultants/Freelancers",Gangtok,"S/O PROF.H.N. DAS GALIAHATINO1, BARPETA NB ROAD DIST: BARPETA, ASSAM PIN: 781301",Sikkim 
+BIWEK,biwek_gurung@rediffmail.com,09932224225 09434117375,Business Mgmt./Consultants/Freelancers,Gangtok,"C/O MRS. INDIRA GURUNG, NAM-NANG ROAD, GANGTOK 737101 SIKKIM",Sikkim 

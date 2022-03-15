@@ -1,0 +1,10 @@
+company,name,mobile,email,address,location,pincode,city,website,category,city_id,state_id,id
+Radhika Enterprises,Saurabh Bansal,9452462097,s.ban.90@gmail.com,Misterganj ,NULL,NULL,Biswan,NULL,NULL,0,0,0
+Sri Balaji Ply & Board Industries,Sachin Gupta,9415047136,sachin_gupta51@rediffmail.com,"Head Office: Mangrahiya Bazar biswan,  ",NULL,NULL,Biswan,NULL,NULL,0,0,0
+NULL,Rupam Sarmah,9508056268,rhpteaindustry@gmail.com,Niz Baghmari,NULL,784176,Biswanath Chariali,rhpteaindustry.com,NULL,0,0,0
+NULL,Rajdeep Bhuyan,7895581295,rajdeep_bhuyan@rediffmail.com,Kopohua Gaon,NULL,784176,Biswanath Chariali,dealszia.com,NULL,0,0,0
+Sri Balaji Ply & Board Industries,Sachin Gupta,9415329251,sachin_gupta51@rediffmail.com,"Head Office: Mangrahiya Bazar biswan,  ",NULL,NULL,Biswan,NULL,NULL,0,0,0
+NULL,Himjyoti Talukdar,9958455689,himjyoti84@gmail.com,Madhupur,NULL,784176,Biswanath chariali,dipalibarthakur.info,NULL,0,0,0
+NULL,Himjyoti Talukdar,8472010842,himjyoti84@gmail.com,Madhupur,NULL,784176,Biswanath chariali,popiyatorarsadhu.com,NULL,0,0,0
+NULL,Amrit Bagh,9706220488,bagh.amrit108@gmail.com,Pertabghur Tea Estate,NULL,784176,Biswanath Chariali,heisgifted.com,NULL,0,0,0
+NULL,Silpy Hazarika,8822165843,ishaan.iitt149@gmail.com,"sotia,soraijonia gaon",NULL,784176,biswanath,gaogle.org,NULL,0,0,0

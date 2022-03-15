@@ -1,0 +1,21 @@
+Name,Email,Mobile,Category,City,Address,State
+AlokKumar,alokmba_bitmesra@yahoo.co.in,9934166652,Insurance,Bhagalpur,"Alok Kumar Flat No. A1 (101), Shantilok Apartment Razabazar, Patna 800014, BIHAR. Mob No- 09934166652",BIHAR
+gauri shanker dokania,gsdokania@yahoo.com,9431213201,Law/Legal Firms,Bhagalpur,"sarath chandra path,masakchak, bhagalpur-812001",BIHAR
+SHWTESHBHARTI,shwtesh_bharti@yahoo.co.in,9830320440,Financial Services/Stockbroking,Bhagalpur,Moh- Manikpur P.O. Mirjanhat Dist Bhagalpur State Bihar Pin 812005,BIHAR
+Md Hassan,sabkathassan@rediffmail.com,9709965901,Insurance,Bhagalpur,"H.no. 51, Vill Bhagalpur BIHAR 813210 India",BIHAR
+mukesh sinha,mukesh.sinha.lkr@gmail.com,9431095847,Insurance,Bhagalpur,C/O SITA RAM SINHA MOHALLA-SANTER POST-PURANI BAZAR LAKHISARAI PIN_811311 STATE :-BIHAR,BIHAR
+SIMANT CHANDRA,simantchandra@gmail.com,9771877955,Banking,Bhagalpur,Ishakchak Bhagalpur BIHAR 812001 India,BIHAR
+VikasKumar,vikas_kumara@yahoo.co.in,9973236433,Banking,Bhagalpur,C/O SRI BHUSHAN PRASAD R.B.S.S.SAHAY ROAD BHIKHANPUR NEAR BLIND SCHOOL BHAGALPUR-812001 BIHAR INDIA,BIHAR
+SREEGITHG L,sreegithgl@rediffmail.com,9470027211,Banking,Bhagalpur,"Finance Officer, UCO Bank, Zonal Office, Central Jail Road, Jawaripur Bhagalpur Bihar 841001 India",BIHAR
+KUMAR ATUL,kumar.atul@icicipruspoke.com,9608292010,Insurance,Bhagalpur,"s/ Ashok kr mishra,new sipahi tola,po+dist-purnia",BIHAR
+sunilkumar,skumar2307@gmail.com,9431215168,Accounting-Tax/Consulting,Bhagalpur,C/O SHREE R.S.SHARMA DINASHA LANE MUNDICHUK BHAGALPUR BHIAR,BIHAR
+Pankaj Mishra,pkm.bgp@gmail.com,9334385526,Financial Services/Stockbroking,Bhagalpur,"C/O Dey Optical, Mashakchak Bhagalpur",BIHAR
+Akhilesh Kumar,bittu_1508@timejobs.com,9334225057,Banking,Bhagalpur,C/o Sri Bedanand Choudhary Bhagalpur BIHAR 812002 India,BIHAR
+RanjeetChoudhary,ranjeet21780@rediffmail.com,9431396882,Insurance,Bhagalpur,"Professor Colony West, Bilasi,Deoghar Jharkhand-814117",BIHAR
+nirajkumar,niraj_prience123@rediffmail.com,9430693097,IT-Software,Bhagalpur,"AT:GULABIBAG,KATGHAR POST:MIRJANHAT DIST:BHAGALPUR STATE:BIHAR PIN CODE:812005",BIHAR
+RUPAK DAS,rupakmadhukul@gmail.com,9097731969,Banking,Bhagalpur,"C/O-SRI GANESH CHANDRA DAS, Q.NO: -597AB, RAMPUR COLONY, P.O.-JAMALPUR, DIST-MUNGER, BIHAR",BIHAR
+PREETAMKUMAR,preetamkumar2007@gmail.com,9006334420,Banking,Bhagalpur,C-C-Mukherjee Lane Bhagalpur BIHAR 812001 India,BIHAR
+Pankajkumar,pankaj3di@yahoo.co.in,9934169461,"Financial Services/Stockbroking, Others",Bhagalpur,"Pankaj Kumar C/o. Sri Devendra Kumar Singh At- Jawaripur, Po + PS – Tilkamanghi Dist – Bhagalpur (Bihar) 812001",BIHAR
+sandeep kumar,sandeep_bab@yahoo.com,9431214179,Banking,Bhagalpur,"flat no 104/105,c.c.mukherjee road,adampur,bhagalpur bihar",BIHAR
+Dineshshaw,din_shaw20022001@yahoo.co.in,9748874815,Banking,Bhagalpur,30/1Z HARE KRISTO SETT LANE KOL 50,BIHAR
+Rajeev Ranjan,r_ranjanrajeev@yahoo.com,9971570787,Banking,Bhagalpur,A/502 Abhyant Apartment Vasundhara Enclave New Delhi,BIHAR

@@ -1,0 +1,21 @@
+Name,Email,Mobile,Category,City,Address,State
+Pallav M Bhatt,pallavbhatt@yahoo.com,9824650823,"Administration, Business Mgmt./Consultants/Freelancers, Corporate Planning/Consulting/Strategy",Ahmedabad,"A-404 Deep Tower, Nr. Atithi Rest. Judges Bunglow Rd., Bodakdev",Gugrat
+J A T I N SONI,jatin.soni73@rediffmail.com,9376111022,"Business Mgmt./Consultants/Freelancers, Marketing/MR/Media Planning, Sales/Business Development",Ahmedabad,"B.23 avani comp1ex, 2nd floor, Naranpura,Ahmedabad",Gugrat
+MEHUL GADHIYA,mpgadhiya@gmail.com,9327379146,"Accounting/Tax/Company Secretary/Audit, Business Mgmt./Consultants/Freelancers, Finance",Ahmedabad,"20/Dharti Tenament, Opp,Labharth Park, Thakkarnagar Road, Ahmedabad-382350",Gugrat
+kamin patel,kamin_patel86@yahoo.com,9898469292,Business Mgmt./Consultants/Freelancers,Ahmedabad,"303,shyamrath tower , near k.k.nagar cross road, ghatlodia , ahmedabad-380061",Gugrat
+dhirenraol,sturdy@yahoo.com,9898989898,"Business Mgmt./Consultants/Freelancers, Marketing/MR/Media Planning, Sales/Business Development",Ahmedabad,"b-21, angita society, pragatinagar road, naranpura, ahmedabad",Gugrat
+PINKESH PARMAR,pinkesh_parmar1@rediffmail.com,9879255606,"Business Mgmt./Consultants/Freelancers, Oil and Gas, Quality/Process Control",Ahmedabad,,Gugrat
+jigneshpatel,jignesh_242@yahoo.com,61-420547817,Business Mgmt./Consultants/Freelancers,Ahmedabad,"joranag,vaniyavas,ta&di-mehsana,pin-382732",Gugrat
+SameerVictor,victorsameer@gmail.com,9879573519,"Banks/Insurance/Financial Services, Business Mgmt./Consultants/Freelancers, Finance",Ahmedabad,GE Money Financial services Ltd Corporate house Near Dinesh Hall Off Ashram Road Ahmedabad 380009,Gugrat
+RAJEEV JAIN,rajeevjain62@yahoo.com,9974104473,"Banks/Insurance/Financial Services, Business Mgmt./Consultants/Freelancers, Marketing/MR/Media Planning",Ahmedabad,"Flat-10,anand dham apartment,usmanpura,ahmedabad",Gugrat
+JinalShah,jinalkruti@gmail.com,9428503285,"Banks/Insurance/Financial Services, Business Mgmt./Consultants/Freelancers, Finance",Ahmedabad,"12 Surya Sanjay Flat Bhatha, Paldi Ahmedabad Gujarat",Gugrat
+ShaileshPatel,mr.shaileshpatel@gmail.com,9377941905,"Banks/Insurance/Financial Services, Business Mgmt./Consultants/Freelancers, IT/Telecom - Software",Ahmedabad,10/B Shantivan Soc. B/h Parag Soc. Nr.Koteshwar Temple Old Narikendra Rd. Surendranagar-3630001.,Gugrat
+pareshmanseta,pareshmanseta@yahoo.co.in,9374154422,"Administration, Business Mgmt./Consultants/Freelancers, IT/Telecom - Hardware",Ahmedabad,"35, Thakore Bhai Tower, Opp, Khadi Sarita, B/H Law Garden, Ellisbridge. Ahmedabad.-380006",Gugrat
+ChiragShah,ccshah909@yahoo.com,9987248404,"Business Mgmt./Consultants/Freelancers, Marketing/MR/Media Planning, Sales/Business Development",Ahmedabad,"2,Shrinath Colony, Opp.Radhanpur Scoi, Bhairavnath Road, Ahmedabad.380028",Gugrat
+HARI IYER,spancomktg@gmail.com,9375403479,Business Mgmt./Consultants/Freelancers,Ahmedabad,"203, Sarthak Towers, RamdevNagar, Satellite AHMEDABAD GUJARAT 380 015 India",Gugrat
+VipulMehta,vipuloumkar@gmail.com,9825194448,Business Mgmt./Consultants/Freelancers,Ahmedabad,"D-8,Darshan Complex,1st Floor,Near Bhuyang dev Cross road B/H Arjun Tower,C.P.Nagar,C.P.Road Ahmedabad",Gugrat
+joshi kardam,joshi_kardam2002@yahoo.com,9879524177,Business Mgmt./Consultants/Freelancers,Ahmedabad,"""Hira Smruti"" - 71 Vaibhav Nagar, Sanala Road, morbi (gujrat) pincode.363641",Gugrat
+DHARMESHPARIKH,dnparikh@zapak.com,9913343364,Business Mgmt./Consultants/Freelancers,Ahmedabad,"27, JALSABAR SOCIETY, DHARAMNAGAR, SABARMATI, AHMEDABAD - 380 005 GUJARAT - INDIA",Gugrat
+NiravPatel,nirav_ush@hotmail.com,9898812189,"Business Mgmt./Consultants/Freelancers, IT/Telecom - Software, Marketing/MR/Media Planning",Ahmedabad,"25/291, Darshan Apartment, Nr. Naranpura Tel. Exc., Naranpura, Ahmedabad - 380013, Gujarat",Gugrat
+patel hitesh,hiteshp71@yahoo.com,9904124545,Business Mgmt./Consultants/Freelancers,Ahmedabad,"KESHAVPARK SOCITY,MANSA TA-MANSA DIST-GANDHINAGAR",Gugrat
+RAXIT RODIYA,raxit_thegreat1@yahoo.co.in,9879836377,"Business Mgmt./Consultants/Freelancers, Corporate Planning/Consulting/Strategy, Direct Sales Agent/Insurance Agents",Ahmedabad,"A-34,KRISHNA PARK SOCIETY,NR.DABHOI DASALAD BHAVAN, WAGHODIA ROAD,BARODA-019",Gugrat

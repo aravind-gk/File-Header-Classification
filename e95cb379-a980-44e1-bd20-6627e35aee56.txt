@@ -1,0 +1,21 @@
+FNAME,LNAME,TITLE,EMAIL,PHONE,MOBILE,ADDRESS1,ADDRESS2,CITY,ZIP,STATE,COUNTRY_ID,LANG,BIRTHDATE
+Sebastian,Ng,Mr,retroguy58@hotmail.com,-,\N,"Unit 12A, 191-199 Warwick Road",\N,Ipswich,4305,QLD,AUS,EN,\N
+Andrew,Woolf,Mr,awo@mail.nerc-essc.ac.uk,-,\N,31 Donnington Gardens,\N,Reading,RG1 5LY,Berks,AUS,EN,1967-08-13 00:00:00
+Andrew,Woolf,Mr,andrew.woolf@utas.edu.au,-,\N,71 Branscombe Rd,\N,Claremont,7011,TAS,AUS,EN,1967-08-13 00:00:00
+first,last,Mr,abtest@aol.com,-,\N,addrd,\N,city,787,\N,AUS,EN,1970-12-12 00:00:00
+robert,bishop,Mr,robertbishop@bigpond.com,61293582706,\N,2 lang road,\N,sydney,2021,nsw,AUS,EN,1959-02-27 00:00:00
+Lip Ping,Chin,Mr,takashi3216@hotmail.com,61403342841,\N,11A Foster Street,\N,Geelong South,3220,VIC,AUS,EN,1978-10-16 00:00:00
+Chris,Clarke,Mr,ismellar@aapt.net.au,(03) 63269380,\N,Unit 1 .,125 Alanvale Rd,Newnham,7248,Tasmania,AUS,EN,1976-08-10 00:00:00
+David,Smyth,Mr,hitme@primus.com.au,61410323873,\N,7 Nangar Place,\N,Emu Plains,2750,NSW,AUS,EN,1981-03-07 00:00:00
+suwitcha,sugthana,Mr,ountzza@swirve.com,-,\N,24b howick st.,Burswood,Perth,6100,WA,AUS,EN,1982-04-06 00:00:00
+Perry Chi Fai,Law,Mr,perrylaw@hotmail.com,+614 16186633,\N,"Shop 5, Elizabeth Arcade, 99 Elizabeth Street",\N,Brisbane,4000,QLD,AUS,EN,\N
+James,Quilter,Mr,livefree@gmx.co.uk,-,\N,35-22 B Horwood Pl,\N,Parramatta,2150,NSW,AUS,EN,1955-05-05 00:00:00
+Melvin,Wee,Mr,weemelvin@hotmail.com,0421 621 386,\N,unit 5 number 2 Wordsworth Ave,\N,Clayton South,3169,Victoria,AUS,EN,1976-02-23 00:00:00
+Don,Nguyen,Mr,moneybookers@unswrc.com,9663 5100,\N,1 Forsyth Street,\N,Kingsford,2032,NSW,AUS,EN,1981-03-04 00:00:00
+Forex,Gold,Mr,info@e-forexgold.com,610418974306,\N,PO Box 874,\N,Bondi Junction,1355,NSW,AUS,EN,1972-03-03 00:00:00
+bredan,wenke,Mr,bredan30@hotmail.com,-,\N,262clarence street,\N,ho chi minh,84,\N,AUS,EN,1978-12-15 00:00:00
+Tim,Crichton,Mr,timc123@hotmail.com,61,\N,7 Chatsworth Grove,\N,Toorak Gardens,5065,SA,AUS,EN,1976-04-15 00:00:00
+Tan,Chuan Siang,Mr,pumpkinz@asia.com,61,\N,Unit 999u9,\N,Adelaide,5000,\N,AUS,EN,1981-04-08 00:00:00
+Georgie,Whittem,Ms,georgiew@hotmail.com,-,\N,7 Chatsworth Grove,\N,Toorak Gdns,5065,\N,AUS,EN,1978-04-26 00:00:00
+Ramsn,Benjamin,Mr,ramsn@bigpond.net.au,61,\N,9 Tobruk Place,\N,Bossley Park,2176,NSW,AUS,EN,1978-05-10 00:00:00
+Peter,Steinemann,Mr,peter@skyline-apa.com.au,61,\N,P.O. Box 693,\N,Heathmont,3135,Victoria,AUS,EN,1957-02-03 00:00:00

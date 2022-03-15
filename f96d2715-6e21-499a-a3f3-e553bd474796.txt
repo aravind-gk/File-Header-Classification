@@ -1,0 +1,21 @@
+Name,Email,Mobile,Category,City,Address,State
+chiranjib sarkar,chiranjib_lt@sify.com,9862551500,Service Engineers,MEGHALAYA,Rajib Sarkar Monibag Kaliyaganj (PO) West bengal Pin-733121,MEGHALAYA
+Sanjib Choubey,choubeysanjib@yahoo.in,9862091665,"Engg. project Mgmt./site Engg./Civil Engg., Oil and Gas, Others",MEGHALAYA,"C/O Mr.Binod Kr. Choubey Kalibari Area Q.No.3326""B"" P.O.-Digboi Dist.-Tinsukia Assam ( PIN-786171 )",MEGHALAYA
+Basit Barbhuiya,basitahmed@indiatimes.com,9863642188,Engg. project Mgmt./site Engg./Civil Engg.,MEGHALAYA(Assam),"Basit ahmed c.o-Mayeen uddin barbhuiya.near Eastern hotel, haflong.P.o- haflong p.s-haflong N.C.HILLS(assam) pin-788819",MEGHALAYA
+BISWADEEPPAL,biswadip_pal@yahoo.com,9862997334,Engg. project Mgmt./site Engg./Civil Engg.,MEGHALAYA(Byrnihat),"C/O RAJAT PAL : C/ 32, PATULI GHOSH PARA : KOLKATA PIN - 700094",MEGHALAYA
+Ramesh ChandraMalakar,ramesh.malakar@yahoo.com,9863534321,Engg. project Mgmt./site Engg./Civil Engg.,MEGHALAYA(Jaintia Hills),"Vill- Nutangopal Pur, P.O.- Pritinagar, Dist-Nadia (West Bengal)",MEGHALAYA
+Sunil Kumar Mishra,sunilgec06@yahoo.co.in,9863635596,Engg. project Mgmt./site Engg./Civil Engg.,MEGHALAYA(Jaintia Hills),sunil mishra C/O shri chandramani mishra beside sps tiwari residence arun nagar rewa (m.p.),MEGHALAYA
+Biswanath Singh Hemam,kegepathou@yahoo.in,9436385771,Engg. project Mgmt./site Engg./Civil Engg.,MEGHALAYA(Jowai),"Head of Department,Automobile Engg. Jowai Polytechnic,Jowai,Jaintia Hills Meghalaya PIN-793150",MEGHALAYA
+SiddharthaRoy,siddartha1roy@gmail.com,9862565528,Engg. project Mgmt./site Engg./Civil Engg.,MEGHALAYA(Jowai),Near shiva mandir laban Shillong Meghalaya 793004,MEGHALAYA
+SOMNATHDEY,dey.somnathdey@yahoo.com,9612180916,Engg. project Mgmt./site Engg./Civil Engg.,MEGHALAYA(Lumshnong),"Ramlal Dutta Lane, P.O.:- Bhadrakali, Dist.:- Hooghly W.B.:-712232",MEGHALAYA
+PareshKumar Thakuria,pthakuria@gmail.com,9856035023,"IT/Telecom - Hardware, Service Engineers, Teaching/Education","MEGHALAYA(Meghalaya, Shillong)","Software Technology Parks of lNDIA Lum Jingshai, Near Meter Factory Shillong-739001",MEGHALAYA
+supratimghosh,supratim_1981@rediffmail.com,9612159697,Engg. project Mgmt./site Engg./Civil Engg.,"MEGHALAYA(Thangskai, Meghalaya)","room no-8/239, ocl colony, rajgungpur, sundargarh, orisha.",MEGHALAYA
+Sibu Roy,siburoy@yahoo.com,9612192808,Engg. project Mgmt./site Engg./Civil Engg.,MEGHALAYA(Tura),Jyangra 04 no colony KOLKATA WEST BENGAL 700059 India,MEGHALAYA
+pradiproy,pradipayan@gmail.com,9436726146,Engg. project Mgmt./site Engg./Civil Engg.,MEGHALAYA(Tura),"PRADIP KR. Lower hawakhana, Tura, West Garo Hills, Meghalaya",MEGHALAYA
+koushikpal,babin1985@yahoo.co.in,9862866441,"Engg. project Mgmt./site Engg./Civil Engg., Oil and Gas",MEGHALAYA(lumshnong),Mr. Koushik Pal S/O- Mr. Ajit Pal Vill.:SOUTHSURA P.O:CHAKDIGHI DIST:BURDWAN P.S:JAMALPUR PIN:713404 WEST BENGAL,MEGHALAYA
+NANDANBISWAS,nandan84@timejobs.com,9733949686,Engg. project Mgmt./site Engg./Civil Engg.,"MEGHALAYA(RAJABAGAN,BYRNIHAT)","VILL+PO-RAJARMATH,DIST-NADIA,P.S.-CHAKDAHA,PIN-741223",MEGHALAYA
+AnushaKollata,anusha.kollata@yahoo.com,9615444911,Engg. project Mgmt./site Engg./Civil Engg.,MEGHALAYA(Meghalaya),"Jaintia Hills, Meghalaya.",MEGHALAYA
+shihabul alam choudhury,silu_12jan@rediffmail.com,9862476881,Engg. project Mgmt./site Engg./Civil Engg.,MEGHALAYA(Lumshnong),s/o Sofiqur rahman choudhury vill@po : Rangauti Dist: Hailakandi State: assam Pin: 788155,MEGHALAYA
+SANDIP PURKAYASTHA,ayonpurkayastha@rediffmail.com,9436108908,"Materials/Logistics/Supply Chain Mgmt/Procurement, Engg. project Mgmt./site Engg./Civil Engg., Production/Manufacturing/Maintenance/Packaging",MEGHALAYA,"E.P.I.P., RAJA BAGAN, BYRNIHAT, MEGHALAYA 793101",MEGHALAYA
+JAMAN CHOWDHURY,mashuk.jaman@indiatimes.com,03842) 235997,Engg. project Mgmt./site Engg./Civil Engg.,MEGHALAYA,"PHOTOGRAPH VILL.- THANGSKAI, P.O- LUMSHNONG DIST- JAINTIA HILLS, MEGHALAYA",MEGHALAYA
+Koushik Goswami,kouzec@gmail.com,9436335258,"Engg. project Mgmt./site Engg./Civil Engg., Production/Manufacturing/Maintenance/Packaging",MEGHALAYA(Khliehriat),H/No: 23 Rodali Path RG Baruah Road Guwahati-24 (Assam),MEGHALAYA

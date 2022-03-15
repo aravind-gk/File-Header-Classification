@@ -1,0 +1,21 @@
+URL,Firm-Name,Mobile1,Address,District,State,category
+http://www.indiamart.com/yorkmedia-solution/,York Media Solutions Private Limited,9999878786,"D- 66, Amar Colony, Lajpat Nagar- 4, New Delhi - 110024, Delhi, India",,New Delhi,ADVERTSING INDUSTRY
+http://www.indiamart.com/palcovideo/,Palco Video,9999673494,"No. 4, Central Lane, Back Side Bengali Market, Connaught Place, New Delhi - 110 001 , Delhi, India","Maharashtra, India",New Delhi,ADVERTSING INDUSTRY
+http://www.indiamart.com/teamwork-media/,Teamwork Media Solutions,9999605131,"666, Pocket A- 5, Vasant Kunj, New Delhi - 110 075, Delhi, India","tra, India",New Delhi,ADVERTSING INDUSTRY
+http://www.indiamart.com/colorzcreations/,Colorz Creations,9999462989,"No. 13, First Floor, Old Rajinder Nagar, Opposite Rapid Floor Mills, Delhi - 110 060, Delhi, India",,Delhi,ADVERTSING INDUSTRY
+http://www.indiamart.com/company/4039394/,Ashok Art,9998456918,"No. 1, Swaminarayan Nagar, Hatkeshwar To CTM Raod, Near Umiya Nagar, Opposite Rastrabharti Hindi Vidhyalaya, A",a,Ahmedabad,ADVERTSING INDUSTRY
+http://www.indiamart.com/company/2135395/,TenderWebsite Dot Com,9998131600,"B-704, Wall Street-2, Opposite Orient Club, Ellisbridge, Ahmedabad - 380006, Gujarat, India",,Ahmedabad,ADVERTSING INDUSTRY
+http://www.indiamart.com/ate-group/,Ate Group of Companies,9995809940,"First Floor, New Corporation Building, Palayam, Kochi - 695033, Kerala, India",,Kochi,ADVERTSING INDUSTRY
+http://www.indiamart.com/humming-bird-pvtltd/,Humming Bird Informatics India Private Limited,9995203778,"Cochin, Kochi - 682025, Kerala, India",,Kochi,ADVERTSING INDUSTRY
+http://www.indiamart.com/janatha-bookstall/,Janatha Book Stall,9995048499,"Press Club Road, Ernakulam - 682 011, Kerala, India",,Ernakulam,ADVERTSING INDUSTRY
+http://www.indiamart.com/fathi-software-madurai/,Fathi Software,9994026555,"34,Mosque Street, Near Reliance Fresh,Annanagar,, Madurai - 625020, Tamil Nadu, India",,Madurai,ADVERTSING INDUSTRY
+http://www.indiamart.com/rs-infotech-newdelhi/,R. S. Infotech,9990800604,"No. 123, Vishal Towers, District Center, Janak Puri, New Delhi - 110 058, Delhi, India",,New Delhi,ADVERTSING INDUSTRY
+http://www.indiamart.com/bsil-services/,Bs India Language Services,9990655582,"5/175 A Kamna Vaishali, Ghaziabad - 201009, Uttar Pradesh, India",,Ghaziabad,ADVERTSING INDUSTRY
+http://www.indiamart.com/company/3492036/,Rasa Associates,9990353330,"No. 100-A, Basement Gautam Nagar, New Delhi - 110049, Delhi, India",,New Delhi,ADVERTSING INDUSTRY
+http://www.indiamart.com/company/3158075/,Madhyam Communications,9989821333,"No. 16-2-740/75/73, VK Dhage Nagar, Gaddiannaram, Dilshuk Nagar, Hyderabad - 500060, Andhra Pradesh, India",,Hyderabad,ADVERTSING INDUSTRY
+http://www.indiamart.com/ambika-ad-agency/,Ambika Ad- Agency,9988987000,"ER - 145, 1st Floor, Bahri Complex, Milap Chowk, Jalandhar - 144 001, Punjab, India",,Jalandhar,ADVERTSING INDUSTRY
+http://www.indiamart.com/opkomen-services/,Opkomen,9988224462,"E-45, Phase Viii Industrial Area, Mohali - 160059, Punjab, India",,Mohali,ADVERTSING INDUSTRY
+http://www.indiamart.com/bioinfo-publications/journals-publication.html,Bioinfo Publications,9987770696,"B-23 /7, Kendriya Vihar, Sector-11, Kharghar, Navi Mumbai - 410 210, Maharashtra, India",,Navi Mumbai,ADVERTSING INDUSTRY
+http://www.indiamart.com/vandan-enterprises/danglers-printing-services.html,Vandan Enterprises,9987335927,"1st Floor, Mehta House, Kama Estate, Val Bhatt Road, Opposite Vivek Industrial Estate, Anna Nagar, Goregaon Ea",,Mumbai,ADVERTSING INDUSTRY
+http://www.indiamart.com/booksmelacom/,Booksmela.Com,9986835114,"1, 6th Main, T.P.Kailasam Road,. Hanumanthanagar, Bengaluru - 560019, Karnataka, India",,Bengaluru,ADVERTSING INDUSTRY
+http://www.indiamart.com/company/2917093/,"M Designs, Bengaluru",9986021395,"No. 19/2, 2nd Cross, 4th ''a'' Main S. G. Laypout Saraswathi, Puram Halasuru, Bengaluru - 560008, Karnataka, I",,Bengaluru,ADVERTSING INDUSTRY

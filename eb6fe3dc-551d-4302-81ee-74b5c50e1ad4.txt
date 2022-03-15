@@ -1,0 +1,21 @@
+EmailAddress,FirstName,LastName,MailAddress1,CityName,ProvinceStateName,PostalZipCode,GenderID,BirthDate,LeadIPAddress,LeadURL
+00samjes.garcia@comcast.net,,,,PEARLAND,TX,77581,,,76.30.46.219,yourautohealthlifeinsurance.com
+03064334844ma@gmail.com,,,,ISLAMABAD,,,,,103.7.79.76,dating-hackers.com
+0428golden@gmail.com,JENNIFER,JACKSON,616north14aveapartment616,ROANOKE,AL,36274,,,68.190.43.22,findinsuranceinfo.com
+0728karenanderson@gmail.com,KAREN,ANDERSON,,POLK CITY,FL,33868,,,66.87.148.26,findinsuranceinfo.com
+0c34n8lu3@gmail.com,,,,BEDMINSTER,NJ,,,,70.198.34.154,instantcheckmate.com
+1007674@gmail.com,Roy,Harrell,,BELLEVUE,WA,,,,172.56.21.238,3-iphone7-us.lp2.sweepstakescentralusa.com
+1061musicians@gmail.com,DONNELL,BERRY,,BELLEVUE,WA,30013,,,248.172.49.171,findinsuranceinfo.com
+10mrspayne@gmail.com,ANGELINA,BURNETT,,PARK,KS,,,,66.87.72.64,startjobs.co
+1127mwhite@gmail.com,michael,white,,SALEM,OR,97311,,,97.120.69.190,myrewardsgroup.com
+11penteris@gmail.com,nicholas,penteris,,BELLEVUE,WA,,,,172.68.74.111,insurmyauto.com
+1218dana@gmail.com,DANA,DEPAZ,,CHIPLEY,FL,32428,,,74.248.63.181,autoloanadvantage.com
+12357dm@gmail.com,DAVID,MARTINEZ,,TUCSON,AZ,85721,,,65.129.179.225,collegesearchdirectory.com
+123six@gmail.com,Sarah,billybob,3355 S 34th St,CHICAGO,IL,60609,,,99.95.132.26,kidslivesafe.com
+12angelco69@gmail.com,Angela,,,ATLANTA,GA,,,,107.77.165.1,grantapproval360.com
+12skitters@gmail.com,Carrie,Goins,,METAMORA,MI,48455,,,50.108.91.77,homebizprofiler.com
+13kempmyl@gmail.com,Myles,Cole,,LA CROSSE,WI,54601,,,184.158.64.90,Dealzingo.com
+14enanas@gmail.com,Shirley,Paris,,PARIS,TN,38242,,,24.183.208.49,mywinningsweeps.com
+157ibffu@gmail.com,MARIA,IZQUIERDO,,TACOMA,WA,98401,,,97.113.189.56,http://www.employmentsearchusa.com
+16brdhawk@gmail.com,chuck,,,PARK,KS,,,,174.219.142.34,onlinedegreeradar.com
+1710crazyrabbit67@gmail.com,Darrin,Powell,,ATLANTA,GA,,,,107.77.169.6,surveyclubfun.com
