@@ -1,0 +1,21 @@
+Name,Email,Mobile,Category,City,Address,State
+MDSHAHID,shahid_ali25@rediffmail.com,9911990631,NGO/Social Services,Bhagalpur,P.O. Habibpur Bihar BIHAR 813113 India,BIHAR
+PAWAN KUMAR,pawanthakur0000@gmail.com,9931302848,NGO/Social Services,Bhagalpur,at-sahebganj post-champanagar p.s-univesity thane dist-bhagalpur pin-812004 state-bihar,BIHAR
+VAHIDHASAN,nau_sahid@rediff.com,9430426985,NGO/Social Services,Bhagalpur,,BIHAR
+PankajKumar,pankaj_1377@yahoo.com,9835876806,NGO/Social Services,Bhagalpur,"C/o-Sanjay Kr. Sharma Sharma Niketan Goha Villa, Masaak Chak, Bhagalpur(Bihar)",BIHAR
+chandralekha singh,chandralekha_singh@yahoo.com,9304186309,NGO/Social Services,Bhagalpur,"chandralekha,c/o-Dhruva Nath Singh,Shivpuram,Via-Vijay Nagar,PO-BVC Campus,Patna-800014",BIHAR
+RANJANARANI,ranjanarani2009@gmail.com,9386110063,"Healthcare, NGO/Social Services",Bhagalpur,"c/o Rajesh Kumar Yadav D -116, DDA Flats Kalkaji, New Delhi-19",BIHAR
+Tarun Dhandhania,tarun.dhandhania@gmail.com,9380747008,"Others, NGO/Social Services",Bhagalpur,Bansi Kunj Dr. R.P.Road Bhagalpur,BIHAR
+priyankaverma,priyanka.verma21@gmail.com,9430577636,NGO/Social Services,Bhagalpur,C/o B.M.Verma Savitri Sadan Road No. 2 patel Nagar Patna 23,BIHAR
+KISHORE CHOUDHARY,kkchybkgb@yahoo.co.in,9939877490,"Banking, Insurance, NGO/Social Services",Bhagalpur,"22 SATISH SARKAR LANE, MASHAKCHAK, ADAMPUR, BHAGALPUR 812001",BIHAR
+Dr Nishant Sinha,drnishantsinha7@rediffmail.com,9334110049,"Healthcare, NGO/Social Services",Bhagalpur,"C/o Dr.A.K.Sinha, Opp.Om Vihar, Kadam Kuan,Patna- 800 003 Bihar",BIHAR
+DrRanjan Kr Sinha,rksbgp@rediffmail.com,641-2620936 2302953,"Biotechnology/Pharmaceutical/Medicine, Consulting Services, NGO/Social Services",Bhagalpur,"T.M. BHAGALPUR UNIVERSITY, BHAGALPUR-812007 INDIA",BIHAR
+DHIRAJ KUMAR,kumardhiraj64@yahoo.com,9431292901,"Healthcare, Insurance, NGO/Social Services",Bhagalpur,DHIRAJ KUMAR WALIPUR JAMALPUR MUNGER 811214 BIHAR,BIHAR
+Dr SAK Nasar,saknasar@indiatimes.com,9431872066,"Educational/Training, NGO/Social Services",Bhagalpur,"Dr.S.A.K.Nasar 1st Floor,H/o (Late)Dr.Aziz Ahmad, Dr.R.P.Road, Bhagalpur City P.O., Bhagalpur -812002, India",BIHAR
+rakhi mondal,rakhi_mondal_62@yahoo.co.in,9234281246,NGO/Social Services,Bhagalpur,"28,chatra pati para,po-chatra,dist-hooghly,pin-712204",BIHAR
+Mrityunjay Kumar Sah,mrityumjay.203@rediffmail.com,9973030755,NGO/Social Services,Bhagalpur,"At+po- Rangra, via -Naugachia Dist- Bhagalpur (Bihar)",BIHAR
+PAYAL KUMARI,payaldec@indiatimes.com,9835130265,NGO/Social Services,Bhagalpur,"D/O Sh. B. panjiyara, C.C.Mukharji road, Kacheri Bhagalpur-812001",BIHAR
+MANSOOR AHMAD,cderc_org@rediffmail.com,9431214894 9431214228,NGO/Social Services,Bhagalpur,"AHMAD MANZIL, RAMSARCHOWK, URDUBAZAR ROAD, BHAGALPUR-CITY, BIHAR-812002",BIHAR
+prem nath ranjan,premnath_ranjan@yahoo.co.in,9931092610,NGO/Social Services,Bhagalpur,"13, Poddar Toli Lane, Jogsar, BHAGALPUR Bihar-812002",BIHAR
+rahul bhardwaj,rahulkr2k@yahoo.com,9891212159,"NGO/Social Services, Telecom",BIHAR,"wz 406, Master Bhawan, Palam Village, New Delhi",BIHAR
+ANUNAY mishra,anunaybii@gmail.com,9730951448,NGO/Social Services,BIHAR,"SATYA NAGAR, BEHIND BLOCK QUARTER GODDA JHARKHAND",BIHAR

@@ -1,0 +1,21 @@
+customer_id,customer_tel,customer_mail,customer_postcode,customer_password,customer_user_name
+1,03-3219-0011,ishii1@l-m.co.jp,101-0064,100100,ʯ\xbe\xae
+2,111,info@mcstudio.jp _ 2,111,test,\xbdԴ\xa8\xd5\xfd\xc3\xf7
+3,03-5275-5420,kasahara@l-m.co.jp _ 3,102-0072,landmark01,\xf3\xd2ԭ
+4,03-3219-0011,info@l-m.co.jp _ 4,101-0064,landmark01,\xf3\xd2ԭ
+5,03-3727-0182,yumikoaidesu@ybb.ne.jp,145-0065,3727,\xcf\xc4Ŀ\xa1\xa1\xd3\xc9\xc3\xc0\xd7\xd3
+6,090-4704-1173,msr_t_55@hotmail.com,241-0014,535353,\x8d롡¡\xd0\xd0
+7,0995-67-3333,kenshoh@po.synapse.ne.jp,899-5421,kenshoh,\xd2\xc1\x96|\xa1\xa1\xc0\xedһ\xc0\xc9
+8,043-222-7615,beck23195@yahoo.co.jp,260-0851,1950,ˮ\x8d\xeb\xba\xeb\xd6\xd2
+9,090-9679-2688,gimsunkimjp@yahoo.co.jp,169-0072,92088,\xcd\xe8ɽ\xa5\xbd\xa5\xcd
+10,090-7002-2872,shianbara@excite.co.jp,413-0232,balance,\xd1ҳǡ\xa1\xd3\xc9\xc3\xf7
+11,090-2315-6023,nakayama.greenline@eos.ocn.ne.jp,329-0521,120,\xb9𴨆\x99̫
+12,0555-72-5322,syo-41@zpost.plala.or.jp _ 12,401-0301,superbox,\xbc\x9a\xb4\xa8\xd5\xfdһ
+13,092-924-8698,sr-tm@amber.plala.or.jp,818-0122,riedayoon,\xba\xe1ɽ\xa1\xa1\xc0\xfb\x90{
+14,095-883-0019,lapin@k3.dion.ne.jp,8512100,19,iwase
+15,0866-22-6111,takahashi@pinetree-golf-club.jp,716-0068,6111,\xb8ߘ\xf2\xd5\xe6\xb6\xfe
+16,090-8687-3043,yoshi3037@mac.com,351-0025,n19553037,\xd3\xc0\xccϲ\xbe\xc3
+17,018-824-4489,dhupure@ybb.ne.jp,010-0967,dhupure,ʯ\xbe\xae
+18,080-5037-5661,swingdixieska@ybb.ne.jp,156-0055,1010,ɭ\xa1\xa1\xbd\xab\xc5d
+19,055-253-7857,hi-6-ki@v7.com,400-0013,hi6ki321,\xbbľ\xae\xba\xeb\x98\xe4
+20,0172-87-3672,info@s-tyle.com,036-8247,8.91217E+11,\xd7\xf4\xcc١\xa1\xc2}Ҳ

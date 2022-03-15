@@ -1,0 +1,11 @@
+Name,Email,Mobile,Category,City,Address,State
+sujitdutta,dutta_sujit80@yahoo.com,9774171753,"Software Engineer, Training",Dimapur,"NIIT-dimapur centre. jain temple road.dimapur,nagaland.pin-797112",Nagaland
+Bharat Yadav,bharat_us2006@yahoo.com,9862123955,"Application Programming, Software Engineer",Dimapur,"Flat no-06, Hotel Fantasy Appartment,Opp. East Police Station,Dimapur,Nagaland PIN-797112",Nagaland
+mary zhimo,maryzhimo@gmail.co.in,9436211041,"Internet/E-commerce, Software Engineer",Dimapur,"nikuvu hostel, khermahal, dimapur",Nagaland
+narosangla rentta,narosangla_r@yahoo.co.in,9856730015,"Software Engineer, Other Fresh Grad",Dimapur,,Nagaland
+Imlisanen Longchar,san_chordata@yahoo.com,9910816207,"GPRS, GSM, H/W Installation/Maintenance, Mobile, RF Engineering, Signal Processing, Software Engineer, System Analyst/Tech Architect, System Security",Dimapur,ALCOVE KASHIRAM P.O. BOX- 32O DIMAPUR-797112,Nagaland
+FLORENCE CHETTIAR,florencechettiar@yahoo.in,9960779410,"Application Programming, Software Engineer, Other IT Software",Kohima,"102,JAI MANAS CO-OP. HSG. LTD. SOC BADLAPUR MAHARASHTRA 421503 India",Nagaland
+PoiSwuro,pulie_3@yahoo.co.in,9856259391,Software Engineer,Kohima,"Niit Centre Kohima 2nd Floor Vizol'Building Opp New N.S.T, Kohima Nagaland-797001",Nagaland
+Orendro Wangkhem,link2ok@rediffmail.com,9436437946,"Application Programming, Graphic Designing/Animation/Web Designing, Software Engineer, Training",Kohima,"RIELIT, Lerie Colony, NH-39, Imphal Road, Kohima, Nagaland - 797001",Nagaland
+deepa rana,deepa.rana@gmail.com,9811776998,"Application Programming, Client Server, Software Engineer",NAGALAND(delhi),998 jawahar colony faridabad haryana,Nagaland
+divya sharma,michellest10@gmail.com,9436018183,Software Engineer,NAGALAND(medziphema),"c/o dr. d.p sharma,professor in physics,nagaland university,medziphema-797106 nagaland",Nagaland

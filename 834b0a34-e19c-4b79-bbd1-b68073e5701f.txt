@@ -1,0 +1,21 @@
+name,email,mobile,category,address,city
+RAJESHCHATURVEDI,tcc_raj@yahoo.com,9414306499,"Direct marketing, Marketing Strategy, Other Marketing/Media","1-H-13, S.T.C. HOUSING BOARD BHARATPUR",Jodhpur
+MonikaJoshi,monika_28nov@rediffmail.com,9967134994,Application Programming,"715, Ashok Nagar, Mahamandir, Jodhpur (Raj.)",Jodhpur
+balajinagarajan,balaji_pkm@yahoo.com,9791239032,"Marketing Strategy, Organization Development, Profit Improvement","25c, Vellalar middle street, Watrap - 626132 Virudhunagar district Tamilnadu",Jodhpur
+Himanshu Chetan,hcv0jobs@gmail.com,9352945644,"Desktop Support, Graphic Designing/Animation/Web Designing, Software Engineer","682, Gandhi Coloney Jaisalmer RAJASTHAN 345001 India",Jodhpur
+kunalkalla,kunal_kalla@yahoo.com,9928024340,Other Oil & Gas,"kunal kalla s/o cm kalla c/o gk bora ,inside jalore gate ,baniya bara ,jodhpur",Jodhpur
+madhushekhawat,madhushekhawat_22@yahoo.co.in,9414116100,"Analytical Chemistry, Chemical Research, Drug Regulation, Environmental Science, Lecturing/teaching, Other Oil & Gas","Dr.Madhu shekhawat D/O R.N.shekhawat 114,Amar singh colony Nagaur (Raj)",Jodhpur
+MEHTABLAKHANI,lovemehtab_u@yahoo.com,9462049724,Medical Rep.,"MEHTAB LAKHANI 163, subhash nagar pal road JODHPUR (RAJ) Moblile No. 91-9799098000",Jodhpur
+MOHAMMED imran,mohd.imran.kh@gmail.com,9636470236,H/W Installation/Maintenance,"c/o ateeq gouri, ashraf manzile mertigate, jodhpur (raj.)",Jodhpur
+MOHD IMTIYAZ KHAN,imtiyaz_291@rediffmail.com,9414243360,,"P-99, BEHIND 10 SHOPS, CHOPASNI ROAD, NANDANVAN, JODHPUR RAJ 342008 INDIA",Jodhpur
+naveen vyas,naveen_vyas@rediffmail.com,9460683233,Personal/Retail,near vyas park khagal mohalla jodhpur,Jodhpur
+Naresh Purohit,ncpurohit@yahoo.in,9829051266,"Administration, Electrical/Electronic, HVAC, Project Management, Other EP Mgmt/St Eng/CE","Opp. rog nidan seva inside jalori gate, jodhpur, Rajasthan",Jodhpur
+prem chauhan,pkschauhan2003@yahoo.co.in,9829218163,Product /Brand Management,"PREM KUMAR CHAUHAN c/o satish kumar 1, central scheme, airforce, jodhpur (rajasthan)",Jodhpur
+PRADEEP BHATI,pradeep_bhati2006@yahoo.co.in,91(0291) 2646222,,"S/O SHRI RAMCHANDRA BHATI RAGHUNATH[URA, OPP.DHARAMPURA SCHOOL I/S SIWANCHI GATE JODHPUR-342001 RAJASTHAN",Jodhpur
+RameshKhatri,khatarnaak_khatri@yahoo.co.in,9413639105,Other IT Software,"RAMESH KHATRI C/O J.M.KHATRI,124 OLD BHAGAT KI KOTHI,HANUMAN MANDIR GALI, NEW PALI ROAD,JODHPUR",Jodhpur
+RAVINDER SINGH SHEKHAWAT,ravin_81@rediffmail.com,9460155585,Engineering,S/O SH M.S.SHEKHAWAT SMQ-529/6 GURU DWARA COMPLEX NEAR AIR FORCE STATION RATANADA JODHPUR(RAJ),Jodhpur
+shahid akhtar,shahid_khtr@yahoo.com,9829946903,Housekeeping,265/d Digvijay nagar -1 gorakhnath g k p,Jodhpur
+hemasinghvi,singhvihema@gmail.com,9784417175,Equity Analyst,written in c.v,Jodhpur
+ShwetaPandey,spsonusona@gmail.com,9928434155,Guest Relation,1b489 kudi bhagtasni housing board basni Jodhpur Rajasthan.,Jodhpur
+Sumit Vyas,sumit.vyasnis@gmail.com,9950328849,"Customer Service, Marketing, Operations","O/S Chandpol, Near VidyaShalla Jodhpur Rajasthan 342001 India",Jodhpur
+umesh kumar,umu_re@yahoo.com,9929096696,Others,Q No 760/3 Ajmer Line Army Area Jodhpur (Raj) India-342006,Jodhpur

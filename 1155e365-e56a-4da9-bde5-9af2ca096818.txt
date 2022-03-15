@@ -1,0 +1,2 @@
+id,prod_id,size_id,price
+

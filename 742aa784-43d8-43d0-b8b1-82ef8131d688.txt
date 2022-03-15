@@ -1,0 +1,5 @@
+LineNumber,InvoiceNumber,TransactionId,TransactionRecordType,PolicyNumber,PurchaseDate,PrimaryTravelerName,NumberOfTravelers,PackageName,PackageSubtitleName,DepartureDate,ReturnDate,AgentName,AgentCode,FacilitatingAgentCode,SubmissionTypeName,PolicyAmount,PolicyFees,TransactionAmount,CommissionRate,CommissionAmount,NetAmount,PartnerSettledAmount,Comments
+1,99,a2B16000000Aow8EAC,Payment,200014639,01/18/2016,Paul Anas,1,Leisure Plus,,02/20/2016,02/24/2016,Amanda Rios,AA0991,,Upload,240.60,0.00,240.60,30.00,72.18,168.42,,
+2,99,a2B16000000AotYEAS,Payment,200014608,01/22/2016,Caldwell Marks,1,Leisure Plus,,02/24/2016,03/01/2016,Amanda Rios,AA0991,,Upload,369.50,0.00,369.50,30.00,110.85,258.65,,
+3,99,a2B16000000AotdEAC,Payment,200014607,02/16/2016,Ira Gelb,1,Leisure Plus,,03/26/2016,04/01/2016,Amanda Rios,AA0991,,Upload,252.39,0.00,252.39,30.00,75.71,176.68,,
+4,99,a2B16000000AotTEAS,Payment,200014606,02/16/2016,Ira Gelb,1,Leisure Plus,,03/05/2016,03/08/2016,Amanda Rios,AA0991,,Upload,139.38,0.00,139.38,30.00,41.81,97.57,,

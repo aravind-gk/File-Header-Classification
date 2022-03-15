@@ -1,0 +1,21 @@
+Name,Email,Mobile,Category,City,Address,State
+DESHPANDEDeshpande,prash_desh2000@yahoo.com,9890307980,"Electronics, Production/Manufacturing/Maintenance/Packaging",Nasik,"10, Swapnadeep Society, Lingayat Colony Deolali MAHARASHTRA 422 101 India",Nasik
+BhushanPatil,bhushanpatil23@gmail.com,9657131865,"Electronics, Fresh Graduate-No Functional Area exp., IT/Telecom - Hardware",Nasik,"‘Nalanda-606’, International Institute Of Information Technology, P-14, Rajiv Ghandhi Infotech Park, Hinjawadi, Pune",Nasik
+Raghuttam Varakhedkar,rkvarakhedkar@sify.com,9422274941,"Electronics, Engg. project Mgmt./site Engg./Civil Engg., Production/Manufacturing/Maintenance/Packaging",Nasik,"C/O.Jindal Poly Films Limited, 28th KM Nasik-Igatpuri Road, Vill.Mundegaon, Tq.Igatpuri,Distt. Nashik 422403",Nasik
+Sumedha Kasrekar,kasrekarsumedha23@gmail.com,9850993356,Electronics,Nasik,A-1/7 shri Rajsarathi societyIndira nagar Nasik 422009,Nasik
+samirsonone,samirsonone04@gmail.com,9765394007,"Electronics, Marketing/MR/Media Planning",Nasik,"ty-3,sec-4,Qtr no. 8/A, O.F.CHANDA-442501",Nasik
+snehaphadnis,snehaphadnis_engg@rediffmail.com,9890616005,"Electronics, IT/Telecom - Hardware, Teaching/Education",Nasik,"I-8 Thakkars retrete, old gangapur naka, gangapur road, nashik-13",Nasik
+manoj kshirsagar,m_kshi76@rediff.com,9881300565,"Administration, Electronics, Materials/Logistics/Supply Chain Mgmt/Procurement",Nasik,"1758, New Maharashtra Housing Colony, Satpur, Nashik - 422 007",Nasik
+Mr Prashant D Bhandare,mailprash_instru6@yahoo.co.in,9860609645,"Electronics, Engg. project Mgmt./site Engg./Civil Engg., Others",Nasik,"Flat No.6, AnandJyot, Gangapur Road Pumping Station, Nashik - 422009",Nasik
+AmitKher,amit.akher@gmail.com,9890959809,"Electronics, IT/Telecom - Hardware, Quality/Process Control",Nasik,"825, Flat No. 7, Goreram Co-op Hos. Soc., Goreram Lane, Raviwar Karanja, Nashik-422001",Nasik
+Parag Chincholikar,paragchincholikar@yahoo.co.in,9725892474,"Electronics, Fresh Graduate-No Functional Area exp., Quality/Process Control",Nasik,"4, Nilkanth-Darshan soc. , Sneh Nagar, Dindory Road, Mhasarul, Nasik-422004",Nasik
+UMESH GANGURDE,gangurdeumesh01@gmail.com,9623954956,Electronics,Nasik,"n -41-a-f-2-13-9, 4th scheem,cidco,nasik",Nasik
+YOGESHPURKAR,yogesh_purkar@rediffmail.com,9272563516,"Electronics, Quality/Process Control",Nasik,"4th Scheme, New CIDCO Nasik MAHARASHTRA 422008 IN",Nasik
+amol kumavat,amol.kumavat@gmail.com,9226936110,"Electronics, IT/Telecom - Hardware, IT/Telecom - Software",Nasik,"Amol Kumaavt Swami vivakanand colony Kargaon Road, Chalisgaon Dist- Jalgaon",Nasik
+jayesh chaudhari,jayeshproff@yahoo.com,9960174499,"Electronics, IT/Telecom - Hardware, IT/Telecom - Software",Nasik,"USHA VILLA,VIDHATE NGR,BHD FAME CINEMA,NASIK-06,MAHARASHTRA-422006.",Nasik
+PrashantPawar,29prash@gmail.com,9922826882,Electronics,Nasik,"Flat No.5, B-wing, Suresh-Bapu Plaza, Kutwad Nagar, Nashik-10, Maharashtra.",Nasik
+Bhagyashree Gorakh,bhagyashree.gorakh@gmail.com,9869179994,Electronics,Nasik,"6, Nirmala Avenue, Sramik colony, gangapur road, nasik13",Nasik
+amitborole,amit_his62@yahoo.com,9422222378,Electronics,Nasik,"23,Dhumravarna apt.Mate park,savarkar nagar,gangapur road,NASIK-5",Nasik
+BAGADE NAGNATH,ajay.bagade@gmail.com,9271294388,Electronics,Nasik,"R .No. 545, M.H.B. Colony CHENNAI TAMIL NADU 422012 India",Nasik
+GirishBrahme,girish_raj_giri@yahoo.com,9970431591,Electronics,Nasik,"1/8,SAKAR,Narsinha nagar,near nerlikar hospital,Gangapur road,Nashik 13 Nashik",Nasik
+Abhishek Agrawal,agrawalabhishek1@gmail.com,9970944591,Electronics,Nasik,"9, Kin Society, Datta Mandir Road Nashik MAHARASHTRA 422101 India",Nasik

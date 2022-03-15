@@ -1,0 +1,5 @@
+gat_id,gat_gid,gat_img,gat_order,gat_btype,gat_title,gat_status,gat_script,gat_link_type,gat_external_link,gat_internal_link
+1,1,images/uploads/setting/62125_big_11357_big_abt_img.jpg,0,img,Test,1,<blank>,1,http://www.google.com,1
+2,1,<blank>,0,img,<blank>,1,<blank>,0,<blank>,0
+3,7,images/uploads/setting/21488_big_11357_big_abt_img.jpg,0,img,Click here to read all about the first 100 years.,1,<blank>,2,http://www.adasisrael.ca/book.php,0
+

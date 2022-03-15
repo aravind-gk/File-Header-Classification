@@ -1,0 +1,15 @@
+company,name,mobile,email,address,location,pincode,city,website,category,city_id,state_id,id
+Enviro Solution System,Kajal Bhattacharyya,9831059054,enviross05@gmail.com,"No. 21, Thakur Para Road",NULL,NULL,Bhatpara,NULL,NULL,0,0,0
+S & N Solutions,Manager ,8013640774,snsolutions.info@gmail.com,"Kankinara, West Bengal,",NULL,NULL,Bhatpara,NULL,NULL,0,0,0
+Enviro Solution System,Kajal Bhattacharyya,9330949003,enviross05@gmail.com,"No. 21, Thakur Para Road",NULL,NULL,Bhatpara,NULL,NULL,0,0,0
+S & N Solutions,Manager ,9804553984,snsolutions.info@gmail.com,"Kankinara, West Bengal,",NULL,NULL,Bhatpara,NULL,NULL,0,0,0
+N/A,srijit halder,8334852377,srijithalder@icloud.com,22 gkg road,NULL,743123,bhatpara,srijithalder.com,NULL,0,0,0
+N/A,Tirtharup Bhattacharyya,9874110066,tirtharupbhattacharyya@gmail.com,"2/6, Chandranath Vidyaratna Lane, Bhatpara",NULL,743123,Bhatpara,trippers.ooo,NULL,0,0,0
+CMC Academy,DEBASHISH SARKAR,8436332397,cmcdgp@gmail.com,"Ucp 0001, North avenue near durgapur ambuja, City center durgapur",NULL,NULL,Bhatpara,NULL,NULL,0,0,0
+Chandrojyoti Artistry,Chandra Halder,9007128378,chandrojyotiartistry2011@gmail.com,"113/1400, Madral, Katabottala, 24 Pgs(N), Kankinara",NULL,NULL,Bhatpara,NULL,NULL,0,0,0
+NULL,AMIT KUMAR,9125091867,ak15721@gmail.com,"VIIL-JAGAHATHA|POST-BHATPAR RANI, DIST- DEORIA",NULL,274702,BHATPAR RANI,latestlovesms4u.com,NULL,0,0,0
+Chandrojyoti Artistry,Chandra Halder,8981303813,chandrojyotiartistry2011@gmail.com,"113/1400, Madral, Katabottala, 24 Pgs(N), Kankinara",NULL,NULL,Bhatpara,NULL,NULL,0,0,0
+CMC Academy,DEBASHISH SARKAR,9434528238,cmcdgp@gmail.com,"Ucp 0001, North avenue near durgapur ambuja, City center durgapur",NULL,NULL,Bhatpara,NULL,NULL,0,0,0
+NULL,SIDDHARTHA GHOSH,3325810396,callsupreme@gmail.com,"8/3, GOUR MOHAN ROY LANE",NULL,743123,BHATPARA,webdevideas.com,NULL,0,0,0
+NULL,Dan Lewis,9903196578,amidebajyoti@gmail.com,15/3 Bazar Lane P.O- Bhatpara,NULL,743123,Bhatpara,miamor.life,NULL,0,0,0
+NULL,Abhijit Shaw,7686955856,abhijitshaw2015@yahoo.com,263/2 sthirpara 64pally|Po-mondalpara,NULL,743127,bhatpara,dreamlineitearn.com,NULL,0,0,0

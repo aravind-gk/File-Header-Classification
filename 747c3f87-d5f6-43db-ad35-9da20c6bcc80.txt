@@ -1,0 +1,21 @@
+Company,Name,Mobile,Address,Location,Pincode,City,Email,Website,Category
+Asopa Hospital,Arvind Asopa,9829013481,,Ajmer Road,302006,Jaipur,mail@asopahospital.com,www.asopahospital.com,Hospitals- General
+Pink City Dental Clinic,Rajesh Sharma,9460068622,,Sansar Chandra Road,302001,Jaipur,,,Dental Clinic
+Diabetes Lounge Way To Health,Sourabh Sharma,9413376076,,C Scheme,302001,Jaipur,diabeteslounge@yahoo.com,,Dieticians 
+P D Khandelwal Dr,Purshottam Das,9828106263,,Malviya Nagar,302017,Jaipur,,,Doctors- Diabetes
+Dhruv Dev Bhardwaj Dr,Dhruv Dev Bhardwaj,9214508474,,Bajaj Nagar,302015,Jaipur,,,Doctors- Paediatrics(Child Specialist)
+Aditya Varma Medical Centre,Rajeev Madan,9829074959,,Transport Nagar,302003,Jaipur,,,Hospitals- General
+Pradeep Kumar Juneja Dr,Pradeep Kumar,9829056407,,Raja Park,302004,Jaipur,,,Doctors- Urology
+Speech & Hearing Care,Ajit Singh Palawat,9829219042,,Vidhyadhar Nagar,302013,Jaipur,,,Doctors- Speech & Hearing Disorders
+R C Jain Dr,Ratanchand Jain,9829329724,,Mansarovar,302020,Jaipur,,,Doctors- General Medicine
+Shiv Dutt Sharma Dr,Shiv Dutt Sharma,9829640001,,Murlipura,302013,Jaipur,,,Doctors- General Medicine
+Helth Hospital,Dr Girish Sharma,9214955220,,Mahesh Nagar,302015,Jaipur,,,Doctors- Paediatrics(Child Specialist)
+Kumudini Mendiratta Dr,Kumudini Mendiratta,9829302772,,Tilak Nagar,302004,Jaipur,,,Doctors- Obstetrics & Gynaecology
+Prakash Chand Yadav Dr,Dr Prakash Chand Yadav,9828590688,,Barkat Nagar,302015,Jaipur,,,Doctors- General Medicine
+Joshi Clinic,Vinod Joshi,9829015202,,Sodala,302006,Jaipur,,,Nursing Homes & Clinics
+Achal Sharma Dr,Achal,9414074909,,Tonk Road,302015,Jaipur,,,Doctors- Neurosurgeon
+Mounika Dental Clinic,Dr Monika Saini,9829541082,,Vidhyadhar Nagar,302023,Jaipur,,,Dental Clinic
+Durga Poly Clinic,D L Sharma,9414251124,,Sodala,302006,Jaipur,,,Dental Clinic
+Dashot Clinic,Padam Chand,9413348086,,Ajmeri Gate,302001,Jaipur,,,Nursing Homes & Clinics
+Basera Clinic,R K Jawa,9828678007,,Gopalpura,302015,Jaipur,,,Doctors- Orthopaedics(Bone Specialists)
+Vinod Bhargava Dr,Vinod,9413237692,,Barkat Nagar,302015,Jaipur,,,Doctors- Veterinary Dentist

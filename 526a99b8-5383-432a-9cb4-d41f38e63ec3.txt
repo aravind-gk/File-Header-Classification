@@ -1,0 +1,21 @@
+"id","business_id","name"
+1,339,AKC
+2,342,AKC
+172,346,Association1
+173,346,Association2
+174,346,Association3
+175,347,AKC
+176,320,Academy of General Dentistry
+177,320,American Academy of Cosmetic Dentistry
+178,320,Virginia Dental Association
+179,320,American Dental Association
+180,320,International Congress of Oral Implantology
+181,320,Christian Medical and Dental Society
+182,356,AKC
+183,361,American Association of Orthodontists
+184,361,American Dental Association
+185,361,Pacific Coast Society of Orthodontics
+186,361,California Dental Association
+187,361,Western Los Angeles Dental Society
+395,659,American Society of Temporomandibular Joint Surgeons
+396,659,American Board of Oral and Maxillofacial Surgery
