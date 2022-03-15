@@ -1,17 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # CYBLE Assignment
-# 
-# __Meghnath Singh__
-# 
-# __M-Tech Artificial Intelligence (2022)__
-# 
-# __IISc Bangalore__
-
-# In[44]:
-
-
 '''Importing packages and fetching file names'''
 
 import glob
@@ -134,17 +123,8 @@ def extract_header(fname):
     ans['header'] = frow.split(',') if y_pred[0] == 1 else []
     return ans
 
-
-# #### Examples 
-
-# In[47]:
-
+# Examples 
 
 # print(extract_header("0b4b6d05-3024-4922-9910-b288923de027.txt"))
 
-
-# In[46]:
-
-
 # print(extract_header("74b0863c-c23e-46e5-9021-8e43ad799224.txt"))
-
