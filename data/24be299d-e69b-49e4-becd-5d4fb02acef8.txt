@@ -1,0 +1,21 @@
+mobile,ccfname,cclname,LINE3,LINE4,LINE5,city,PINCODE
+9881149781,Suresh,Sawale,P V PIT Staf Querters,Flat No-3,Bh Ramkrishna Hotel B N P V P College,Miraj,416410
+9822327621,Ravindra,Pattanshetty,Pandharpur Road,Nr. Ram Mandir,Bh. Yatikant Dhabha,Miraj,416410
+9850993142,Ajij,Mulani,406,Mulani Road,A/p-Samdoli,Miraj,416427
+9922495633,Ashok,Patil,Visava,Sahyadri Nagar,Nr Maruti Mandir Sangli,Miraj,416410
+9922566627,Shital,Jadhav,Shantisagar Hos Soc,Sangli,,Miraj,416410
+9922270963,Narayan,Bhaskar,H N 6618,Nadives,Tal Miraj Dist Sangli,Miraj,416410
+9922386422,Sunil,Naik,A/P Arag,Tal Miraj,D Sangali,Miraj,416401
+9922578161,Hema,Bhasame,Shivneri Chouck,Dist Sangli,,Miraj,416410
+9922494975,Seema,Vadera,Malkans Appt,Opp Hari Mandir,Tal Miraj Dist Sangli,Miraj,416410
+9922335438,Madhukar,Bhosale,304/B,Gomtesh Nagar,Miraj,Miraj,416410
+9922257387,Pramod,Sakharale,A/P Kavatepiran,Tal Miraj,Kavatepiran Dis Sangli,Miraj,411004
+9922271194,Subani,Gharale,Revani Galli,Tandul Mkt,Sangli,Miraj,416410
+9922495759,Milind,Deshmane,Shaniwar Peth,Buvacha Houd Tal Miraj,Dist Sangli,Miraj,416410
+9922630043,Ashok,Saundade,Soni,Tal Miraj,Dist Sangali,Miraj,416410
+9922495230,Rahul,More,Pandharpur Rd,Tal Miraj,Sangli,Miraj,416410
+9922199281,Makbul,Sayyad,Jilebi Chouck,Brhamanpuri,Miraj,Miraj,416410
+9922199296,Ashok,Tayade,Nr Jyoti Gas Agency,Tal Miraj,Sangli,Miraj,416410
+9922495989,Rohan,Gurav,Vidyangr,Chougule Plot No 3A,Tal Miraj Dist Sangli,Miraj,416416
+9922578245,Indubai,Wayadande,Nadikath,Raut Mala,Miraj Dist Sangli,Miraj,416410
+9922495941,Nisar,Khudawat,Godadmala,Takali Rd Tal Miraj,Dist Sangli,Miraj,416410

@@ -1,0 +1,21 @@
+name,mobile,address,city
+SANTOSHKUMAR ROUT,9673565765,"Laxmi Niwas, New Vadem, Vasco-Da-Gama, Goa",vasco
+PrashantPrabhu,974-9745908725,"145/Z, ""Shri Sharvani"" Fatima colony, Alto dabolim, Vasco da Gama, Goa, 403801",vasco
+MANJITSINGH,9822983344,"flat AG-2 Antrix Manor , Airport road, Alto-dabolim, Vasco",vasco
+Deepesh waingade,9890555728,Goa India,vasco
+NAKUL GAWAS,9890502778,kumbharwada chandel pernem-goa 403512,vasco
+PRASAD PASWALKAR,,"Flat No B02 Ground Floor ""Sushila Sankul"" Orulem Belabhai Vasco-da-gama",vasco
+deeepeshhhh fffffffffffffffff,9822481396,"flat no-5 , gaur appt, behind gurudwara ,mangoor hill, vasco- goa india",vasco
+vinita singh,9890511560,"flat no6,2nd floor,valley view residency,lane no 11,alto chicalim,vasco da gama,goa-403711",vasco
+Lincoln Tsiabalis,9923009922,"18, Salgaocar Qtrs, Baina Vasco-da-Gama, Goa",vasco
+Srinivasa Vara PrasadBadugu,9850792037,"A-2,EssenEnclave,Near ReginaMundi School,Chicalim,Vasco Da Gama,GOA 403711",vasco
+aratikharbe,9764673136,"james fernandes c/o 120/b,behind techno workshop,vaddem vasco goa-403802",vasco
+Milind Terase,9860825816,At Post -Niwali titha Tal & Dist - Ratnagiri House no. 865 Pin no. 415639,vasco
+Rohan Prabhudesai,9766468574,USA UK,vasco
+AmitSingh,9096727119,"gf/3, kamal appartments, new vaddem, vasco, goa 403802",vasco
+SUVARNA A HALDANKAR,9923055996,"NO.14, 3RD FLOOR, NEAR SBI, VASCO-DA-GAMA, GOA",vasco
+AnjumTahasildar,910-9326599520,"Mestawada, Vasco - da - gama , Goa, India",vasco
+Sirisha Bhamidipati,9923379084,12th level Hyderabad INDIA 500079 India,vasco
+Gururaj Retrekar,9823391209,"GURURAJ G RETREKAR DIAS BLDG,IST FLOOR,NEW VADDEM VASCO DA GAMAGOA-403802 PHONE RESIDENCE : 0832-2518314",vasco
+Parshuram Desai,9420818016,"H.No 540 (2), Near Saibaba mandir, New vaddem, Vasco-Da-Gama, Goa",vasco
+SACHIN GAVADE,9923427248,MPT COLONY HEAD LAND SADA B TYPE 210 II /I,vasco

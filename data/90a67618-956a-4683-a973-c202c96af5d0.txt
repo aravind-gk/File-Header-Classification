@@ -1,0 +1,21 @@
+candidateName,companyName,designation,emailAddress,experienceMas,locationCurrentMas,lastUpdate,qualificationMas,qualificationMas2,salary,tel_Other
+CD LAKSHMIPATHI,electronics ,service engineer,dasarathilakshmipathi@gmail.com,2 Year(s) ,Hyderabad/ Secunderabad,25 May; 2017,Diploma-Engineering,,Rs. 1.5 lacs,91-9490991634
+sunny lokwani,Fresher ,Fresher,sunny.lokwani006@gmail.com,Fresher,Mumbai,25 May; 2017,B.Com. (Commerce),,,91-9930373901
+SAGNIKA SAHA,Fresher ,Fresher,sagnika10.saha@gmail.com,Fresher,Kolkata,25 May; 2017,BE/ B.Tech (Engineering),ME/ M.Tech./ MS (Engg/ Sciences),,91-9674231167
+mahender singh,All India Institute Of Medical Sciences ,DEO,er.mahendergodara@gmail.com,1 Year(s) 9 Month(s),Delhi,25 May; 2017,BCA (Computer Application),,Rs. 1.45 lacs,91-9813645977
+Krunal Thakkar,Fresher ,Fresher,krunalthakkar6592@gmail.com,Fresher,Ahmedabad,25 May; 2017,BE/ B.Tech (Engineering),,,91-8866412588
+prem kumar,Fresher ,Fresher,premlove055@gmail.com,Fresher,Delhi,25 May; 2017,12th & Not Pursuing Graduation,Other Post Graduation,,91-8588081314
+SANDEEP CHAURASIA,Imperial Institute of management Science  &  Research ,Team Leader,sandeep.chaurasia45@gmail.com,2 Year(s) 3 Month(s),Delhi,25 May; 2017,B.Com. (Commerce),MBA/ PGDM,Rs. 1.7 lacs,91-8882509661
+NEHA BENDRE,Fresher ,Fresher,nehabbendre@gmail.com,Fresher,Mumbai,25 May; 2017,BE/ B.Tech (Engineering),,,91-8237420193
+souvik singha,premier infotech ,customer care executive,souviksingha405@gmail.com,5 Year(s) 9 Month(s),Kolkata,25 May; 2017,BA (Arts),,Rs. 1.9 lacs,91-9836548005
+SAJID ALI,Multiverse Solution Pvt Ltd ,Software Developer,sajidpali26@gmail.com,1 Year(s) 1 Month(s),Gurgaon,25 May; 2017,BE/ B.Tech (Engineering),,Rs. 0.84 lacs,91-9883590542
+Rahul kumar,bookmyoffer.com ,operations executive,rhot75@gmail.com,6 Month(s),Gurgaon,25 May; 2017,BA (Arts),,Rs. 2.12 lacs,91-8586846989
+Aniruddha Murthy,Fresher ,Fresher,avmurthy1994@gmail.com,Fresher,Mumbai,25 May; 2017,BE/ B.Tech (Engineering),,,91-8898989266
+SHALINI JONWAL,ap associate ,,shalni.jonwal92@gmail.com,2 Year(s) ,Delhi,25 May; 2017,Diploma-Engineering,,Rs. 2.0 lacs,91-8826297525
+SURYAKANT MURLIDHAR KORADE,NOBLE SYNTHETICS PVT LTD ,SHIFT SUPERINTENDENT,suryakant7@rediff.com,16 Year(s) 1 Month(s),Mumbai,25 May; 2017,B.Sc. (Science),M.Sc. (Science),Rs. 4.1 lacs,91-9892420728
+Avoy Mondal,Fresher ,,mondalavoy28@gmail.com,Fresher,Kolkata,25 May; 2017,BE/ B.Tech (Engineering),,,91-9614937330
+ANJITHA ITTAN,Fresher ,Fresher,anjithaittan@gmail.com,Fresher,Cochin/ Kochi/ Ernakulam,25 May; 2017,BE/ B.Tech (Engineering),ME/ M.Tech./ MS (Engg/ Sciences),,91-9495128408
+SHYAM LAL,Tech 3i pvt. Ltd jaipur ,web app developer,shyamlal030@gmail.com,6 Month(s),Jaipur,25 May; 2017,BE/ B.Tech (Engineering),,Rs. 1.8 lacs,91-9950753806
+DNYANESHWAR SHINDE,Shivajirao Bhosale Sahakari Bank Ltd ,Trainee Clerk,dnyaneshcshinde@gmail.com,3 Year(s) ,Pune,25 May; 2017,B.Sc. (Science),,Rs. 1.2 lacs,91-9922610610
+PUNITH N J,Currently Unemployed ,Currently Unemployed,punithsomwarpet@gmail.com,6 Month(s),Bengaluru/ Bangalore,25 May; 2017,Diploma-Engineering,,Rs. 1.5 lacs,91-7259768540
+sarguna,Fresher ,Fresher,sargunaarumugam204@gmail.com,Fresher,Bengaluru/ Bangalore,25 May; 2017,BE/ B.Tech (Engineering),,,91-8526646848

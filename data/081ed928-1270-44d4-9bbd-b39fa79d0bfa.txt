@@ -1,0 +1,21 @@
+Name,Email,Mobile,Category,City,Address,State
+SANJEEVSHARMA,san_sharma11@indiatimes.com,9817130325,"Construction/Cement/Metal/Steel/Iron, Real Estate, Engineering/Projects",Baddi,"H.NO.B3/242, SHIV SHAKTI COLONY, PINJORE, DISTT.PANCHKULA (HARYANA)",Himachal-Pradesh
+sukhjitsingh,sukhjeet_n20@rediffmail.com,9646108200,"Real Estate, Banking",Baddi,"H.NO-58, Gaini Zail Singh Colony, Distt. Ropar. 140001 (Punjab).",Himachal-Pradesh
+AbdulAhmed,abdul.nazeer0@gmail.com,9966979746,"Construction/Cement/Metal/Steel/Iron, Real Estate, Engineering/Projects",Baddi,F6766782 HYDERABAD INDIA India,Himachal-Pradesh
+Satishv,satish_hvac@rediffmail.com,9618883069,"Construction/Cement/Metal/Steel/Iron, Real Estate, Engineering/Projects",Baddi,kakinada,Himachal-Pradesh
+SUMITSHRIVASTAVA,sumit153_1@yahoo.co.in,9993242645,"Real Estate, Insurance",Bilaspur,"block A1,first floor,flat no.1shubhas complex,jarahabhata,bilaspur (C.G.)",Himachal-Pradesh
+G RaviKumar,g.ravi1972@gmail.com,9039237508,Real Estate,Bilaspur,"C/O , G.V.R.MURTY QR. NO. G-105, ANAND APARTMENT, VIKAS NAGAR, 27-KHOLI, BILASPUR",Himachal-Pradesh
+vutukuripurushotham,vpurush_00@hotmail.com,9010429136,"Construction/Cement/Metal/Steel/Iron, Real Estate, Engineering/Projects",Bilaspur,"vutukuri purshotham, c/o beracha church, chakalibazar, jaggayyapet krishna dist. andhra pradesh state, india",Himachal-Pradesh
+CHIRAGSHARMA,chiragsharma84@yahoo.co.in,9301078398,"Real Estate, Financial Services/Stockbroking, Consulting Services",Bilaspur,"IN FRONT BAGADIYA BHAWAN MASJI ROAD AKALTARA , DIST- JGIR CHAMPA C.G. 5",Himachal-Pradesh
+Abhinavgupta,abhi9_gupta@rediffmail.com,9329719705,"Banking, Manufacturing/Industrial, Real Estate",Bilaspur,gayatri mandir 3rd lane r-3 14/602 vinoba nagar bilaspur(chattisgarh),Himachal-Pradesh
+Atanumukhopadhyay,rap1269@rediffmail.com,9981500810,"Healthcare, Manufacturing/Industrial, Real Estate",Bilaspur,169/1 Netaji Subhas Road. Howrah West Bengal. Pin - 711101,Himachal-Pradesh
+nawazkhan,nawazkhan_19@rediffmail.com,9981391036,"Construction/Cement/Metal/Steel/Iron, Real Estate, Engineering/Projects",Bilaspur,"S/O K.Mahaboob Khan, 1/48-Al-Ameen Nagar, Ariyavoor Othakadai, Trichy-620009, TAMIL NADU, India",Himachal-Pradesh
+Sushil Kerketta,sushil.kerketta@rediffmail.com,9425594562,"Financial Services/Stockbroking, Projects/Infrastructure/Power/Energy, Real Estate",Bilaspur,C/o Shri j.kerketta Q/no 711 CWS Shubash Nagar po Bacheli Dist Dantewada Chhattisgarh 494553,Himachal-Pradesh
+MUNEESH DOGRA,dogramuneesh@yahoo.com,9418281475,Real Estate,Bilaspur,"v.p.o -salaon, teh- ghumarwin distt.- bilaspur (h.p.)-174028",Himachal-Pradesh
+Regulla Yona Pradeep,yonapradeep@yahoo.co.in,9826938311,Real Estate,Bilaspur,"RTS Colony, Q.No.938/2, Bilaspur C.G.",Himachal-Pradesh
+kamlesh jaiswal,kamlesh0070@rediff.com,9926809982,Real Estate,Bilaspur,vikash nager kusmunda md/115 korba c.g.,Himachal-Pradesh
+pyar thakur,pyarsingh76@rediffmail.com,9418057512,Real Estate,Bilaspur,pyar singh thakur s/o sh.lekh ram vill jhalwana po marottan teh jahandutta distt bilaspur h.p. pin 174017,Himachal-Pradesh
+rakesh tulsiani,rakeshtu@yahoo.com,9816926713,"Construction/Cement/Metal/Steel/Iron, Projects/Infrastructure/Power/Energy, Real Estate",Chamba,"217-b NU-3, APNANAGAR P.O. GOPALPURI GANDHIDHAM GUJARAT 370240",Himachal-Pradesh
+RaviGupta,ivar_234@yahoo.co.in,9805291540,"Construction/Cement/Metal/Steel/Iron, Engineering/Projects, Real Estate",Chamba,"DR.A.K.GUPTA 4/207, MAHAVIR KUNJ, KACHERI GHAT, AGRA, U.P. INDIA",Himachal-Pradesh
+JITENDERRATHORE,rathorejitender18@yahoo.co.in,9817512718,"Construction/Cement/Metal/Steel/Iron, Real Estate, Engineering/Projects",Chamba,AT/ Village & Post Office - LAROGE DIST. - CHAMBA HIMANCHAL PRADESH PIN CODE-176312,Himachal-Pradesh
+swativirmani,virmani.swati@yahoo.co.in,9313717041,Real Estate,Dalhousie,"E - 673, S.G.M. NAGAR, FARIDABAD",Himachal-Pradesh

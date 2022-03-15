@@ -1,0 +1,21 @@
+Name,Email,Mobile,Category,City,Address,State
+DARSHAN DYAL SHARMA,dachhi1@gmail.com,9350688565,"Consulting Services, Law/Legal Firms, NGO/Social Services",Faridabad,"565 SECTOR 16A, FARIDABAD",Faridabad
+ZAHID SHEIKH,zahid_ks2005@yahoo.com,9871116803,NGO/Social Services,Faridabad,"18/4 mathura Road,Escorts Nagar,Faridabad,121007",Faridabad
+tajindersingh,tajinder.madaan@rediff.com,9212587558,NGO/Social Services,Faridabad,5h/10 N.I.T FARIDABAD,Faridabad
+sunil kumar,sunilsaini2001@yahoo.com,011-9971345251,NGO/Social Services,Faridabad,"M.C.F.NO.2583,SEC-23,SANJAY COLONEY FARIDABD(HARYANA)",Faridabad
+MEENUSINGH,sapna_ryan@yahoo.co.in,9899239443,NGO/Social Services,Faridabad,"house no-11/16,spring field colony,Faridabad, Haryana 121008",Faridabad
+AnjaliBagai,anjalimalik2@rediffmail.com,9818109596,"Educational/Training, NGO/Social Services",Faridabad,H 2731 Sainik Colony sector 49 faridabad,Faridabad
+RESHMA RAJAN,mathew_rajan2003@yahoo.co.in,9910539812,NGO/Social Services,Faridabad,"2869-A, LIG, SECTOR-3,BALLABGARH-121 004 FARIDABAD-121 004",Faridabad
+Shruti Chaudhary,shrutichaudhary.in@gmail.com,9871404239,"Educational/Training, NGO/Social Services",Faridabad,"Hno-243,Sector-14 Faridabad 121007",Faridabad
+Chetna Sharma,chetna.sharma@indiatimes.com,9811142274,NGO/Social Services,Faridabad,,Faridabad
+SujitSil,sujitsil@gmail.com,9311166238,"Software Services, NGO/Social Services",Faridabad,94 Vaishali Sec46 Faridabad 121001,Faridabad
+vidyaprasad,vidya_prasad29@rediffmail.com,9968444506,"Consumer Durables/FMCG, Manufacturing/Industrial, NGO/Social Services",Faridabad,"88A,2nd Floor,I.P.Colony, Sector 30-31, Faridabad, Haryana",Faridabad
+renu sharma,ashisarma@yahoo.com,9990590444,NGO/Social Services,Faridabad,"H.No. 1643,Sector-9 ,Faridabad(Haryana)",Faridabad
+SANJEEV Kumar,s_saini197647@rediff.com,9654941456,"NGO/Social Services, CRM/CallCentres/BPO/ITES/Med.Trans",Faridabad,4407-08 FF SEC 3 Faridabad,Faridabad
+Stanly George,stanly_3k@yahoo.com,9818586580,NGO/Social Services,Faridabad,"F.C.A 2040, Sanjay Gandhi Memorial Nagar, Near NH IV, Gali No. 17, Faridabad, Haryana",Faridabad
+JAICHAUHAN,jaichauhan33@gmail.com,9313845231,NGO/Social Services,Faridabad,FCA 243 ADASH NAGAR FARIDABAD,Faridabad
+RAJRANI,dachhi1@gmail.com,9811654591,"Consulting Services, Law/Legal Firms, NGO/Social Services",Faridabad,"604/15,,",Faridabad
+NARENDER BANGA,zahid_ks2005@yahoo.com,9811678521,NGO/Social Services,Faridabad,"1H/35A,NIT,",Faridabad
+ARJUN SINGH,tajinder.madaan@rediff.com,9811704430,NGO/Social Services,Faridabad,"837 SEC 12,FARIDABAD,",Faridabad
+CHANDER PRAKASH ARORA,sunilsaini2001@yahoo.com,9811720020,NGO/Social Services,Faridabad,"1EWH/1 NH I,NIT,",Faridabad
+RAM KISHORE,sapna_ryan@yahoo.co.in,9811731707,NGO/Social Services,Faridabad,"5M-55,NIT, NEAR A C CHOUDHARY HOUSE  MLA",Faridabad

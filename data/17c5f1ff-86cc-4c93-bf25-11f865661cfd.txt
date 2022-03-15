@@ -1,0 +1,21 @@
+Name,Email,Mobile,Category,City,Address,State
+KapilVijan,kapilvijan@gmail.com,9811160837,"Consulting Services, Recruitment/Placement Agencies",Delhi,"At present I am in Delhi, India and can be reached at +9811160837",Delhi
+RAM ASHISHSINGH,rasingh669in@gmail.com,9911568245,"Consulting Services, Recruitment/Placement Agencies, Advertising/PR/Event Management",Delhi,"Type I/146 Sector ?K?P&T Colony Aliganj,Lucknow.226024",Delhi
+Amit Alok,amit.smc@gmail.com,9891650977,"Consulting Services, Recruitment/Placement Agencies",Delhi,"401, Mohan Bhawan, 152 Sarai Julena, New Friends Colony,New Delhi-110025",Delhi
+DHARAMVIRSINGH BENIWAL,singhbeniwal@yahoo.co.in,9213845388,"Consulting Services, Recruitment/Placement Agencies",Delhi,"H. NO RZ-30A, UGGARSAIN PARK MAIN NANGLOI ROAD, NAJAFGARH NEW DELHI -110043",Delhi
+ANILBHATIA,dranilbhatia@hotmail.com,9811262233,"Healthcare, Consulting Services, Recruitment/Placement Agencies",Delhi,"C-47, Sector-20 Noida UTTAR PRADESH 201301 India",Delhi
+parichaydutta,parichay_dutta@yahoo.com,9990120667,Recruitment/Placement Agencies,Delhi,H no 104b2 kishan garh vasant kunj new delhi 70,Delhi
+RITESH JHA,rock11ster@gmail.com,9931178903,Recruitment/Placement Agencies,Delhi,"sector 1/c,qr no. 298, b.s.city, jharkhand ,827001.",Delhi
+Kumarshantanu sk,kumarshantanu04@gmail.com,9873626435,"Consulting Services, Recruitment/Placement Agencies",Delhi,"95,Ashoka Enclave I sector-35, Faridabad haryana, 121003",Delhi
+HemantJain,hemant_jain3@yahoo.com,9250386562,"Consulting Services, Recruitment/Placement Agencies",Delhi,"C-142, Street No. 4, New Usmanpur, Delhi - 110053",Delhi
+syed taheer ahmad,syedtaheer@gmail.com,9718200869,Recruitment/Placement Agencies,Delhi,"m-105/a,Abul Fazal Enclave,Jami Nager,OKHLA,New Delhi,PIN-1100025",Delhi
+Brij kishoreSingh,brijcoolin@indiatimes.com,9891582688,"Consulting Services, Recruitment/Placement Agencies",Delhi,G-50 sec-9 New Vijay Nagar Ghaziabad,Delhi
+ShailendraJoshi,shailendra.joshi1@gmail.com,9540219058,"Consulting Services, Recruitment/Placement Agencies, Advertising/PR/Event Management",Delhi,"Saket, New Delhi",Delhi
+kartikchadha,kvcd12@indiatimes.com,9810328688,"Consulting Services, Recruitment/Placement Agencies, CRM/CallCentres/BPO/ITES/Med.Trans",Delhi,F-5 Green Park Extension New Delhi 110016,Delhi
+PRASHANTTIWARI,unpredictable.prashant@gmail.com,9990604093,"Healthcare, Consulting Services, Recruitment/Placement Agencies",Delhi,"G-2, sarita vihar New Delhi",Delhi
+hifzurrahman,salman1102@gmail.com,9990178447,"Consulting Services, Recruitment/Placement Agencies",Delhi,"D-6, JMD Hostal, Sector-58, Noida.",Delhi
+KunalGupta,postrg@hotmail.com,9811038872,"Consulting Services, Recruitment/Placement Agencies",Delhi,,Delhi
+KapilSoni,kaps2202@hotmail.com,9350660909,"Consulting Services, Recruitment/Placement Agencies, CRM/CallCentres/BPO/ITES/Med.Trans",Delhi,New Delhi,Delhi
+RajeevGoel,rajeevgoel1981@gmail.com,9718269267,"Consulting Services, Recruitment/Placement Agencies",Delhi,"H-50 2nd Floor Garwali Mohalla Laxmi Nagar, New Delhi-92",Delhi
+Amit KumarVishwakarma,amitvishwakarma0@gmail.com,9654649776,"Consulting Services, Recruitment/Placement Agencies",Delhi,Kalkaji Nehru Place Permanent address:U.P Varanasi UTTAR PRADESH 221010 India,Delhi
+rahulkumar,rahulkr_y2k51@yahoo.com,9871221411,"Consulting Services, Recruitment/Placement Agencies, Banking",Delhi,H-36A SHAKARPUR DELHI-92,Delhi

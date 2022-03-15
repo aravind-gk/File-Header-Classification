@@ -1,0 +1,21 @@
+Name,Email,Mobile,Category,City,Address,State
+SAJIDFAROOQ,sajid4s@gmail.com,9911410219,"IT-Hardware/Networking, IT-Software",Delhi,"11, Jangpura, Near OM Hotel, New Delhi-110014",Delhi
+Sushildadhich,sushil.dadhich@rediffmail.com,9999043939,"Manufacturing/Industrial, Marine/Aviation/Military/Mining/Shipping, Automobiles/Auto Component/Auto Ancillary",Delhi,"H.No. 2740,Sec. 46,Gurgaon.",Delhi
+ShaileshMohan,oshaileshmohan@gmail.com,9911939119,IT-Hardware/Networking,Delhi,110 b sarita vihar pocket:M new-delhi 110076,Delhi
+varunkaushal,varun_kaushal85@yahoo.com,9990760845,Others,Delhi,"c-39 sewak park near dwarka mode metro station, New delhi 110059",Delhi
+Mohd.saleem ansari,sadf@asdf.com,9871825098,IT-Hardware/Networking,Delhi,B-239 raghubir nagar new delhi 110027,Delhi
+anujjangira,anuj.jangira@gmail.com,9868227802,IT-Hardware/Networking,Delhi,HOUSE NO 12 MOHAN GARDEN UTTAM NAGAR DELHI 110059,Delhi
+DIPAK KUMAR DAS,deepakdas888@yahoo.co.in,9872082821,IT-Hardware/Networking,Delhi,"SCO-50,51,Sector-26,Chandigarh",Delhi
+AmitGupta,andy_gupta_28@yahoo.co.in,9899248433,"Software Services, IT-Software, IT-Hardware/Networking",Delhi,C/O SRI A.K. GUPTA SOUTH EX-PART-1 NEW DELHI,Delhi
+PANKAJGROVER,pankajgrover18@gmail.com,9899666617,"Software Services, Internet/Dot com/ISP, Telecom",Delhi,"L-2/112 , SHASTRI NAGAR , DELHI-110052",Delhi
+vikas tomar,vikas1tmr@yahoo.com,9911955173,Telecom,Delhi,c-278a gali no 10 ganga vihar gokalpuri delhi 110094,Delhi
+MDIBRAHIM,ibrahim_dbg004@yahoo.com,9899616725,"Software Services, Internet/Dot com/ISP, Telecom, IT-Hardware/Networking",Delhi,J-3/18C KHIRKI EXTN. MALVIYA NAGAR. DELHI 10017,Delhi
+Kumar Muni,kumar8336@gmail.com,9990722010,IT-Hardware/Networking,Delhi,"5A,main Market (khadar),near agarwal sweets, Sarita Vihar Fire Station, Sarita vihar New Delhi 110076 I india",Delhi
+SurinderSingh,sonu_538@yahoo.co.in,9873551512,,Delhi,"538/5A Govind puri, Kalkaji, New Delhi",Delhi
+Ashivani Singh,kunwar_ashivani@rediffmail.com,9999553375,"Internet/Dot com/ISP, Telecom, IT-Hardware/Networking",Delhi,Near Choikan Mandir BadarPur New Delhi110044 India,Delhi
+MANISH ACHARYA,manishkumaracharya@yahoo.com,9250112338,IT-Hardware/Networking,Delhi,C/O Shiv Charan NEW DELHI 110033,Delhi
+arunkajal,kajalworld@in.com,9899595356,Others,Delhi,"H.NO-143/a , street-1,vasant vihar, Rohtak (HR)",Delhi
+RANJEET SINGH,mantusingh08@yahoo.com,9268795423,"Software Services, Internet/Dot com/ISP, Telecom, IT-Hardware/Networking",Delhi,6 BD ESTATE MALL ROAD TIMAR PUR DELHI 110054 India,Delhi
+BhupinderSingh,cvbhupinder@yahoo.com,9871989859,"Software Services, IT-Software, Internet/Dot com/ISP, Telecom, IT-Hardware/Networking",Delhi,,Delhi
+Rajnikant kumar,kumar_rajnikant@yahoo.co.in,9015510284,Others,Delhi,"C/O DEVI RAM TOKAS H/N- 205, TOP FLOOR MUNIRKA , NEW DELHI-67",Delhi
+CHANDRA PAPNOI,chandu.papnoi@gmail.com,9899621769,IT-Hardware/Networking,Delhi,"A-29,street no.-4, East Vinod Nagar New Delhi-1100091",Delhi

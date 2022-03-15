@@ -1,0 +1,6 @@
+company,name,mobile,email,address,location,pincode,city,website,category,city_id,state_id,id
+N/A,sachin gupta,8449030453,sachinaryan10001@gmail.com,bilari moradabad,NULL,244411,bilari,missingxyz.net,NULL,0,0,0
+Bilari Gas Service,Vikas Kawatra,9897892912,NULL,M/s Durga & Co Main BazaarNear Gandhi Ashram BilariBilari UP 202411,NULL,202411,Bilari,NULL,NULL,0,0,0
+Danish Telecom Center,Mohd Danish,9758307090,danishtele@gmail.com,"C/O Danish Telecom,, A-47 Jigar Colony, Moradabad",NULL,NULL,Bilari,NULL,NULL,0,0,0
+DEV ENTERPRIES,MOHIT,8171757390,kumar.mohit767@ymail.com,BILARI,NULL,244411,BILARI,hmdcollege.com,NULL,0,0,0
+Sach Ka Koff,Lokesh Kumar,9837305217,info@sachkakhoff.com,"Mohalla-Bazar Near Gurudwara, Bilari",NULL,244411,Bilari,sachkakhoff.com,NULL,0,0,0

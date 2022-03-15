@@ -1,0 +1,21 @@
+name,email,mobile,category,address,city
+shashankmathur,shashank_mathur2000@yahoo.com,9983499960,"Channel Sales, IT/Telecommunications, Real Estate Sales",,Ajmer
+krishan swaroopkashyap,krishanskashyap@yahoo.co.in,9309078477,Business Consulting,"E.W.S, P-114,115 Pallavpuram, phase II, Meerut (U.P.), 250110",Ajmer
+GautamVerma,gautam_va@indiatimes.com,9929233307,Personal Banking Assets,"L.I.G- 212, sector G Jankipuram Lucknow. 226021",Ajmer
+ANJALIAGARWAL,ani_agarwal123@yahoo.co.in,9887080180,"Training, Other IT Software","anjali agarwal H no 376/10,Bapu Nagar,Ajmer(raj)",Ajmer
+jkhkjhkjgfhgfhgf,vipasha_awasthi1983@yahoo.com,9568421654,Accounting & Finance,,Ajmer
+satishbhatnagar,satishbhatngr@yahoo.com,9414003633,"Food & Beverage, Other Hospitality","H.no-1,lake view, Mayo college Ajmer(Rajasthan)",Ajmer
+hariomvishwakarma,hariom_v04@yahoo.co.in,9897160378,Production/Manufacturing/Maintenance,Railway Q.No. 1187/A Ram gunj colny Ajmer (Raj.),Ajmer
+pramod mathur,mathur_pramod007@yahoo.com,9928503185,Banking -General,"235/38 KAYASTHA MOHALLA,INDER KI POL,PURANI MANDI,AJMER",Ajmer
+PuneetKP,puneet_kp1984@hotmail.com,9829809864,"Relationship Mgmt, Trading, Other Banking/Insurance","16, FATEH COLONY, BEHIND KAMAL PHOTO STUDIO,SATYA NAGAR,JHOTWARA, JAIPUR-302012",Ajmer
+pushpendra godra,pushpendra.godra@gmail.com,9314391655,Criminal,"H.No. 1154/42, Near Dr. Ahuja, Nagbay, Dhola Bhata Road, Ajmer Rajasthan",Ajmer
+SORABHMATHUR,sorabh.mathur2008@yahoo.co.in,9309042445,"Banking -General, Direct Sales, Other Direct Sales, Other Insurance, Others","Plot no 20, mitra nagar ajmer",Ajmer
+sunita rathore,sunitarathore.2008@rediffmail.com,9414239904,Other Banking/Insurance,1/26 Champa nager Beawar Dist - Ajmer Rajasthan,Ajmer
+yogesh sharma,yogiarmy21@gmail.com,9351788499,Other Banking/Insurance,"H.no. 64 ,behind cine world ,ajmer rajasthan(305001)",Ajmer
+Amit Mangal,amit.mangal1@gmail.com,9928207301,"Material Management, Production Management, Total Quality Management","Mangal Market, Pali Bazar, Beawar - 305901 Rajasthan India",Ajmer
+Ankush Vijay,ankushvijay@gmail.com,9887166267,Banking -General,11/29 Vijay Bhawan Bhrampuri Ajmer RAJASTHAN 305001 India,Ajmer
+ASHOKKUMAR TRIPATHI,ashok_tripathi17@yahoo.com,9950997074,Other Marketing/Media,,Ajmer
+ayush goyal,ayushgoyal@fastmail.fm,9829196499,Electrical/Electronic,"62, lunia colony, mitranagar, ratidang, ajmer rajasthan 305001",Ajmer
+vishal mathur,vishal_mathur85@yahoo.com,9829443550,Bookkeeping,vishal mathur kayastha mohalla ashu vishal kunj kishangarh (ajmer),Ajmer
+CHITRESHSHARMA,chitresh_sh@yahoo.com,9461407657,Switching/Router,"435/18,shiv Ajmer Rajasthan 305001 India",Ajmer
+gauravarun,gauravarun@hotmail.com,9828090307,"Trainer/Faculty, Training",D-20 govindpuri ram nagar extn. near ichapurana hanuman mandir sodala jaipur,Ajmer

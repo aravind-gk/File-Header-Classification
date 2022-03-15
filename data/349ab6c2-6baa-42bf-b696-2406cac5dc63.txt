@@ -1,0 +1,21 @@
+Company,Name,Mobile,Email,Address,Pincode,City,Category
+JMD hospital,,9829071475,drykkhanna@rediff.com,Beawar  ,305901,Ajmer,Hospitals- Private
+Taly Memorial Medical Centre,,2962254553,talymemorial@gmail.com,Dahod Road Swasthya Nagar ,327001,Banswara,Hospitals- Private
+Ramsnehi Chikitsalya & Anusandhan Kendra,,9309477979,ramsnehi11@gmail.com,Swami Ram Charan Marg Ramdwara ,311001,Bhilwara,Hospitals- Private
+Medicos Centere,Rajwant,9988999364,medicoscentre@yahoo.co.in,Sector 22 Kidwai Nagar Sco 822-823,160022,Chandigarh,Hospitals- Private
+Family Dental Clinic,Dr Vishal Juneja,9811317662,vgjuneja@rediffmail.com,"Sector 3 NULL Plot No 18 ,Huda Market",121004,Faridabad,Hospitals- Private
+Bareja Hospital,Dr Manoj Kumar Bareja,9311588155,barejahospital@gmail.com,Ballabgarh NULL Fatehpur Billoch,121005,Faridabad,Hospitals- Private
+A Co Pet Shop,Mr Rana,9899144799,rkennels@yahoo.com,"Sector 7 NULL Shop No 269,Huda Market",121006,Faridabad,Hospitals- Private
+Super Religare Laboratories,Mr Rahul Yadav,9540500397,ashwinidiagnostics@gmail.com,"Janakpuri NULL Plot No 7/A, Shop No 10,District Center",121001,Faridabad,Hospitals- Private
+Shivam Hospital,Dr Vijay Diwakar,9350865492,shivamhospial@gurgaonyahoo.co.in,Sector 30 Jalwayu Vihar ,122001,Gurgaon,Hospitals- Private
+Sarswati Hospital,Dr.  R P Gupta,9818332699,rpsh1991@hotmail.com,Delhi Road  299 / 2  BSNL Exchange Office,122001,Gurgaon,Hospitals- Private
+Drishti Eye Centre,Mr Dheeraj Gupta,9810613875,drdheeraj@yahoo.com,"New Railway Road NULL Shop No G/5, Saraswati Complex",122001,Gurgaon,Hospitals- Private
+Gribbles India Pvt Ltd,Mr Manish,9871555932,gribblesindia@gmail.com,"Udyog Vihar NULL Plot No 31,Phase 4, Sector 18",122002,Gurgaon,Hospitals- Private
+Life Stream Family Care,Mr Sonu,9999977512,lifestream.srl@gmail.com,"South City II NULL Shop No C152, 1St Floor, Arcadia Shopping Complex,Sohna Road",122002,Gurgaon,Hospitals- Private
+Fortis Hospital,Dr Arvind Sabharwal,9810064273,ashokkumar.sabharwal@rediffmail.com,Sector 44  ,122002,Gurgaon,Hospitals- Private
+Yashlok Medical Centre,Mr Chandan,9971005265,info@yashlokhospital.com,Paharganj  1559,122052,Gurgaon,Hospitals- Private
+Pearl Dental Clinic,Dr Ashmi Saini,9871700368,ashmisaini@rediffmail.com,"Ashok Vihar NULL 11/1,Central Market, Phase-1",122011,Gurgaon,Hospitals- Private
+Jap Health Care,Dr Pradeep Suri,9999883461,drsuri21@yahoo.com,"Chitra Vihar Plot No B/10, Subhash Chowk 301/303",122009,Gurgaon,Hospitals- Private
+Arya Physiotherapy Clinic,Dr Arya Vir Arya,9810123984,deeparya@hotmail.com,"Old Rajinder Nagar NULL Flat No 11/20, Block No A, Basement",122008,Gurgaon,Hospitals- Private
+Chawla Hospital & Laparoscopic Centre,Jitendra Chawla,9829065573,drjchawla@yahoo.com,Adarsh Nagar Frontier Colony 692,302004,Jaipur,Hospitals- Private
+Gopinath Hospital,,9314931114,gopinathhospital@yahoo.com,Pratap Nagar Chetak Marg Sector-8,302030,Jaipur,Hospitals- Private

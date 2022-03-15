@@ -1,0 +1,21 @@
+Name,Email,Mobile,Category,City,Address,State
+Digvijay Singh Kathuria,dig_171969@yahoo.com,9412810054,Entertainment/Media,Agra,"S/O SHRI LATE SOHAN LAL E- ID: 105/10, BALKESHWAR COLONY, OPP. BALDEV DHARAMSHALA AGRA - 282004",UTTAR PRADESH
+NIKHIL MATHUR,nikhsmathur@yahoo.co.in,9897641776,Entertainment/Media,Agra,68 TAGORE NAGAR DAYAL BAGH AGRA,UTTAR PRADESH
+BIRPAL,parihar_ionexchange@yahoo.com,9837009906,Entertainment/Media,Agra,AGRA PUBLIC SCHOOL ARTONI UNIT - II BY PASS ROAD AGRA,UTTAR PRADESH
+Rajesh Kewlani,jyotigrafics@gmail.com,9027197939,Entertainment/Media,Agra,62 Kala Kunj Maruti estate Bodla Road agra,UTTAR PRADESH
+Rahul Sharma,rahulks2004@gmail.com,9897265871,Entertainment/Media,Agra,"H.no. 1-A Madhuvan Enclave, Dayal bagh Agra - 282005",UTTAR PRADESH
+SANDEEP UPADHYAY,sandeepupadhyay_2006@yahoo.co.in,9319530156,Entertainment/Media,Agra,"51/151 WEST AR NAGAR, AGRA. U.P. -INDIA",UTTAR PRADESH
+ANKIT KOCHHAR,ankit0562@yahoo.com,9837252211,Entertainment/Media,Agra,21 VISHKARMA ENCLAVE NEAR DR. IA SCHOOL SHASTRIPURAM ROAD SIKANDRA AGRA,UTTAR PRADESH
+Pradeep Kr Kaushik,pradeepkaushik2@gmail.com,9910155531,"Consumer Durables/FMCG, Entertainment/Media",Agra,"Mahabhadrakali Appartment Flat no 16 plot no-06, sector-13 Dwarka, New Delhi-110075",UTTAR PRADESH
+NeerajTripathi,mailme.neeraj1@rediffmail.com,9897304101,"Entertainment/Media, Printing/Packaging",Agra,"55 B / 1 SP marg, Civil Lines, Allahabad (UP) India",UTTAR PRADESH
+suneelparashar,suneelparashar@gmail.com,9413916460,Entertainment/Media,Agra,"2/134, Housing Board,Jawahar NAgar, Bharatpur (Raj.)",UTTAR PRADESH
+MonikaJain,rjmonika@aol.in,9758802070,Entertainment/Media,Agra,"c/o M.C. Jain 75 Basant Vihar, Kamla Nagar Agra, U.P.-282 005",UTTAR PRADESH
+RAVI SHANKAR,ravishankar130280@gmail.com,9411462503,Entertainment/Media,Agra,"1 C/O V K BAHL H NO 53/47 D, NEWGAH COLONY, KISHANGAR",UTTAR PRADESH
+SHRINATH BHATIA,shrinath83_bhatia@yahoo.co.in,9411460969,Entertainment/Media,Agra,"4/107 KACHERI GHAT, AGRA",UTTAR PRADESH
+dineshpandey,dinesh_pandey584allahabad@rediffmail.com,9456673860,Entertainment/Media,Agra,A-258 Sector-2 ITI Colony Raebareli-229010,UTTAR PRADESH
+RAHUL SINGH,rahul_singhgwl@yahoo.com,9927537501,Entertainment/Media,Agra,,UTTAR PRADESH
+Anujtyagi,anujtyagi_1972@rediff.com,9286119215,Entertainment/Media,Agra,C - 89 sarla bagh extn. dayal bagh agra-5 pincode - 282005,UTTAR PRADESH
+KRISHAN KUMAR,kkagra21@yahoo.co.in,9897548009,"Educational/Training, Entertainment/Media",Agra,"44 panchsheel colony,Dauretha no.1,Shahganj,Agra-282010 U.P.",UTTAR PRADESH
+nawab singh,editingsagar23@gmail.com,9359420888,Entertainment/Media,Agra,"h.n.415,sec-12c,awas-vikas-colony,agra",UTTAR PRADESH
+MANOJ KUMAR SHARMA,srgraphics@rediffmail.com,9412258914,Entertainment/Media,Agra,"68, ADAN BAGH, DAYALBAGH, AGRA 282 005 U.P",UTTAR PRADESH
+DHARMENDRA SINGH,dharmthakur1985@gmail.com,9997823707,Entertainment/Media,Agra,Behind Aradhana Gas Godown Siroli Road Dhanoli Agra,UTTAR PRADESH

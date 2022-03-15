@@ -1,0 +1,21 @@
+Name,Email,Mobile,Category,City,Address,State
+AshutoshMishra,ashutoshmishra@email.com,9310007585,"Business Mgmt./Consultants/Freelancers, Corporate Planning/Consulting/Strategy, Marketing/MR/Media Planning",Faridabad,"C/o K K Mishra, Mandakini Apt II, Plot 338/ UG-3, Sec-3rd A, Vaishali, Ghaziabad, Pin 201010",Faridabad
+PARVEEN ADHIKARI,sweat_sam1111@yahoo.co.in,9953810532,Business Mgmt./Consultants/Freelancers,Faridabad,BHAGAT SINGH COLONY FARIDABAD HARYANA 121004 India,Faridabad
+Sanjay Kapoor,create30@gmail.com,9310262152,"Advertising/PR/Events, Business Mgmt./Consultants/Freelancers, IT/Telecom - Software",Faridabad,"House No. 1691, Sector-8 Faridabad - 121 006 Haryana Mob : +91 9958991223",Faridabad
+Ravinder Arora,arora.trainer@gmail.com,9810247567,Business Mgmt./Consultants/Freelancers,Faridabad,97 Ashoka Enclave Main Sector 34 Faridabad.121003 (Haryana),Faridabad
+Shweta Dua,yogidua@yahoo.com,9911249000,Business Mgmt./Consultants/Freelancers,Faridabad,"C-17,Nehru Ground NIT,Faridabad Harayana",Faridabad
+Gaurav Shreekant,gshreekant1411@indiatimes.com,9210322158,"Business Mgmt./Consultants/Freelancers, Corporate Planning/Consulting/Strategy, Teaching/Education",Faridabad,"H. Ho. 58 (HUDA Plots), Sector - 29, Faridabad - 121008 (Haryana)",Faridabad
+pankajgupta,pankag3459@hotmail.com,9871992323,"Administration, Business Mgmt./Consultants/Freelancers, Security",Faridabad,"876, Sector 16 Faridabad- 121002",Faridabad
+Hemant Dudani,hemantd23@gmail.com,9818402879,"Business Mgmt./Consultants/Freelancers, Sales/Business Development",Faridabad,"H. No. - 585, Sector - 16, Faridabad,Near Sun Flag Hospital,121007, Haryana.",Faridabad
+Lalit Kumar,lalitinsaa@redifmail.com,9350044470,"Business Mgmt./Consultants/Freelancers, Finance, Teaching/Education",Faridabad,2297 sec.16 faridabad haryana,Faridabad
+S Luthra,sushil_141@yahoo.com,9810954281,Business Mgmt./Consultants/Freelancers,Faridabad,,Faridabad
+ANITA BHALLA,anitabhalla29@rediffmail.com,9811717906,"Front Office Staff/Secretarial/Computer Operator, Business Mgmt./Consultants/Freelancers, Administration",Faridabad,"HOUSE NO. 1551/9,",Faridabad
+MANUJARYA,manujarya@gmail.com,9810842223,"Business Mgmt./Consultants/Freelancers, HR/PM/IR/Training",Faridabad,"472, sector -37",Faridabad
+AnuAbraham,mailforanu@gmail.com,9818516444,"Banks/Insurance/Financial Services, Business Mgmt./Consultants/Freelancers, Corporate Planning/Consulting/Strategy",Faridabad,,Faridabad
+ALOK SHARMA,sharmaa@iocl.co.in,9818601855,Business Mgmt./Consultants/Freelancers,Faridabad,383 SECTOR-11D FARIDABAD,Faridabad
+RAVINDER,ravindersharma_davim@yahoo.co.in,9911817588,Business Mgmt./Consultants/Freelancers,Faridabad,"D-2/59, SECTOR-10, FARIDABAD",Faridabad
+Ritu Arora Sehgal,rituarorasehgal@gmail.com,0129) 2263574,Business Mgmt./Consultants/Freelancers,Faridabad,"H.NO- 770, SECTOR- 15-A FARIDABAD HARYANA",Faridabad
+Satya Dev,satyadev0@indiatimes.com,9990014797,"Administration, Business Mgmt./Consultants/Freelancers, Security",Faridabad,,Faridabad
+Manish Singla,singla_manish@in.com,9891124614,Business Mgmt./Consultants/Freelancers,Faridabad,"House No. 424, Jagdish Colony, Mohna Road, Ballabgarh-121004, Distt- Faridabad (Haryana)",Faridabad
+anil bhati,mr.anilbhati08@rediff.com,9999512537,Business Mgmt./Consultants/Freelancers,Faridabad,"vill & p.o-kaurali, teh- Ballabgarh, distt- faridabad haryana india +91-09999512537",Faridabad
+Sudhir Singh,sudhirtanwar71@yahoo.com,9813133241,Business Mgmt./Consultants/Freelancers,Faridabad,vpo. gadpuri distt. palwal haryana,Faridabad

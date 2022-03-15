@@ -1,0 +1,21 @@
+company,name,mobile,email,address,pincode,city,website,category
+Printcon Engineers,Rajnish Chaturvedi,9810008034,printconengineers@yahoo.co.in,Sector 59 HSIDC Industrial Estates C 282,121004,Faridabad,NULL,Offset Printing Machines
+Precision Graphic Engineers,Y P Taneja,9810112900,precision_graphic_in@yahoo.com,Sector 17  ,121001,Faridabad,www.eagleprintingmachine.com,Offset Printing Machines
+Prakash Webtech Pvt Ltd,Prakash Gupta,9811291061,info@prakashoffset.com,Wazirpur  5A 20 / 3,121002,Faridabad,www.prakashoffset.com,Offset Printing Machines
+Surya Polymers,Rajesh Sharma,9417710743,suryapolymers7@gmail.com,Industrial Area Phase II Sector 28 721,160002,Chandigarh,NULL,Offset Printing Machines
+Samnik Garphic System,Ashok Singh,9810734290,mudrikaoffset@yahoo.com,Sector 23 Sanjay Colony E - 35,121001,Faridabad,NULL,Offset Printing Machines
+Pragati Offset Pvt Ltd,NULL,9810273601,info@pragati.com,M G Road Sushant Lok 10,122002,Gurgaon,www.pragati.com,Offset Printing Machines
+Society Paper & Printers,Mr Virender Kumar,9868972200,society.printers@gmail.com,"Basai Road NULL Shop No 545-15,Bada Bazar",122001,Gurgaon,NULL,Offset Printing Machines
+Jain Art Printers,Vijay Jain,NULL,vijay_jain50@yahoo.com,Tonk Road   Godhan Ka Chowk,302015,Jaipur,NULL,Offset Printing Machines
+Khosla Printers,Mr Achint Jain,9810035352,ashintjain@khoslaprinters.com,Sahibabad  61/18,201005,Ghaziabad,www.khoslaprinters.com,Offset Printing Machines
+Deep Precision Equipments,Sukhdeep Singh,9855401312,deep_pre_2000@yahoo.co.in,Janta Nagar NULL 3134/1A,141003,Ludhiana,NULL,Offset Printing Machines
+Baldwin (India) Pvt Ltd,Manish Sharma,9810160080,djha@baldwinindia.com,Sector 18 Maruti Industrial Area 56,122015,Gurgaon,www.baldwinindia.com,Offset Printing Machines
+Color Splash,Ms Shipra Sanchetee,9314050660,shiprasanchetee108@gmail.com,"Sodala   50, Shiv Path,Ram Nagar",302006,Jaipur,www.colorsplashindia.com,Offset Printing Machines
+Sharp Graphics Pvt Ltd,Mr Rajpal,9899049888,info@sharpgraphicsindia.com,Sector 3  B 17,201301,Noida,www.sharpgraphicsindia.com,Offset Printing Machines
+Print Fab India Pvt Ltd,Mr Jatin Sakhuja,9899088089,printfeb@gmail.com,"Sector 63 NULL Factory No 145, B Block",201307,Noida,NULL,Offset Printing Machines
+Surya Graphics,Mr Lalit Tyagi,9210016312,suryagraphics58@yahoo.com,Sector 10 NULL Factory No C 111,201303,Noida,NULL,Offset Printing Machines
+Sumit Engineering Works,Radhe Shyam,9810315719,sumiteng55@yahoo.co.in,Sector 64  B/18,201301,Noida,NULL,Offset Printing Machines
+Rajyog Engineering Pvt Ltd,Yogesh Kumar,9824021987,rajyog@imprinta17.com,Makarpura Gidc Makarpura 893,390014,Vadodara,www.imprinta17.com,Offset Printing Machines
+Shreeji Publicity,Mr  Ghanshyam,NULL,shreejipublicity2003@gmail.com,"Kamrej Crawford Market 54,1st Flr.,santoshi Nagar,Surat Kamrej Road",394180,Surat,NULL,Offset Printing Machines
+Gokul Printers,Mr Dinesh H Shah,NULL,gokulprinters009@gmail.com,"Chhani 26th Main, 40th A Cross Kapad Bazar",391740,Vadodara,NULL,Offset Printing Machines
+Ajit Enterprises, ,9822435080,ajitmore@gmail.com,"Kothrud Books Market 29,Madhav Baug Society",411038,Pune,NULL,Offset Printing Machines

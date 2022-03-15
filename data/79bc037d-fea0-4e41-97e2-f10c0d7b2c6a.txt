@@ -1,0 +1,21 @@
+name,email,mobile,category,city,address
+KANCHANGANGULY,kanchanganguly@gmail.com,9830008146,"Insurance Advisor, Other Banking/Insurance",Silchar,"38/A, MOTIJHEEL AVENUE 1ST FLOOR, KOLKATA-700 074 WEST BENGAL INDIA"
+SourovChowdhury,sourovmail@gmail.com,9954731845,"Database Administration (DBA), Software Engineer, System Administration",Silchar,Krishnapallybandhroad Malda-732101 West Bengal
+FAKHRUL HAQUE,haque100@gmail.com,9864374784,"Desktop Support, Training",Silchar,D S Lane Silchar ASSAM 788004 India
+AGNIMITRACHOUDHURY,agnimitra.choudhury@gmail.com,9401395256,"Administration, Human Resources, Operations",Silchar,Silchar ASSAM 788007 India
+SudeepSarkar,sudeepsarkar1@gmail.com,9810805905,"Administration, Business Development, Training & Development",Silchar,"Flat no. FF-I, First Floor, Plot No. 177, Sector - 5, Vaishali, Distt. Ghaziabad, Pin - 201010"
+narendra kumarsingh,nk.singh@delhiassam.com,9435079109,Freight Forwarders,Silchar,DELHI ASSAM ROADWAYS CORPN.LTD MAIN ROAD PANCHGRAM DIST:HAILAKANDI PIN_788802
+PRAVASH ROUTRAY,pravash.queen@gmail.com,9864648595,"Distribution, Logistics, Material Management",Silchar,S/o- Sj. SUBASH CH. ROUTRAY Bhadrak ORISSA 756122 India
+dorendrasingha,longjamdorendra@yahoo.co.in,9864360956,"Counseling, Special Education Teaching, Teacher",Silchar,"NEAR HOSPITAL, WARD NO. 11, P.O. LAKHIPUR, DIST. CACHAR ASSAM PIN 788103"
+Jyoti Trehan,trehen.jyoti@yahoo.com,9868659754,Other HR/PM/IR/Tng,Silchar,"H.No. C 1/30, Shiv Vihar New Delhi DELHI 11081 India"
+swapansaikia,swapnasaikia@yahoo.com,9401124859,Orthopaedics,Silchar,"Dept . of Orthopedics sichar Medical Collge, silchar Assam , India"
+RajibRoy,rajib5_roy@rediffmail.com,9678220885,Product /Brand Management,Silchar,"C/O:-A.C. CHANDA.MAHAPRVU LANE,RANGERKHARI,NEAR ""TIRTHOMOYEE DRUGS,SONAI ROAD,SILCHAR-788005, CACHAR,ASSAM"
+Abineshkumar,abineshkumar12@gmail.com,9401632188,Others,Silchar,"C/o. Sri. Anand kumar CFRI, Post- FRI, Dhanbad (Jharkhand), India Pin- 828108"
+PushpakBhattacharjee,bhattacharjee.pushpak@gmail.com,9178317918,Other Fresh Grad,Silchar,S/O- Mr. Ram Mohan Bhattacharjee ASSAM 788007 India
+PALAK DEB,palak_deb@yahoo.com,9435074342,Channel Sales,Silchar,"C/o- PALAK DEB., UTTARAYAN COMPLEX, NATIONAL HIGHWAY SILCHAR ASSAM 788012 India"
+BidhanDey,dey_bidhan@rediffmail.com,9435469480,"Customer Support, H/W Installation/Maintenance",Silchar,"C/o Mrs. Khoam Rani Dey. Sarada Lane, Santipara, Rongpur, Silchar-9, Dist.-Cachar (Assam)."
+Suparna Sinha,suparnaresides@gmail.com,9707886917,"Customer Service, Marketing, Other Fresh Grad",Silchar,"C/o Narendra Sinha Qt No.:- A-128, Old Township HPC/CPM, Panchgram Dist: - Hailakandi Assam. Pin 788802"
+Anandsingha,anand.meitai@gmail.com,9871472017,Administration,Silchar,"itkhola manipuri para silchar-1, cachar- assam"
+RAJA DAS,raj_ahead0785@yahoo.co.in,9883234464,"Administration, Operations, Accounting & Finance",Silchar,"Link Road, Lane no-09 Silchar ASSAM 788006 India"
+PritamChoudhury,pritamchoudhury@aol.com,9864186560,Other HR/PM/IR/Tng,Silchar,"House No-17, Lane No-9, Link Road,Silchar-788006, Cachar, Assam"
+Ashapurna Das,momz_07@rediffmail.com,9401377071,Administration,Silchar,"Tarapur, Narsingh Road, Silchar-3 ,Dist -Cachar, ASSAM"

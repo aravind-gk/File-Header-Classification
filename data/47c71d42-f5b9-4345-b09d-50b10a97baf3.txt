@@ -1,0 +1,9 @@
+LineNumber,InvoiceNumber,TransactionId,TransactionRecordType,PolicyNumber,PurchaseDate,PrimaryTravelerName,NumberOfTravelers,PackageName,PackageSubtitleName,DepartureDate,ReturnDate,AgentName,AgentCode,FacilitatingAgentCode,SubmissionTypeName,PolicyAmount,PolicyFees,TransactionAmount,CommissionRate,CommissionAmount,NetAmount,PartnerSettledAmount,Comments
+1,23,a2B16000000AWMkEAO,Payment,200002377,10/28/2015,David Taylor,1,Leisure Plus,,3/5/2016,3/12/2016,Stephen Hall,AA0810,,mobile.bhtp.com,188.01,0,188.01,30,56.4,131.61,131.61,
+2,23,a2B16000000AWMpEAO,Payment,200002378,10/28/2015,Nancy Taylor,1,Leisure Plus,,3/5/2016,3/12/2016,Stephen Hall,AA0810,,mobile.bhtp.com,188.01,0,188.01,30,56.4,131.61,131.61,
+3,23,a2B16000000AWMaEAO,Payment,200002375,10/29/2015,Gabriel Cohn,1,Leisure Plus,,1/6/2016,1/13/2016,Stephen Hall,AA0810,,mobile.bhtp.com,116.82,0,116.82,30,35.04,81.78,81.78,
+4,23,a2B16000000AWMfEAO,Payment,200002376,11/5/2015,Pete Harth,1,Leisure Plus,,2/25/2016,2/29/2016,Stephen Hall,AA0810,,mobile.bhtp.com,138.51,0,138.51,30,41.55,96.96,96.96,
+5,23,a2B16000000AWpwEAG,Payment,200002600,11/6/2015,Jack Werner,1,Leisure Plus,,1/6/2016,1/13/2016,Stephen Hall,AA0810,,mobile.bhtp.com,62.91,0,62.91,30,18.87,44.04,44.04,
+6,23,a2B16000000AWpmEAG,Payment,200002598,11/8/2015,Patricia Christiana,1,Leisure Plus,,3/5/2016,3/12/2016,Stephen Hall,AA0810,,mobile.bhtp.com,188.01,0,188.01,30,56.4,131.61,131.61,
+7,23,a2B16000000AWphEAG,Payment,200002597,11/15/2015,julian chahin,1,Leisure Plus,,2/25/2016,2/29/2016,Stephen Hall,AA0810,,mobile.bhtp.com,138.51,0,138.51,30,41.55,96.96,96.96,
+8,23,a2B16000000AWprEAG,Payment,200002599,11/17/2015,Amy Vasington,1,Leisure Plus,,3/5/2016,3/12/2016,Stephen Hall,AA0810,,mobile.bhtp.com,188.01,0,188.01,30,56.4,131.61,131.61,

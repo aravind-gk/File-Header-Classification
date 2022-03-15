@@ -1,0 +1,21 @@
+name,email,mobile,city,gender,address
+abusiddique,abubakkar667@yahoo.co.in,9755205668,Bhilai-Durg,Male,"c/o Manish Khandare, Gali No. 4, Shanker Nagar, Durg (CG)"
+virendrasingh,virendra_cs@yahoo.co.in,9826126171,Bhilai-Durg,Male,"Virendra Pratap Singh , Shanti nager,bhilai. pin code-490023."
+MOHITTAWAR,mohit_tawar@hotmail.com,9827256482,Bhilai-Durg,Male,"c/o Mr. Ajit Singh Gupta, Opp. Police Station, Kachhery Road, Durg,CG. 4001."
+narendra varma,pnvarma73@yahoo.com,9981122302,Bhilai-Durg,Male,"no,15,jalvayu vihar,kukatpally,hyderabad.500072"
+DR ABHISHEKSHRIVASTAVA,doctorshrivastava@yahoo.com,9755888685,Bhilai-Durg,Male,
+ran vijaysingh,dr_rvs@rediffmail.com,96804109,Bhilai-Durg,Male,"Tarini Cancer Hospital ,Alwar"
+Dr SandeepKulkarni,sak235@rediffmail.com,9755792071,Bhilai-Durg,Male,"339,GAJANAN SOCIETY,GURUPRASAD NAGAR,DATTAWADI,AMRAVATI ROAD, NAGPUR"
+Ajay Chaurasia,ajay_mousmi@rediffmail.com,9827817656,Bhilai-Durg,Male,"""Aashish Niwas, Block-3, Street-6, Dixit Colony, Kosa Nagar, Bhilai, Distt Durg CHHATTISGARH 490022 India"
+NITINR PATANI,drpatani76@yahoo.co.in,9981997196,Bhilai-Durg,Male,"15/114, KALAPINAGAR UMIYA NAGAR CROSS ROAD E REGISTRATION NO: G-30814 WITH GUJARAT"
+kamalkant meshram,kamalkant1509@rediffmail.com,9893301770,Bhilai-Durg,Male,"MIG 356,vivek vihar colony,borsi,durg. c.g."
+SourabhKhare,sourabhkhare@gmail.com,94060022,Bhilai-Durg,Male,"L.I.G. - 403, Padmanabhpur, Durg (C.G.)"
+HUKUM CHAND yadav,hukum.yadav@gmail.com,96061450,Bhilai-Durg,Male,yadav cycle stores new market ahiwara distt-durg
+SudhirDhamane,sdhamane@yahoo.com,9860431374,Bhilai-Durg,Male,"c/o D. M. Sonaye C-88, Housing Board Society, Industrial Area, Nadini Road, Bhilai, C.G."
+brijeshupadhyay,brijesh_upadhyay@rediffmail.com,9617775575,Bhilai-Durg,Male,Brijesh .K.Upadhyay 09960736449(s)
+BARRIKANAKARAJU,vivek_garg87@yahoo.com,9713416200,Bhilai-Durg,Male,CONTRACTORS COLONY BHILAI CHHATTISGARH 490023 IN
+rajeshs,rajesh5063@gmail.com,9685790060,Bhilai-Durg,Male,"M.I.G-2, 2622, Housing Board, Bhilai, Chattisgarh."
+SourabhKar,sourabh_kar2002@yahoo.com,90440081,Bhilai-Durg,Male,"m.i.g-2/121,Hudco,bhilai,Dist-Durg,Chhattisgarh."
+Manas Sen,sen_mans24@yahoo.com,9098543104,Bhilai-Durg,Male,"C/o J R Bawankure. Street-7, Shanti Nagar. Bhilai Chhattishgarh."
+umamaheshwar rao,uma.bhubesh@gmail.com,79045321,Bhilai-Durg,Male,"L.I.G.-1/737,Housing Board,Industrial Estate,Bhilai Distt- Durg -490026 (Chattisgarh)"
+pratap singh thakur,pratap_charu@rediffmail.com,79526957,Bhilai-Durg,Male,c/o keshar singh raghuwanshi b.n.c mills bunglow rajnandgaon(c.g)

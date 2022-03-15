@@ -1,0 +1,21 @@
+Name,Email,Mobile,Category,City,Address,State
+amit kumar,amitbhai_bgp@indiatimes.com,9431090405,"Advertising/PR/Events, Banks/Insurance/Financial Services, Marketing/MR/Media Planning",Bhagalpur,"Amit Kumar s/o Sri Anil Kumar Mishra Road No.1, Tulsinagar Tilkamanjhi,BHAGALPUR-812001 (Bihar)",BIHAR
+Sandeep saini,sandeeprbs.saini@gmail.com,9015090962,Advertising/PR/Events,Bhagalpur,House No 219 Sangam vihar New Delhi Delhi IN,BIHAR
+amarnathmishra,amarnath_bhi@rediffmail.com,9430430411,Advertising/PR/Events,Bhagalpur,"G.N.Mukherjee Road, Naya Tola , Bhikanpur Gumti No. 1 Bhagalpur ,",BIHAR
+Rahul kumar,rahulmail27@gmail.com,9934054553,Advertising/PR/Events,Bhagalpur,BHAGALPUR,BIHAR
+Rajesh Kamal,sanjeev.pnscruise@gmail.com,9953888040,Advertising/PR/Events,Bhagalpur,"Rajesh Kamal,C/o Kumar Dubey, Bishhari Sthan,Bhikhanpur Gumti No.2, Bhagalpur.",BIHAR
+ASHISH JAISWAL,msg_to_ashish@yahoo.co.in,9334131304,Advertising/PR/Events,Bhagalpur,"Address : Ashish Jaiswal, C/o Kumar Dubey, Bishhari Sthan, , Bhikhanpur Gumti No.2, Bhagalpur",BIHAR
+vinita pandey,vinitasharma01@gmail.com,9934106391,"Advertising/PR/Events, Teaching/Education",Bhagalpur,"C/o Sri(Dr.) Bijoy Kumar Pandey (Advocate),Tilkamanjhi,Hatiya, Bhagalpur,Bihar.",BIHAR
+seshu rao,jk_pp@hotmail.com,9989207499,Advertising/PR/Events,Bhagalpur,bhu,BIHAR
+Sudhanshu Srivastava,sudhanshu_pes@yahoo.com,9905635656,"Administration, Advertising/PR/Events",Bhagalpur,"C/o Sri Ravi Shanker Sahay, Janki Pd. Lane, Mundichak BHAGALPUR-812001, BIHAR",BIHAR
+manish kumar,manishkumarmonu@yahoo.com,9934443315,Advertising/PR/Events,Bhagalpur,"Manish Kumarc/o R.N Mishra,53,tulsinagar,bankcolony,tilkamanjhi,bhagalpur,Bihar-812001",BIHAR
+Manish Kumar,manishmads@rediffmail.com,9334478501,Advertising/PR/Events,Bhagalpur,"India Inside campus, bengali tola, maniksharkar, bhagalpur.",BIHAR
+prem jyoti,prem_bca1985@rediffmail.com,9851652373,"Administration, Advertising/PR/Events, Fresh Graduate-No Functional Area exp.",Bhagalpur,"line para,mahavir marg at+post-kishanganj Bihar 855107",BIHAR
+rtyu ksdfklsadfsagj,gfjhdjhf@bhsdjsldk.com,9988776554,Advertising/PR/Events,Bhagalpur,"kjdngklsdnglksadg ., asmn lkasdf msdfmlsa;,df.,lm;lmsdf;,msdfghgh508230 andhra pradesh.",BIHAR
+Ujjwal Kumar,ujjwalkumar11@yahoo.in,9931331477,Advertising/PR/Events,BIHAR,AT+PO-PAPROUR BEGUSARAI,BIHAR
+nazar salik,nazar.ara2007@rediffmail.com,9709666041,"Advertising/PR/Events, Front Office Staff/Secretarial/Computer Operator",BIHAR,"Icici Pru life Ins Co.Ltd, Shop No 42,43 Civil Lines, Near Reliance Petrol Pump. Raibareily 229001",BIHAR
+ANUNAY mishra,anunaybii@gmail.com,9730951448,Advertising/PR/Events,BIHAR,"SATYA NAGAR, BEHIND BLOCK QUARTER GODDA JHARKHAND",BIHAR
+AMIT KUMAR,niiftyamit_kittu@yahoo.com,9899732049,Advertising/PR/Events,BIHAR,"SASARAM, ROHTAS BIHAR",BIHAR
+Abishake Kumar,luv.mikkey@gmail.com,9955303857,"Hotel/Restaurant, Advertising/PR/Events",BIHAR,"K.B.LAL ROAD NATHNAGAR, BHAGALPUR BIHAR",BIHAR
+WASIM AHMAD,mi_2006@rediffmail.com,9905512210,Advertising/PR/Events,BIHAR,"C/O HINDUSTAN PRINT, NALA ROAD, NEAR P.P. COMPOUND RANCHI - 1 JHARKHAND",BIHAR
+sunil singh,sunilji_ara@yahoo.com,9540414042,"Administration, Advertising/PR/Events, HR/PM/IR/Training",BIHAR,"R.P. SINGH RTD. DY.SP. MAHARAJA HATA ARA, BIHAR.",BIHAR

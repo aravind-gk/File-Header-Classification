@@ -1,0 +1,6 @@
+PSM_COLINDEX,PSM_COLVALUE,PSM_COLPARENT
+0,com.informatica.project.repository.deployer.isp.service.dataupgrade.dq.OperationNamesCallback,1
+1,com.informatica.project.repository.deployer.isp.service.dataupgrade.dq.KeyGenCallback,1
+2,com.informatica.project.repository.deployer.isp.service.dataupgrade.dq.DqUpgradeCallback,1
+3,com.informatica.project.repository.deployer.isp.service.dataupgrade.relational.RelationalUpgradeCallback,1
+

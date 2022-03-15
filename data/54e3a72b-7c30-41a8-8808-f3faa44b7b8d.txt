@@ -1,0 +1,21 @@
+Reddy,8050986493,399000,Bengaluru,Karnataka,Cars
+Reddy,8050986493,399000,Bengaluru,Karnataka,Cars
+Ranjan Ku Das,9861124737,900000,Paradip,Orissa,Cars
+Ranjan Ku Das,9861124737,900000,Paradip,Orissa,Cars
+Bhanu arora,9811117447,1350000,Delhi,Stateofdelhi,Cars
+Bhanu arora,9811117447,1350000,Delhi,Stateofdelhi,Cars
+Prabhjot  Singh,9988052385,315000,Tarantaran,Punjab,Cars
+Niranjan Pasari,9823078100,450000,Nagpur,Maharashtra,Cars
+pankaj ghai,9811857630,120000,Delhi,Stateofdelhi,Cars
+Lucky Grewal,9999102044,299000,Delhi,Stateofdelhi,Cars
+Pintu Saini,9915182666,190000,Jalandhar,Punjab,Cars
+Bapi,8013298296,115000,Kolkata,Westbengal,Cars
+Utkarsh Bansal,9999254030,375000,Delhi,Stateofdelhi,Cars
+Shubham,9792799770,475000,Allahabad,Uttarpradesh,Cars
+Nikhil,8802249104,180000,Gurgaon,Haryana,Cars
+Maruti,7086772770,120000,Sibsagar,Assam,Cars
+rajsingh tez,8447043723,500000,Bengaluru,Karnataka,Cars
+Khan Baba,8082171786,210000,Mumbai,Maharashtra,Cars
+Ramesh961981,7200230274,95000,Chennai,Tamilnadu,Cars
+Bisht ji,7042473070,95000,Ghaziabad,Uttarpradesh,Cars
+Khatri,9920063634,875000,Mumbai,Maharashtra,Cars

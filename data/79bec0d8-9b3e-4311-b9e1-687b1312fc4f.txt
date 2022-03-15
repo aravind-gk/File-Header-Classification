@@ -1,0 +1,21 @@
+TITLE,FIRSTNAME,MIDDLENAME,LASTNAME,Sfx,PARISH,TOWN,BirthDate,SOC_SEC,Standing,Category,INCARD,Ordination
+Rev.,Joseph,John,Adamson,,St. Edward,"Pine Hill, NJ",06-Jun-41,156-32-9554,Diocesan,Pastor,TRUE,26-May-90
+Rev. Msgr.,Edward,Daniel,Alleyne,,Sacred Heart Residence,"Cherry Hill, NJ",14-Jun-28,147-20-8839,Diocesan,Retired,TRUE,04-Jun-60
+Rev.,Patsy,C.,Amabile,,Sacred Heart,"Vineland, NJ",24-Jun-42,070-32-6296,Diocesan,Pastor,TRUE,20-Jan-73
+Rev.,Arthur,T.,Anderson,,Sacred Heart Residence,"Cherry Hill, NJ",31-Jul-31,144-24-0916,Diocesan,Retired,TRUE,31-May-58
+Rev.,Sebastian,V.,Annino,,St. Mary,"Rosenhayn, NJ",07-Aug-33,040-26-1024,Diocesan,Chaplain,TRUE,27-May-61
+Rev.,Alfred,S.,Aversa,,,,02-Jul-58,202-40-9437,Diocesan,Destitute,TRUE,28-May-88
+Rev.,Dennis,William,Bajkowski,,Queen of the Apostles,"Pennsville, NJ",03-Mar-45,175-36-1620,Diocesan,Administrator,TRUE,22-May-71
+Rev.,Christopher,Thomas,Bakey,,St. Martin de Porres,"Hammonton, NJ",31-May-61,145-60-5149,Diocesan,Pastor,TRUE,21-Nov-98
+Rev.,Thomas,John,Barcellona,,Our Lady of Grace,"Somerdale, NJ",03-Jun-56,153-50-9962,Diocesan,Pastor,TRUE,20-May-95
+Rev.,James,Francis,Barry,,St. Mary,"Salem, NJ",06-Feb-41,160-32-4291,Diocesan,Pastor,TRUE,20-May-67
+Rev. Msgr.,Charles,Philip,Barth,,St. Anthony of Padua,"Hammonton, NJ",27-Aug-29,143-22-3880,Diocesan,Retired,TRUE,26-May-56
+Rev.,James,Louis,Bartoloma,,Casa Santa Maria,"00187 Rome, Italy",16-Jul-76,155-82-8367,Diocesan,Outside,TRUE,24-May-03
+Rev.,Lewis,Alexander,Battisti,,Garden Lake Park #128,"Cape May Court House, NJ",19-May-36,210-28-0102,Diocesan,Retired,TRUE,14-Apr-62
+Rev.,Charles,Stephen,Bean,,St. Mary Catholic Home,"Cherry Hill, NJ",10-May-34,121-26-5327,Diocesan,Retired,TRUE,19-May-62
+Rev.,David,Elroy,Beebe,,Country Club Estates,"Newfield, NJ",07-Feb-35,161-28-5303,Diocesan,Retired,TRUE,27-May-61
+Rev.,John,Peter,Bernard,,,"North East, Maryland",05-Jan-30,148-22-0240,Diocesan,Destitute,TRUE,19-May-62
+Rev.,James,Francis,Betz,,CH(LTC) Betz,APO AE 09192,30-Aug-45,185-38-2053,Diocesan,Military,TRUE,22-May-71
+Rev.,William,James,Bleiler,,St. Michael,"Cedarville, NJ",04-Dec-33,154-24-1386,Diocesan,Retired,TRUE,06-Jan-66
+Rev.,John,Francis,Bloh,,,"Sicklerville, NJ",18-Oct-31,173-26-3574,Diocesan,Destitute,TRUE,16-May-64
+Rev.,Marjan,Louis,Bober,,,"Palm Bay, FL",28-Mar-34,137-26-4699,Diocesan,Retired,TRUE,25-May-63

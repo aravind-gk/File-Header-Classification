@@ -1,0 +1,21 @@
+name,email,mobile,city,category,address
+PronabHalder,pronabhalder@yahoo.com,9099963205,Ankleshwar,"Administration, Facilities management, Office Services","Pronab Halder, Vill- Tunighata, P.O.- Kumra Kashipur, Dist- North 24 Parganas, W.B. India. Pin- 743274"
+DEV VARTA MUKHERJEE,mukherjeedv@gmail.com,9099945627,Ankleshwar,"Formulation, Research Scientist","A-202, Parth Avenue, Opp.- Gattu Vidhyalaya, New Colony, GIDC, Ankleshwar-393002, Bharuch. (Gujarat)"
+ranjanmohapatra,ranjanmhptr@yahoo.co.in,9998313032,Ankleshwar,Cost Reduction,"S/O RAMA CH.MOHAPATRA, BEBARTA DHEPO, GUNUPUR, RAYAGADA, ORISSA"
+SHAHManmathkumar,shaishav_17485@yahoo.com,9428586836,Ankleshwar,Accounting & Finance,Ankleshwar GUJARAT 393001 India
+quadir khalife,imran_khalife@yahoo.com,9873537862,Ankleshwar,Civil,mumbay
+HEMANT BARHATE,heman20860@yahoo.com,9825415229,Ankleshwar,Production/Manufacturing/Maintenance,"B/13, GIL COLONY . GIDC, ANKLESHWAR 393 002 DIST. BHARUCH"
+pinakin sheth,pinak_sheth@yahoo.com,9825679658,Ankleshwar,"Process/Chemical, Project Management",
+SUNNY AHUJA,rituraj_sunny24@yahoo.co.in,9426353735,Ankleshwar,"Operations, Production/Manufacturing/Maintenance","38, TRILOKNAGAR SOCIETY, NEAR AYURVEDIC COLLEGE, WAGHODIA ROAD VADODARA: 390019"
+ramini khare,rk_khare@hotmail.com,9428333377,Ankleshwar,"Oil & Gas, Plant/Facilities/Maintenance","616, Gandhar Towers,ONGC Colony, Ankleshwar-393010. Distt Bharuch. (Guj) India"
+shashankdesai,desaishashank@rediffmail.com,9978296945,Ankleshwar,"Quality Assurance, Quality Control","8/B Prerana Society, Tithal Road, Valsad - 396001. Gujarat (India)"
+PratikVerma,pratik_verma@yahoo.com,9725014316,Ankleshwar,"Events & conferences, Marketing Strategy, Product /Brand Management","B17, AVDHOOT NAGAR-1 BHARUCH, GUJRAT"
+deepaksonawane,dipak_sonawane2983@yahoo.co.in,9879037765,Ankleshwar,"Basic Research, Chemical Research, Chemist, Quality Assurance/ Control",at post pahur peth tal jamner dist jalgaon maharashtra 424205
+jignesh chauhan,chauhan.jignesh@yahoo.com,9725771584,Ankleshwar,"H/W Installation/Maintenance, System Administration, System Analyst/Tech Architect, Other IT Hardware","SHRI RANG KRUPA , A=22\23, NEW ANAND NAGAR SOCIETY, BHARUCH 392001. DIST. BHARUCH GUJARAT"
+Ashwin Oza,ashwin20477@gmail.com,9825700241,Ankleshwar,"Hardware Design, Network Planning, Other IT Hardware","Resi. Plot No. 406/13,Sardar Patel Society - 1,Near Lion School,G.I.D.C.,Ankleshwar 393002. GUJARAT , INDIA"
+sanjaysapate,srsapate_1@indiatimes.com,9227402185,Ankleshwar,"Factory Head, Operations, Production, Production Management, Production/Manufacturing/Maintenance","c/o.D K Ashtekar,Chavdar tale, Mahad,Dist raigad,402301"
+ankurpatel,ap_15@ymail.com,9974924394,Ankleshwar,Other Fresh Grad,"A/17, welcom nagar, Opp.Gymkhana Ankleshwar GUJARAT 393010 India"
+DarshilMehta,chunksddit@gmail.com,9998036118,Ankleshwar,Design Engineering,"B/7,Vidya Appt,Inside Prabhukunj Soc.,Ghodasar Road,Maninagar,Ahmedabad-380008."
+Purvesh Savalia,purvesh_00@yahoo.com,9925018282,Ankleshwar,Relationship Mgmt,"Plot No:401/19/A, Alkapuri Socity, G.I.D.C., Ankleshwar-393002"
+RANA BHAVESH KANTILAL,bhavesh_k_rana@yahoo.com,9824454568,Ankleshwar,"Electrical/Electronic, Engineering","BHAVESH KANTILAL RANA SACHIN / PARDI, AT & PO. SACHIN, SURAT, GUJARAT, PIN-394230"
+mahmad yahyabijabhai,mhd_yahya4u@hotmail.com,9426129707,Ankleshwar,"Client Server, Customer Support, Database Administration (DBA), Desktop Support, ERP/CRM, Internet/E-commerce, Network Administration, Network Planning, System Administration, System Security",at.po-piraman Ta-ankleshwar Di-bharuch

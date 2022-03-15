@@ -1,0 +1,21 @@
+link_id,link_cid,link_gid,link_scid,link_url,link_title,link_order,link_status
+1,1,5,1,http://www.torah.org/learning/torahportion.php3,Torah.org,0,1
+2,1,5,1,http://www.aish.com/tp/?s=bc,Aish Hatora,0,1
+3,1,5,2,http://www.chabad.org/kids/default_cdo/jewish/Kids.htm,Jewish Kids,0,1
+4,1,5,2,http://www.torahtreasure.com/,Torah Treasure,0,1
+5,2,5,3,http://www.crcweb.org/agency_list.php,CRC,0,1
+6,1,5,1,http://www.ou.org/torah/,Orthodox Union,0,1
+7,1,5,1,https://adasisraelhamilton.shutterfly.com/rabbisblog,Short Vorts by Rabbi Green,0,1
+8,1,5,2,http://www.aish.com/tp/pak/fp/?mobile=yes,Shabbat Table Stories & Discussions,0,1
+9,1,5,2,http://www.aish.com/tp/pak/cp/,Parsha Colouring Pages,0,1
+10,1,5,2,http://www.chabad.org/multimedia/media_cdo/aid/365676/jewish/Itche-Kadoozy.htm/mobile/false,Itche Kadoozy Show,0,1
+11,1,5,5,http://koshertube.com/videos/index.php?option=com_seyret&Itemid=4&catid=171,Kosher Tube,0,1
+12,1,5,5,http://www.simpletoremember.com/,Simple to Remember,0,1
+13,1,5,5,http://www.webyeshiva.org/,Web Yeshiva,0,1
+14,1,5,5,http://www.ou.org/torah/,OU Torah,0,1
+15,1,5,5,http://www.yutorah.org/,YU Torah,0,1
+16,1,5,6,http://www.aish.com/h/,Aish,0,1
+17,1,5,6,http://www.chabad.org/holidays/default_cdo/jewish/holidays.htm,Chabad,0,1
+18,1,5,6,http://www.ou.org/holidays/,Orthodox Union,0,1
+19,1,5,7,http://www.chabad.org/library/bible_cdo/aid/63255/jewish/The-Bible-with-Rashi.htm,Tanach Hebrew / English (with Rashi),0,1
+20,1,5,7,http://www.sefaria.org/,Sefaria Open Source Jewish Library (Hebrew / English),0,1
